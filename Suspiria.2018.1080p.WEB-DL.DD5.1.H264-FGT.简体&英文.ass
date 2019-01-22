@@ -1,0 +1,1325 @@
+﻿[Script Info]
+; // The sub is created by AssToolkit
+; // AssToolkit is an ASS Converter designed by David C.
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:0
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正黑体_GBK,20,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,2,1,2,5,5,2,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:01:10.63,0:01:12.63,Default,NTP,0,0,0,,{\fs16\c&H26F4FF&\xbord60\ybord3\blur20\t(0,500,1,\blur0)\move(461,216,308,216,0,300)}翻译：灰灰是菇凉
+Dialogue: 1,0:01:12.63,0:01:14.63,Default,NTP,0,0,0,,{\fs16\c&H26F4FF&\xbord60\ybord3\blur20\t(0,500,1,\blur0)\move(461,216,308,216,0,300)}翻译：小酸奶
+Dialogue: 1,0:01:14.63,0:01:16.63,Default,NTP,0,0,0,,{\fs16\c&H26F4FF&\xbord60\ybord3\blur20\t(0,500,1,\blur0)\move(461,216,308,216,0,300)}德语：Margaery liulifox
+Dialogue: 1,0:01:16.63,0:01:18.63,Default,NTP,0,0,0,,{\fs16\c&H26F4FF&\xbord60\ybord3\blur20\t(0,500,1,\blur0)\move(461,216,308,216,0,300)}校对：小酸奶
+Dialogue: 1,0:01:18.63,0:01:20.63,Default,NTP,0,0,0,,{\fs16\c&H26F4FF&\xbord60\ybord3\blur20\t(0,500,1,\blur0)\move(461,216,308,216,0,300)}后期：吉吉
+Dialogue: 0,0:01:05.08,0:01:07.66,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}第一幕\N1977年
+Dialogue: 0,0:01:42.47,0:01:44.67,*Default,NTP,0000,0000,0000,,帕特里夏\N{\fn微软雅黑\fs14}Patricia.
+Dialogue: 0,0:01:54.78,0:01:59.29,*Default,NTP,0000,0000,0000,,我有个病人五分钟后到\N{\fn微软雅黑\fs14}So, I have a patient that is coming in five minutes.
+Dialogue: 0,0:01:59.45,0:02:00.77,*Default,NTP,0000,0000,0000,,我可以让他一会儿再过来\N{\fn微软雅黑\fs14}I can ask him to come back later.
+Dialogue: 0,0:02:00.93,0:02:02.69,*Default,NTP,0000,0000,0000,,请进\N{\fn微软雅黑\fs14}Please.
+Dialogue: 0,0:02:23.95,0:02:28.26,*Default,NTP,0000,0000,0000,,我脑子里一直萦绕着一首歌  声音很响\N{\fn微软雅黑\fs14}This song, it's stuck in my head, and it's so loud.
+Dialogue: 0,0:02:28.25,0:02:30.26,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}正在诊疗
+Dialogue: 0,0:02:33.95,0:02:35.28,*Default,NTP,0000,0000,0000,,您明白我的意思吗\N{\fn微软雅黑\fs14}Do you see what I mean?
+Dialogue: 0,0:02:54.08,0:02:56.63,*Default,NTP,0000,0000,0000,,他们还是会保住她的命\N{\fn微软雅黑\fs14}They're going to try to keep her alive after all.
+Dialogue: 0,0:02:56.80,0:02:57.87,*Default,NTP,0000,0000,0000,,马科斯\N{\fn微软雅黑\fs14}Markos?
+Dialogue: 0,0:03:00.96,0:03:03.03,*Default,NTP,0000,0000,0000,,快  赶在那帮小伙子抢走座位之前占住座位\N{\fn微软雅黑\fs14}Quick! Get the seats over there before the boys take them.
+Dialogue: 0,0:03:05.24,0:03:07.28,*Default,NTP,0000,0000,0000,,那个吉他手真帅\N{\fn微软雅黑\fs14}The guitarist is so cute.
+Dialogue: 0,0:03:18.00,0:03:19.15,*Default,NTP,0000,0000,0000,,我是对的\N{\fn微软雅黑\fs14}I was right.
+Dialogue: 0,0:03:22.74,0:03:24.36,*Default,NTP,0000,0000,0000,,她们是女巫\N{\fn微软雅黑\fs14}They are witches.
+Dialogue: 0,0:03:36.95,0:03:39.11,*Default,NTP,0000,0000,0000,,我得让莎拉快跑\N{\fn微软雅黑\fs14}I have to tell Sara to get out of there.
+Dialogue: 0,0:03:41.95,0:03:44.23,*Default,NTP,0000,0000,0000,,我只关心她\N{\fn微软雅黑\fs14}She's the only girl I actually give a damn about.
+Dialogue: 0,0:03:46.75,0:03:49.15,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}她的幻觉加深了恐惧\N她坚定不移地相信自己构建的神话
+Dialogue: 0,0:03:49.34,0:03:50.30,*Default,NTP,0000,0000,0000,,要是我扔下她跑了\N{\fn微软雅黑\fs14}If I leave without her,
+Dialogue: 0,0:03:50.46,0:03:52.62,*Default,NTP,0000,0000,0000,,她们下次也许就会选她\N{\fn微软雅黑\fs14}they may pick her next.
+Dialogue: 0,0:03:52.78,0:03:54.06,*Default,NTP,0000,0000,0000,,或者奥尔加\N{\fn微软雅黑\fs14}Or Olga.
+Dialogue: 0,0:03:54.22,0:03:55.78,*Default,NTP,0000,0000,0000,,我还得警告奥尔加\N{\fn微软雅黑\fs14}I should warn Olga, too.
+Dialogue: 0,0:03:58.97,0:04:00.49,*Default,NTP,0000,0000,0000,,奥尔加已经有所察觉\N{\fn微软雅黑\fs14}Olga's already figured out things.
+Dialogue: 0,0:04:00.65,0:04:03.09,*Default,NTP,0000,0000,0000,,她看到她们是怎么诱骗我的了\N{\fn微软雅黑\fs14}She saw how they groomed me.
+Dialogue: 0,0:04:05.09,0:04:08.24,*Default,NTP,0000,0000,0000,,那栋楼里还有很多你们看不见的东西\N{\fn微软雅黑\fs14}There's more in that building than what you can see.
+Dialogue: 0,0:04:18.63,0:04:20.87,*Default,NTP,0000,0000,0000,,战争结束后他们就一直暗中活动\N{\fn微软雅黑\fs14}They've been underground since the war.
+Dialogue: 0,0:04:25.91,0:04:28.66,*Default,NTP,0000,0000,0000,,你觉得他们现在能监听你吗\N{\fn微软雅黑\fs14}And you think they can hear you now?
+Dialogue: 0,0:04:46.76,0:04:49.24,*Default,NTP,0000,0000,0000,,一开始  她们对我很好\N{\fn微软雅黑\fs14}At the beginning, they gave me things.
+Dialogue: 0,0:04:49.70,0:04:53.22,*Default,NTP,0000,0000,0000,,我生活很有条理  能好好睡觉\N{\fn微软雅黑\fs14}Perfect balance, perfect sleep.
+Dialogue: 0,0:04:53.38,0:04:55.82,*Default,NTP,0000,0000,0000,,他们跟我们用心交流\N{\fn微软雅黑\fs14}Talking with our minds.
+Dialogue: 0,0:04:55.98,0:04:58.06,*Default,NTP,0000,0000,0000,,但后来她们剪去了我的头发\N{\fn微软雅黑\fs14}But they took my hair.
+Dialogue: 0,0:04:59.57,0:05:01.85,*Default,NTP,0000,0000,0000,,拿走了我的尿  他们...\N{\fn微软雅黑\fs14}They took my urine. They...
+Dialogue: 0,0:05:02.01,0:05:04.53,*Default,NTP,0000,0000,0000,,她们拿走了我的眼睛\N{\fn微软雅黑\fs14}They took my eyes.
+Dialogue: 0,0:05:04.69,0:05:06.85,*Default,NTP,0000,0000,0000,,现在她能看见我了\N{\fn微软雅黑\fs14}Now she can see me.
+Dialogue: 0,0:05:21.07,0:05:22.71,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}《死亡心理学》
+Dialogue: 0,0:05:26.87,0:05:28.31,*Default,NTP,0000,0000,0000,,马科斯母亲\N{\fn微软雅黑\fs14}Mother Markos.
+Dialogue: 0,0:05:32.46,0:05:34.82,*Default,NTP,0000,0000,0000,,她想要控制我的思想\N{\fn微软雅黑\fs14}Oh, she wants to get inside of me.
+Dialogue: 0,0:05:35.82,0:05:37.42,*Default,NTP,0000,0000,0000,,我能感觉到她\N{\fn微软雅黑\fs14}I can feel her.
+Dialogue: 0,0:05:37.58,0:05:38.97,*Default,NTP,0000,0000,0000,,我那时还以为是我自己想这样\N{\fn微软雅黑\fs14}Oh, I thought I wanted it.
+Dialogue: 0,0:05:41.04,0:05:42.68,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}幻像
+Dialogue: 0,0:05:44.09,0:05:46.45,*Default,NTP,0000,0000,0000,,我让事情变成这样\N{\fn微软雅黑\fs14}I let it happen.
+Dialogue: 0,0:06:29.07,0:06:31.07,*Default,NTP,0000,0000,0000,,你明白我的意思吗\N{\fn微软雅黑\fs14}Do you understand me?
+Dialogue: 0,0:06:32.80,0:06:35.16,*Default,NTP,0000,0000,0000,,要是他们知道我来过这儿  绝不会有一丝犹豫\N{\fn微软雅黑\fs14}If they find out I was here, they won't hesitate.
+Dialogue: 0,0:06:39.07,0:06:41.80,*Default,NTP,0000,0000,0000,,他们会杀了我  把我的阴部装在盘子里吃掉\N{\fn微软雅黑\fs14}They'll hollow me out and eat my cunt on a plate.
+Dialogue: 0,0:06:55.60,0:06:58.04,*Default,NTP,0000,0000,0000,,贝尔格先生在等您  医生\N{\fn微软雅黑\fs14}Mr. Berger is waiting for you, Doctor.
+Dialogue: 0,0:06:58.92,0:07:00.56,*Default,NTP,0000,0000,0000,,-贝尔格先生  -医生\N{\fn微软雅黑\fs14}- Mr. Berger.  - Mr. Doctor.
+Dialogue: 0,0:07:01.51,0:07:02.40,*Default,NTP,0000,0000,0000,,请进\N{\fn微软雅黑\fs14}Please.
+Dialogue: 0,0:07:10.02,0:07:17.89,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}母亲能取代任何无可取代的位置
+Dialogue: 0,0:08:22.93,0:08:25.25,*Default,NTP,0000,0000,0000,,很好  很好\N{\fn微软雅黑\fs14}Okay, that's good. That's good.
+Dialogue: 0,0:09:26.95,0:09:28.78,*Default,NTP,0000,0000,0000,,早上好  牧师\N{\fn微软雅黑\fs14}Morning, Pastor.
+Dialogue: 0,0:09:28.94,0:09:30.46,*Default,NTP,0000,0000,0000,,你们的衣服都淋湿了吗\N{\fn微软雅黑\fs14}Did the rain get your clothes all wet?
+Dialogue: 0,0:09:30.62,0:09:32.50,*Default,NTP,0000,0000,0000,,没有  别担心  姑娘们都把衣服晾起来了\N{\fn微软雅黑\fs14}No, don't you worry. The girls just hung that all up.
+Dialogue: 0,0:09:32.66,0:09:34.22,*Default,NTP,0000,0000,0000,,收音机上说\N{\fn微软雅黑\fs14}Two days of rain
+Dialogue: 0,0:09:34.38,0:09:35.82,*Default,NTP,0000,0000,0000,,雨要下两天\N{\fn微软雅黑\fs14}is what I just heard on the radio.
+Dialogue: 0,0:09:35.98,0:09:37.22,*Default,NTP,0000,0000,0000,,-这样差不多就行了  -差不多\N{\fn微软雅黑\fs14}- That'll just about do it. - Just about.
+Dialogue: 0,0:09:41.61,0:09:43.93,*Default,NTP,0000,0000,0000,,她今天怎么样\N{\fn微软雅黑\fs14}How is she today?
+Dialogue: 0,0:09:44.09,0:09:48.68,*Default,NTP,0000,0000,0000,,跟之前一样\N{\fn微软雅黑\fs14}Much the same.
+Dialogue: 0,0:10:03.56,0:10:10.84,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}叹息站\N出口
+Dialogue: 0,0:11:55.08,0:11:56.44,*Default,NTP,0000,0000,0000,,您是坦纳小姐吗\N{\fn微软雅黑\fs14}You're Miss Tanner?
+Dialogue: 0,0:11:56.60,0:11:58.15,*Default,NTP,0000,0000,0000,,-是的  -进来吧\N{\fn微软雅黑\fs14}- Yes. - Come in.
+Dialogue: 0,0:12:09.66,0:12:12.22,*Default,NTP,0000,0000,0000,,我今早打电话去你住的酒店\N{\fn微软雅黑\fs14}I tried to call you at your hotel this morning
+Dialogue: 0,0:12:12.38,0:12:15.82,*Default,NTP,0000,0000,0000,,想问你是否能改约\N{\fn微软雅黑\fs14}to ask you if you could reschedule.
+Dialogue: 0,0:12:15.98,0:12:18.62,*Default,NTP,0000,0000,0000,,-为什么  -舞团有事\N{\fn微软雅黑\fs14}- Why? - Company business.
+Dialogue: 0,0:12:18.77,0:12:20.85,*Default,NTP,0000,0000,0000,,今天不太好接待你\N{\fn微软雅黑\fs14}It's not a good time just today.
+Dialogue: 0,0:12:21.01,0:12:22.49,*Default,NTP,0000,0000,0000,,不过你已经来了\N{\fn微软雅黑\fs14}But here you are.
+Dialogue: 0,0:12:35.56,0:12:46.00,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}马科斯舞团
+Dialogue: 0,0:12:46.00,0:12:49.00,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}1969年4月15日\N星期五
+Dialogue: 0,0:12:53.98,0:12:57.02,*Default,NTP,0000,0000,0000,,一  二\N{\fn微软雅黑\fs14}And one, and two,
+Dialogue: 0,0:12:57.18,0:13:00.53,*Default,NTP,0000,0000,0000,,三  四\N{\fn微软雅黑\fs14}and three, and four,
+Dialogue: 0,0:13:00.69,0:13:02.37,*Default,NTP,0000,0000,0000,,五\N{\fn微软雅黑\fs14}and five,
+Dialogue: 0,0:13:02.53,0:13:06.05,*Default,NTP,0000,0000,0000,,六  七\N{\fn微软雅黑\fs14}and six, and seven,
+Dialogue: 0,0:13:06.21,0:13:07.29,*Default,NTP,0000,0000,0000,,八\N{\fn微软雅黑\fs14}and eight.
+Dialogue: 0,0:13:07.45,0:13:09.64,*Default,NTP,0000,0000,0000,,提肘  一\N{\fn微软雅黑\fs14}Elbows up. And one...
+Dialogue: 0,0:13:10.96,0:13:12.20,*Default,NTP,0000,0000,0000,,进来吧  苏西\N{\fn微软雅黑\fs14}Come in, Susie.
+Dialogue: 0,0:13:15.64,0:13:19.87,*Default,NTP,0000,0000,0000,,米利乌斯和曼德尔小姐是舞团的声乐教师\N{\fn微软雅黑\fs14}Miss Millius and Miss Mandel are the company's repetiteurs.
+Dialogue: 0,0:13:20.03,0:13:21.87,*Default,NTP,0000,0000,0000,,维瓦·布兰克呢\N{\fn微软雅黑\fs14}And Veva Blanc?
+Dialogue: 0,0:13:22.03,0:13:23.95,*Default,NTP,0000,0000,0000,,我听说她会来\N{\fn微软雅黑\fs14}I was told she would be here.
+Dialogue: 0,0:13:24.11,0:13:25.43,*Default,NTP,0000,0000,0000,,亲爱的\N{\fn微软雅黑\fs14}Oh, dear.
+Dialogue: 0,0:13:25.59,0:13:28.74,*Default,NTP,0000,0000,0000,,你没有参加过正式训练  也没有介绍信\N{\fn微软雅黑\fs14}You have no formal training or references.
+Dialogue: 0,0:13:28.90,0:13:30.90,*Default,NTP,0000,0000,0000,,你一直坚持参加面试\N{\fn微软雅黑\fs14}Your insistence to audition
+Dialogue: 0,0:13:31.06,0:13:35.38,*Default,NTP,0000,0000,0000,,正好碰上那天布兰克夫人心情好\N{\fn微软雅黑\fs14}happened to catch Madame Blanc on a good day.
+Dialogue: 0,0:13:35.54,0:13:38.97,*Default,NTP,0000,0000,0000,,但你的资质真的不适合这里\N{\fn微软雅黑\fs14}But you really shouldn't be here at all.
+Dialogue: 0,0:13:39.13,0:13:41.45,*Default,NTP,0000,0000,0000,,你明白吗\N{\fn微软雅黑\fs14}Do you understand?
+Dialogue: 0,0:13:41.91,0:13:43.21,*Default,NTP,0000,0000,0000,,明白了吗\N{\fn微软雅黑\fs14}Yeah?
+Dialogue: 0,0:13:43.37,0:13:44.01,*Default,NTP,0000,0000,0000,,很好\N{\fn微软雅黑\fs14}Good.
+Dialogue: 0,0:13:44.24,0:13:45.15,*Default,NTP,0000,0000,0000,,那就开始吧\N{\fn微软雅黑\fs14}Then let's begin.
+Dialogue: 0,0:13:57.24,0:14:00.11,*Default,NTP,0000,0000,0000,,我跳舞还是喜欢不加伴奏\N{\fn微软雅黑\fs14}I prefer dancing without music.
+Dialogue: 0,0:14:00.27,0:14:01.83,*Default,NTP,0000,0000,0000,,谢谢\N{\fn微软雅黑\fs14}Danke schoen.
+Dialogue: 0,0:14:01.99,0:14:04.07,*Default,NTP,0000,0000,0000,,你可以在脑子里数节奏  对吗\N{\fn微软雅黑\fs14}You can keep time in your head, yes?
+Dialogue: 0,0:14:42.23,0:14:43.11,*Default,NTP,0000,0000,0000,,入睡\N{\fn微软雅黑\fs14}Hypnose.
+Dialogue: 0,0:14:43.77,0:14:45.73,*Default,NTP,0000,0000,0000,,来\N{\fn微软雅黑\fs14}And here we have...
+Dialogue: 0,0:14:45.88,0:14:47.32,*Default,NTP,0000,0000,0000,,肘部成一条线\N{\fn微软雅黑\fs14}a line between the elbows.
+Dialogue: 0,0:14:47.48,0:14:48.60,*Default,NTP,0000,0000,0000,,面朝前\N{\fn微软雅黑\fs14}Face forward.
+Dialogue: 0,0:14:48.76,0:14:51.72,*Default,NTP,0000,0000,0000,,很好  睡着\N{\fn微软雅黑\fs14}Perfect, and... Morphus.
+Dialogue: 0,0:14:51.88,0:14:54.40,*Default,NTP,0000,0000,0000,,注意手不要太贴近脸\N{\fn微软雅黑\fs14}And here, not so close to the face.
+Dialogue: 0,0:14:54.56,0:14:56.59,*Default,NTP,0000,0000,0000,,要像手里捧着一只小鸟的感觉\N{\fn微软雅黑\fs14}More like you're holding a bird or something.
+Dialogue: 0,0:15:51.42,0:15:53.70,*Default,NTP,0000,0000,0000,,我们早上排练的时候他们弄好的\N{\fn微软雅黑\fs14}They did it when we were in morning rehearsal.
+Dialogue: 0,0:15:53.86,0:15:55.86,*Default,NTP,0000,0000,0000,,他们把她的东西打包邮寄了\N{\fn微软雅黑\fs14}They just put her things in shipping boxes.
+Dialogue: 0,0:15:56.01,0:15:58.29,*Default,NTP,0000,0000,0000,,你不会觉得她以后都不能露面了吧\N{\fn微软雅黑\fs14}You don't think she had to go underground, do you?
+Dialogue: 0,0:15:58.45,0:16:00.01,*Default,NTP,0000,0000,0000,,我不在乎发生了什么事\N{\fn微软雅黑\fs14}I don't care what happened.
+Dialogue: 0,0:16:00.17,0:16:01.65,*Default,NTP,0000,0000,0000,,我只想她打个电话过来\N{\fn微软雅黑\fs14}I just want her to call.
+Dialogue: 0,0:16:01.81,0:16:02.93,*Default,NTP,0000,0000,0000,,我很担心她\N{\fn微软雅黑\fs14}I'm really worried.
+Dialogue: 0,0:16:05.76,0:16:07.12,*Default,NTP,0000,0000,0000,,班尼恩小姐\N{\fn微软雅黑\fs14}Fraulein Bannion.
+Dialogue: 0,0:16:07.28,0:16:08.40,*Default,NTP,0000,0000,0000,,来吧\N{\fn微软雅黑\fs14}Kommen Sie.
+Dialogue: 0,0:16:13.76,0:16:15.91,*Default,NTP,0000,0000,0000,,我刚和布兰克夫人谈过了\N{\fn微软雅黑\fs14}I've just spoken with Madame Blanc.
+Dialogue: 0,0:16:16.07,0:16:17.43,*Default,NTP,0000,0000,0000,,你做得很好  班尼恩小姐\N{\fn微软雅黑\fs14}Well done, Miss Bannion.
+Dialogue: 0,0:16:21.67,0:16:24.11,*Default,NTP,0000,0000,0000,,我想你得回家去\N{\fn微软雅黑\fs14}I imagine you will need to return home
+Dialogue: 0,0:16:24.27,0:16:26.54,*Default,NTP,0000,0000,0000,,准备下东西  打点好事情\N{\fn微软雅黑\fs14}to settle things and make arrangements
+Dialogue: 0,0:16:26.70,0:16:27.42,*Default,NTP,0000,0000,0000,,搬来柏林了\N{\fn微软雅黑\fs14}for moving to Berlin.
+Dialogue: 0,0:16:27.58,0:16:28.70,*Default,NTP,0000,0000,0000,,不  不用\N{\fn微软雅黑\fs14}No. No, no.
+Dialogue: 0,0:16:28.86,0:16:31.22,*Default,NTP,0000,0000,0000,,我现在就可以开始\N{\fn微软雅黑\fs14}I can start right now.
+Dialogue: 0,0:16:31.38,0:16:34.02,*Default,NTP,0000,0000,0000,,很好\N{\fn微软雅黑\fs14}Good.
+Dialogue: 0,0:16:34.18,0:16:36.73,*Default,NTP,0000,0000,0000,,这位是布歇小姐\N{\fn微软雅黑\fs14}This is Miss Boutaher,
+Dialogue: 0,0:16:36.89,0:16:38.77,*Default,NTP,0000,0000,0000,,我们的技术总监\N{\fn微软雅黑\fs14}our technical director.
+Dialogue: 0,0:16:38.93,0:16:40.41,*Default,NTP,0000,0000,0000,,你好\N{\fn微软雅黑\fs14}Guten Tag.
+Dialogue: 0,0:16:40.57,0:16:42.85,*Default,NTP,0000,0000,0000,,这位是凡德加斯小姐\N{\fn微软雅黑\fs14}And this is Miss Vendegast.
+Dialogue: 0,0:16:43.01,0:16:44.81,*Default,NTP,0000,0000,0000,,-她是这里  -你好\N{\fn微软雅黑\fs14}- She acts as house mother... - Hello.
+Dialogue: 0,0:16:44.97,0:16:47.36,*Default,NTP,0000,0000,0000,,住家舞者的女舍监\N{\fn微软雅黑\fs14}...for our dancers who reside here.
+Dialogue: 0,0:16:50.00,0:16:50.92,*Default,NTP,0000,0000,0000,,你从哪里过来的\N{\fn微软雅黑\fs14}Where'd you come from?
+Dialogue: 0,0:16:52.32,0:16:55.04,*Default,NTP,0000,0000,0000,,俄亥俄州\N{\fn微软雅黑\fs14}Ohio.
+Dialogue: 0,0:16:59.11,0:17:01.47,*Default,NTP,0000,0000,0000,,我们这边就像是露丝·布雷笔下的妇女合作社\N{\fn微软雅黑\fs14}We operate as a sort of Ruth Bré collective.
+Dialogue: 0,0:16:59.11,0:17:01.47,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}伊丽莎白·博恩斯的笔名  德国剧作家  父权制批判者
+Dialogue: 0,0:17:01.63,0:17:04.31,*Default,NTP,0000,0000,0000,,因为我们给舞者的工资不多\N{\fn微软雅黑\fs14}As we cannot pay our dancers a lot of money,
+Dialogue: 0,0:17:04.47,0:17:07.46,*Default,NTP,0000,0000,0000,,我们提供宿舍  费用全免\N{\fn微软雅黑\fs14}we offer dormitory-style rooms, rent-free.
+Dialogue: 0,0:17:07.62,0:17:10.14,*Default,NTP,0000,0000,0000,,你们  你们完全不收费吗\N{\fn微软雅黑\fs14}You don't... you don't charge anything at all?
+Dialogue: 0,0:17:10.30,0:17:11.50,*Default,NTP,0000,0000,0000,,不收一分钱\N{\fn微软雅黑\fs14}Not a mark.
+Dialogue: 0,0:17:15.53,0:17:17.41,*Default,NTP,0000,0000,0000,,我们舞团完全理解\N{\fn微软雅黑\fs14}In this company, we fully understand
+Dialogue: 0,0:17:17.57,0:17:21.77,*Default,NTP,0000,0000,0000,,女性财务自主权的重要性\N{\fn微软雅黑\fs14}the importance of a woman's financial autonomy.
+Dialogue: 0,0:17:23.53,0:17:26.20,*Default,NTP,0000,0000,0000,,往常到每年的这个时候  宿舍都住满了\N{\fn微软雅黑\fs14}Normally, it would be full at this time of year,
+Dialogue: 0,0:17:26.36,0:17:28.80,*Default,NTP,0000,0000,0000,,不过我们正好空出来了一间\N{\fn微软雅黑\fs14}but we have had a room open.
+Dialogue: 0,0:17:28.96,0:17:30.44,*Default,NTP,0000,0000,0000,,嗯  帕特里夏那间\N{\fn微软雅黑\fs14}Yeah. Patricia's.
+Dialogue: 0,0:17:31.36,0:17:33.48,*Default,NTP,0000,0000,0000,,你认识帕特里夏吗\N{\fn微软雅黑\fs14}Do you know Patricia?
+Dialogue: 0,0:17:36.39,0:17:38.07,*Default,NTP,0000,0000,0000,,不  我听到走廊里\N{\fn微软雅黑\fs14}No, I heard some girls talking
+Dialogue: 0,0:17:38.23,0:17:39.59,*Default,NTP,0000,0000,0000,,有几个女孩在说她的事\N{\fn微软雅黑\fs14}about her in the hall.
+Dialogue: 0,0:17:42.51,0:17:46.46,*Default,NTP,0000,0000,0000,,现在你是我们的一员了  我对你也就不保留了\N{\fn微软雅黑\fs14}Now that you're one of us, I won't be coy.
+Dialogue: 0,0:17:46.62,0:17:48.42,*Default,NTP,0000,0000,0000,,帕特里夏的状态很不好\N{\fn微软雅黑\fs14}Patricia has just left the company
+Dialogue: 0,0:17:48.58,0:17:51.02,*Default,NTP,0000,0000,0000,,离开了舞团\N{\fn微软雅黑\fs14}under sad circumstances.
+Dialogue: 0,0:17:51.18,0:17:52.71,*Default,NTP,0000,0000,0000,,我们觉得她不会回来了\N{\fn微软雅黑\fs14}We think she won't be back,
+Dialogue: 0,0:17:52.71,0:17:54.50,*Default,NTP,0000,0000,0000,,所以你愿意的话房间就是你的了\N{\fn微软雅黑\fs14}so there's room if you want.
+Dialogue: 0,0:17:54.66,0:17:59.09,*Default,NTP,0000,0000,0000,,我们会派一个女孩帮你收拾行李\N{\fn微软雅黑\fs14}We'll send you one of our girls to help you with your luggage.
+Dialogue: 0,0:17:59.25,0:18:00.81,*Default,NTP,0000,0000,0000,,先吃完午饭\N{\fn微软雅黑\fs14}After lunch.
+Dialogue: 0,0:18:00.97,0:18:02.53,*Default,NTP,0000,0000,0000,,你觉得可以吧\N{\fn微软雅黑\fs14}It's all right for you?
+Dialogue: 0,0:18:02.69,0:18:04.05,*Default,NTP,0000,0000,0000,,可以\N{\fn微软雅黑\fs14}Yes.
+Dialogue: 0,0:18:04.21,0:18:05.21,*Default,NTP,0000,0000,0000,,这...这真是\N{\fn微软雅黑\fs14}It's-it... it's all...
+Dialogue: 0,0:18:05.36,0:18:06.92,*Default,NTP,0000,0000,0000,,很好\N{\fn微软雅黑\fs14}Yes.
+Dialogue: 0,0:18:07.08,0:18:08.44,*Default,NTP,0000,0000,0000,,太好了\N{\fn微软雅黑\fs14}It's perfect.
+Dialogue: 0,0:18:33.54,0:18:35.49,*Default,NTP,0000,0000,0000,,你好  你好  抱歉我来晚了\N{\fn微软雅黑\fs14}Hello. Hi. I'm sorry I'm late.
+Dialogue: 0,0:18:35.66,0:18:37.09,*Default,NTP,0000,0000,0000,,-你好  -被雨耽搁了\N{\fn微软雅黑\fs14}- Hi. - It's the rain.
+Dialogue: 0,0:18:37.25,0:18:38.89,*Default,NTP,0000,0000,0000,,每次一下雨  柏林的所有人就都像傻子一样\N{\fn微软雅黑\fs14}Whenever it rains in Berlin, everyone jumps in a cab,
+Dialogue: 0,0:18:39.05,0:18:40.69,*Default,NTP,0000,0000,0000,,跳进出租车里  我们就不坐了吧\N{\fn微软雅黑\fs14}and like an idiot, I just let ours go.
+Dialogue: 0,0:18:40.85,0:18:42.25,*Default,NTP,0000,0000,0000,,你好  我是莎拉\N{\fn微软雅黑\fs14}Hi. I'm Sara.
+Dialogue: 0,0:18:42.41,0:18:44.05,*Default,NTP,0000,0000,0000,,我们去街上碰碰运气\N{\fn微软雅黑\fs14}We're gonna have to take our chances on the street.
+Dialogue: 0,0:18:44.21,0:18:45.80,*Default,NTP,0000,0000,0000,,你有伞吗\N{\fn微软雅黑\fs14}Do you have an umbrella?
+Dialogue: 0,0:18:45.96,0:18:47.76,*Default,NTP,0000,0000,0000,,你六点还没到\N{\fn微软雅黑\fs14}Oh, when you weren't here by 6:00,
+Dialogue: 0,0:18:47.92,0:18:51.00,*Default,NTP,0000,0000,0000,,我就又续住了一晚\N{\fn微软雅黑\fs14}I had to take the room for another night.
+Dialogue: 0,0:18:51.16,0:18:52.52,*Default,NTP,0000,0000,0000,,天哪  苏西  对不起\N{\fn微软雅黑\fs14}Oh. God, Susie, I'm sorry.
+Dialogue: 0,0:18:52.68,0:18:54.40,*Default,NTP,0000,0000,0000,,今天舞团里乱套了\N{\fn微软雅黑\fs14}Everything was a mess at the company today.
+Dialogue: 0,0:18:54.56,0:18:56.71,*Default,NTP,0000,0000,0000,,你在笑什么\N{\fn微软雅黑\fs14}Why are you smiling?
+Dialogue: 0,0:18:56.87,0:18:58.63,*Default,NTP,0000,0000,0000,,对不...我...我\N{\fn微软雅黑\fs14}I'm sor... I-I...
+Dialogue: 0,0:18:58.79,0:19:01.39,*Default,NTP,0000,0000,0000,,你刚刚说柏林\N{\fn微软雅黑\fs14}Um, uh, when you said Berlin a second ago,
+Dialogue: 0,0:19:01.55,0:19:02.99,*Default,NTP,0000,0000,0000,,你说"柏林的所有人"\N{\fn微软雅黑\fs14}you said "Everyone in Berlin,"
+Dialogue: 0,0:19:03.15,0:19:06.58,*Default,NTP,0000,0000,0000,,我就想到  现在我也是这"所有人"之一了\N{\fn微软雅黑\fs14}and I just thought that... that includes me now.
+Dialogue: 0,0:19:06.74,0:19:08.14,*Default,NTP,0000,0000,0000,,我住在柏林了\N{\fn微软雅黑\fs14}I live in Berlin.
+Dialogue: 0,0:19:08.30,0:19:10.38,*Default,NTP,0000,0000,0000,,是的  恭喜你\N{\fn微软雅黑\fs14}Yes. Congrats.
+Dialogue: 0,0:19:10.54,0:19:12.74,*Default,NTP,0000,0000,0000,,我听说你今天可是耀眼的明星\N{\fn微软雅黑\fs14}I heard you were a sensation today.
+Dialogue: 0,0:19:12.90,0:19:14.54,*Default,NTP,0000,0000,0000,,你打电话告诉你家人了吗\N{\fn微软雅黑\fs14}Have you called your family yet, to tell them?
+Dialogue: 0,0:19:16.37,0:19:18.25,*Default,NTP,0000,0000,0000,,布兰克小姐中途看了我的面试\N{\fn微软雅黑\fs14}Miss Blanc came into my audition.
+Dialogue: 0,0:19:19.77,0:19:21.17,*Default,NTP,0000,0000,0000,,但她后来走了\N{\fn微软雅黑\fs14}But she left right after.
+Dialogue: 0,0:19:21.33,0:19:23.53,*Default,NTP,0000,0000,0000,,她很了不起\N{\fn微软雅黑\fs14}She's incredible.
+Dialogue: 0,0:19:23.69,0:19:26.88,*Default,NTP,0000,0000,0000,,她诠释她的作品和传递能量的方式很了不起\N{\fn微软雅黑\fs14}The way she transmits her work, her energy.
+Dialogue: 0,0:19:27.04,0:19:27.96,*Default,NTP,0000,0000,0000,,当你接触到这种能量  会感觉它...\N{\fn微软雅黑\fs14}When it shines on you, it's...
+Dialogue: 0,0:19:28.12,0:19:29.80,*Default,NTP,0000,0000,0000,,令人上瘾\N{\fn微软雅黑\fs14}"Addictive" is the word for it.
+Dialogue: 0,0:19:29.96,0:19:31.24,*Default,NTP,0000,0000,0000,,她很坚强\N{\fn微软雅黑\fs14}She's tough.
+Dialogue: 0,0:19:31.40,0:19:33.52,*Default,NTP,0000,0000,0000,,在战争期间也维持住了舞团\N{\fn微软雅黑\fs14}She kept the company alive through the war.
+Dialogue: 0,0:19:33.68,0:19:35.51,*Default,NTP,0000,0000,0000,,当德意志帝国想要封闭女人的思想\N{\fn微软雅黑\fs14}When the Reich just wanted women to shut off their minds
+Dialogue: 0,0:19:35.67,0:19:37.83,*Default,NTP,0000,0000,0000,,把女人当做生育机器的时候\N{\fn微软雅黑\fs14}and keep their uteruses open,
+Dialogue: 0,0:19:37.99,0:19:39.79,*Default,NTP,0000,0000,0000,,还有布兰克在\N{\fn微软雅黑\fs14}there was Blanc.
+Dialogue: 0,0:19:39.95,0:19:40.95,*Default,NTP,0000,0000,0000,,谢谢\N{\fn微软雅黑\fs14}Thank you.
+Dialogue: 0,0:19:41.11,0:19:43.31,*Default,NTP,0000,0000,0000,,她可是真家伙\N{\fn微软雅黑\fs14}La vraie chose.
+Dialogue: 0,0:19:43.47,0:19:44.15,*Default,NTP,0000,0000,0000,,什么\N{\fn微软雅黑\fs14}What?
+Dialogue: 0,0:19:44.31,0:19:45.22,*Default,NTP,0000,0000,0000,,你说的是法语吗\N{\fn微软雅黑\fs14}W-Was that French?
+Dialogue: 0,0:19:55.53,0:19:57.01,*Default,NTP,0000,0000,0000,,是炸弹爆炸了\N{\fn微软雅黑\fs14}It's a bomb.
+Dialogue: 0,0:19:57.17,0:19:59.05,*Default,NTP,0000,0000,0000,,我可以闻到火药味\N{\fn微软雅黑\fs14}I can smell it.
+Dialogue: 0,0:19:59.21,0:20:00.37,*Default,NTP,0000,0000,0000,,那边有个银行\N{\fn微软雅黑\fs14}There's a bank that way.
+Dialogue: 0,0:20:02.61,0:20:05.05,*Default,NTP,0000,0000,0000,,你不知道发生了什么吗\N{\fn微软雅黑\fs14}Don't you know what's happening here?
+Dialogue: 0,0:20:05.21,0:20:06.68,*Default,NTP,0000,0000,0000,,劫持者正在跟他们谈判\N{\fn微软雅黑\fs14}The hijackers are negotiating a release
+Dialogue: 0,0:20:06.84,0:20:09.00,*Default,NTP,0000,0000,0000,,要求今晚释放施塔姆海姆的囚犯\N{\fn微软雅黑\fs14}of the Stammheim prisoners tonight.
+Dialogue: 0,0:20:09.16,0:20:10.80,*Default,NTP,0000,0000,0000,,是RAF组织\N{\fn微软雅黑\fs14}The RAF.
+Dialogue: 0,0:20:10.96,0:20:13.16,*Default,NTP,0000,0000,0000,,巴德尔-迈因霍夫团伙\N{\fn微软雅黑\fs14}Baader-Meinhof.
+Dialogue: 0,0:20:10.96,0:20:13.16,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}德国恐怖组织巴德尔和迈因霍夫集团
+Dialogue: 0,0:20:13.32,0:20:15.24,*Default,NTP,0000,0000,0000,,他们劫持了一个主管\N{\fn微软雅黑\fs14}They kidnapped an executive.
+Dialogue: 0,0:20:15.40,0:20:19.15,*Default,NTP,0000,0000,0000,,战争期间  他是纳粹党卫队军官\N{\fn微软雅黑\fs14}During the war, he was a Nazi SS, an officer.
+Dialogue: 0,0:20:19.31,0:20:23.35,*Default,NTP,0000,0000,0000,,现在他是德国雇主协会主管\N{\fn微软雅黑\fs14}Now he runs the German Employers' Association.
+Dialogue: 0,0:20:23.51,0:20:24.91,*Default,NTP,0000,0000,0000,,你不知道那有多可怕吧\N{\fn微软雅黑\fs14}You don't get how awful that is, do you?
+Dialogue: 0,0:20:31.90,0:20:33.42,*Default,NTP,0000,0000,0000,,抱歉\N{\fn微软雅黑\fs14}Sorry.
+Dialogue: 0,0:20:33.58,0:20:36.13,*Default,NTP,0000,0000,0000,,我只是很担心我的朋友\N{\fn微软雅黑\fs14}I'm just worried about my friend.
+Dialogue: 0,0:20:37.12,0:20:41.35,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}第二幕\N眼泪宫殿
+Dialogue: 0,0:20:59.24,0:21:01.12,*Default,NTP,0000,0000,0000,,关于这次投票\N{\fn微软雅黑\fs14}Now for the voting,
+Dialogue: 0,0:21:01.12,0:21:04.44,*Default,NTP,0000,0000,0000,,每个人说出自己所选的人名\N{\fn微软雅黑\fs14}each of us says the name of her choice.
+Dialogue: 0,0:21:05.16,0:21:09.51,*Default,NTP,0000,0000,0000,,-曼德尔  你选谁  -马科斯\N{\fn微软雅黑\fs14}-Mandel, whom are you voting for? - Markos.
+Dialogue: 0,0:21:09.51,0:21:11.20,*Default,NTP,0000,0000,0000,,-凯伦  -布兰克\N{\fn微软雅黑\fs14}- Kellen? - Blanc.
+Dialogue: 0,0:21:12.00,0:21:14.39,*Default,NTP,0000,0000,0000,,-尤迪丝  -马科斯\N{\fn微软雅黑\fs14}- Judith? - Markos.
+Dialogue: 0,0:21:14.39,0:21:16.62,*Default,NTP,0000,0000,0000,,-布塔  -布兰克\N{\fn微软雅黑\fs14}- Boutaher? - Blanc.
+Dialogue: 0,0:21:16.75,0:21:18.83,*Default,NTP,0000,0000,0000,,-米流丝  -马科斯\N{\fn微软雅黑\fs14}- Millius? - Markos.
+Dialogue: 0,0:21:19.24,0:21:21.12,*Default,NTP,0000,0000,0000,,-马丁奇  -马科斯\N{\fn微软雅黑\fs14}- Martincin? - Markos.
+Dialogue: 0,0:21:21.12,0:21:23.20,*Default,NTP,0000,0000,0000,,-胡乐  -马科斯\N{\fn微软雅黑\fs14}- Huller. - Markos.
+Dialogue: 0,0:21:23.20,0:21:25.31,*Default,NTP,0000,0000,0000,,-毛切利  -布兰克\N{\fn微软雅黑\fs14}- Mauceri? - Blanc.
+Dialogue: 0,0:21:25.31,0:21:27.31,*Default,NTP,0000,0000,0000,,-马克斯  -马科斯\N{\fn微软雅黑\fs14}- Marks? - Markos.
+Dialogue: 0,0:21:27.31,0:21:29.00,*Default,NTP,0000,0000,0000,,-帕夫拉  -马科斯\N{\fn微软雅黑\fs14}- Pavla? - Markos.
+Dialogue: 0,0:21:29.40,0:21:31.31,*Default,NTP,0000,0000,0000,,-卡布里特  -布兰克\N{\fn微软雅黑\fs14}- Kaplitt? - Blanc.
+Dialogue: 0,0:21:31.31,0:21:34.03,*Default,NTP,0000,0000,0000,,-文德加斯特  -布兰克\N{\fn微软雅黑\fs14}- Vendegast? - Blanc.
+Dialogue: 0,0:21:34.03,0:21:36.00,*Default,NTP,0000,0000,0000,,-巴尔福  -布兰克\N{\fn微软雅黑\fs14}- Balfour? - Blanc.
+Dialogue: 0,0:21:36.00,0:21:38.12,*Default,NTP,0000,0000,0000,,-切瑟斯  -布兰克\N{\fn微软雅黑\fs14}- Creusot? - Blanc.
+Dialogue: 0,0:21:38.12,0:21:41.24,*Default,NTP,0000,0000,0000,,-阿尔贝塔  -马科斯\N{\fn微软雅黑\fs14}- Alberta?  - Marcos.
+Dialogue: 0,0:21:41.24,0:21:48.88,*Default,NTP,0000,0000,0000,,-格非特  格非特  -我们在最后\N{\fn微软雅黑\fs14}- Griffith? Griffith? - We are at the end.
+Dialogue: 0,0:21:49.83,0:21:50.92,*Default,NTP,0000,0000,0000,,你必须选\N{\fn微软雅黑\fs14}You must choose.
+Dialogue: 0,0:21:53.20,0:21:54.83,*Default,NTP,0000,0000,0000,,马科斯母亲\N{\fn微软雅黑\fs14}Mother Markos.
+Dialogue: 0,0:21:54.92,0:21:57.72,*Default,NTP,0000,0000,0000,,布兰克  你选谁\N{\fn微软雅黑\fs14}Blanc, whom are you voting for?
+Dialogue: 0,0:21:58.96,0:22:00.96,*Default,NTP,0000,0000,0000,,我弃权\N{\fn微软雅黑\fs14}I abstain.
+Dialogue: 0,0:22:01.75,0:22:03.36,*Default,NTP,0000,0000,0000,,我选马科斯\N{\fn微软雅黑\fs14}I vote for Markos.
+Dialogue: 0,0:22:04.20,0:22:06.16,*Default,NTP,0000,0000,0000,,马科斯以三票优势胜出\N{\fn微软雅黑\fs14}Markos wins by three.
+Dialogue: 0,0:22:06.16,0:22:07.88,*Default,NTP,0000,0000,0000,,就这么定了\N{\fn微软雅黑\fs14}It is decided.
+Dialogue: 0,0:22:08.36,0:22:10.72,*Default,NTP,0000,0000,0000,,马科斯母亲继续履职\N{\fn微软雅黑\fs14}Mother Markos will remain in control.
+Dialogue: 0,0:22:10.72,0:22:13.51,*Default,NTP,0000,0000,0000,,不许任何人挑战她的权威\N{\fn微软雅黑\fs14}Let no ones's vote be held against her.
+Dialogue: 0,0:22:13.51,0:22:16.31,*Default,NTP,0000,0000,0000,,少数服从多数\N{\fn微软雅黑\fs14}And let the will of the majority proceed.
+Dialogue: 0,0:22:16.31,0:22:20.79,*Default,NTP,0000,0000,0000,,马科斯万岁\N{\fn微软雅黑\fs14}Long life to Markos.
+Dialogue: 0,0:22:27.48,0:22:30.50,*Default,NTP,0000,0000,0000,,劫匪是否会驾驶汉莎航空航班\N{\fn微软雅黑\fs14}there is no information yet on whether the hijackers
+Dialogue: 0,0:22:30.50,0:22:33.68,*Default,NTP,0000,0000,0000,,飞行至第四个地点\N{\fn微软雅黑\fs14}will pilot the Lufthansa flight to a fourth destination
+Dialogue: 0,0:22:33.68,0:22:37.48,*Default,NTP,0000,0000,0000,,以及机上的91名人质的情况尚不明确\N{\fn微软雅黑\fs14}or what is the condition of the 91 hostages still presumed aboard.
+Dialogue: 0,0:22:37.96,0:22:40.67,*Default,NTP,0000,0000,0000,,昨日  其中一名巴勒斯坦劫匪\N{\fn微软雅黑\fs14}Yesterday, one of the Palestinian hijackers
+Dialogue: 0,0:22:40.67,0:22:43.50,*Default,NTP,0000,0000,0000,,正式提出了包括释放所有\N{\fn微软雅黑\fs14}issued official demands including the release
+Dialogue: 0,0:22:43.50,0:22:46.92,*Default,NTP,0000,0000,0000,,关押在施达姆斯坦监狱的RAF成员的要求\N{\fn微软雅黑\fs14}of all RAF members incarcerated at Stammshein prison...
+Dialogue: 0,0:22:58.88,0:23:00.55,*Default,NTP,0000,0000,0000,,母亲找你\N{\fn微软雅黑\fs14}Mother asked for you.
+Dialogue: 0,0:23:00.55,0:23:02.92,*Default,NTP,0000,0000,0000,,昨晚的事过后\N{\fn微软雅黑\fs14}She has to know that we can move ahead
+Dialogue: 0,0:23:02.92,0:23:04.88,*Default,NTP,0000,0000,0000,,她想确定我们还能继续吗\N{\fn微软雅黑\fs14}now that last night's business is behind us.
+Dialogue: 0,0:23:05.00,0:23:08.51,*Default,NTP,0000,0000,0000,,你们都知道我对帕特里夏的担忧\N{\fn微软雅黑\fs14}You all knew my concerns about Patricia.
+Dialogue: 0,0:23:09.31,0:23:11.60,*Default,NTP,0000,0000,0000,,发生在帕特里夏身上的事是很可怕\N{\fn微软雅黑\fs14}What happened to Patricia was ghostly.
+Dialogue: 0,0:23:11.60,0:23:15.12,*Default,NTP,0000,0000,0000,,既然我们已经投过票了  母亲想再试试\N{\fn微软雅黑\fs14}But now that we voted Mother wants to try again.
+Dialogue: 0,0:23:15.12,0:23:16.07,*Default,NTP,0000,0000,0000,,而且要快\N{\fn微软雅黑\fs14}And so soon.
+Dialogue: 0,0:23:17.16,0:23:20.96,*Default,NTP,0000,0000,0000,,问题不仅在于我们要用谁进行下一次尝试\N{\fn微软雅黑\fs14}The question isn't just who to try next.
+Dialogue: 0,0:23:23.48,0:23:24.83,*Default,NTP,0000,0000,0000,,更重要的是不论用哪个女孩\N{\fn微软雅黑\fs14}We have to make sure the ritual will work
+Dialogue: 0,0:23:24.83,0:23:27.51,*Default,NTP,0000,0000,0000,,这次都一定要成功\N{\fn微软雅黑\fs14}with whichever girl we choose.
+Dialogue: 0,0:23:27.92,0:23:30.79,*Default,NTP,0000,0000,0000,,母亲相信你一定已经有主意了\N{\fn微软雅黑\fs14}Mother trusts you already have ideas on this subject.
+Dialogue: 0,0:23:31.60,0:23:33.68,*Default,NTP,0000,0000,0000,,也许莎拉是个好选择\N{\fn微软雅黑\fs14}Maybe Sara could be a good option.
+Dialogue: 0,0:23:34.36,0:23:39.44,*Default,NTP,0000,0000,0000,,是的  派她去接那个美国女孩就对了\N{\fn微软雅黑\fs14}Yes. It was right to send her to collect the American girl.
+Dialogue: 0,0:23:40.20,0:23:43.16,*Default,NTP,0000,0000,0000,,萨拉是舞团的非常好的代表\N{\fn微软雅黑\fs14}Sara is a good ambassador for the good company.
+Dialogue: 0,0:23:43.16,0:23:45.64,*Default,NTP,0000,0000,0000,,她把这当成了家  不是吗\N{\fn微软雅黑\fs14}She's made a home here, hasn't she?
+Dialogue: 0,0:23:45.83,0:23:47.40,*Default,NTP,0000,0000,0000,,她在这感觉很好\N{\fn微软雅黑\fs14}She feels good here.
+Dialogue: 0,0:23:47.60,0:23:48.48,*Default,NTP,0000,0000,0000,,有爱\N{\fn微软雅黑\fs14}Loved.
+Dialogue: 0,0:23:56.75,0:23:57.75,*Default,NTP,0000,0000,0000,,约瑟夫大叔\N{\fn微软雅黑\fs14}Uncle Josef!
+Dialogue: 0,0:23:57.79,0:23:59.36,*Default,NTP,0000,0000,0000,,早上好  亲爱的\N{\fn微软雅黑\fs14}Good morning my dear!
+Dialogue: 0,0:23:59.55,0:24:01.51,*Default,NTP,0000,0000,0000,,-你要去乡间别墅吗  -是的\N{\fn微软雅黑\fs14}- Are you going to your country house? - Yes!
+Dialogue: 0,0:24:01.51,0:24:05.55,*Default,NTP,0000,0000,0000,,冻死我了  我要和克拉拉一起上大学了\N{\fn微软雅黑\fs14}I'm freezing my ass off. I'll go to the university later on with Clara.
+Dialogue: 0,0:24:05.55,0:24:06.40,*Default,NTP,0000,0000,0000,,谁说的\N{\fn微软雅黑\fs14}Who is speaking?
+Dialogue: 0,0:24:06.40,0:24:08.39,*Default,NTP,0000,0000,0000,,-拉康  -拉康\N{\fn微软雅黑\fs14}- Lacan. - Ah, Lacan!
+Dialogue: 0,0:24:14.48,0:24:15.36,*Default,NTP,0000,0000,0000,,克伦佩雷尔医生早上好\N{\fn微软雅黑\fs14}Good morning, Doctor Klempere!
+Dialogue: 0,0:24:15.36,0:24:18.24,*Default,NTP,0000,0000,0000,,去乡间别墅吗\N{\fn微软雅黑\fs14}Are you going to the country house?
+Dialogue: 0,0:24:28.55,0:24:30.68,*Default,NTP,0000,0000,0000,,下一站弗里德里希大街\N{\fn微软雅黑\fs14}"Next stop Friedrichstrasse.
+Dialogue: 0,0:24:30.68,0:24:32.07,*Default,NTP,0000,0000,0000,,本车终点站到了\N{\fn微软雅黑\fs14}This train terminates here.
+Dialogue: 0,0:24:32.07,0:24:35.44,*Default,NTP,0000,0000,0000,,请拿好您的证件准备进入东柏林\N{\fn微软雅黑\fs14}Please have your identification ready to enter East Berlin."
+Dialogue: 0,0:26:12.88,0:26:17.31,*Default,NTP,0000,0000,0000,,安科  看  到处都又落满了树叶\N{\fn微软雅黑\fs14}Anke, look... everything is full of leaves again!
+Dialogue: 0,0:26:20.03,0:26:24.07,*Default,NTP,0000,0000,0000,,我上周四才刚将它们清扫掉\N{\fn微软雅黑\fs14}I swept them away just last Tuesday.
+Dialogue: 0,0:26:43.10,0:26:44.66,*Default,NTP,0000,0000,0000,,卧室在二楼\N{\fn微软雅黑\fs14}Bedrooms are on the second floor.
+Dialogue: 0,0:27:02.04,0:27:04.96,*Default,NTP,0000,0000,0000,,为什么你就不能装出爱我的样子跟我讲话\N{\fn微软雅黑\fs14}Why don't you try speaking to me like you love me?
+Dialogue: 0,0:27:06.52,0:27:08.08,*Default,NTP,0000,0000,0000,,跟平时不一样一回\N{\fn微软雅黑\fs14}For a change.
+Dialogue: 0,0:27:10.99,0:27:12.83,*Default,NTP,0000,0000,0000,,这是我的房间\N{\fn微软雅黑\fs14}This is my room.
+Dialogue: 0,0:27:12.99,0:27:15.39,*Default,NTP,0000,0000,0000,,这边这间\N{\fn微软雅黑\fs14}And here...
+Dialogue: 0,0:27:15.55,0:27:16.75,*Default,NTP,0000,0000,0000,,是你的房间\N{\fn微软雅黑\fs14}is yours.
+Dialogue: 0,0:27:16.91,0:27:20.02,*Default,NTP,0000,0000,0000,,我们是邻居\N{\fn微软雅黑\fs14}We're neighbors.
+Dialogue: 0,0:27:20.18,0:27:22.54,*Default,NTP,0000,0000,0000,,你有需要就敲敲墙壁\N{\fn微软雅黑\fs14}You can knock on the wall if you ever need anything.
+Dialogue: 0,0:27:52.48,0:27:53.40,*Default,NTP,0000,0000,0000,,西萨姆夫人\N{\fn微软雅黑\fs14}Frau Sesame?
+Dialogue: 0,0:28:15.72,0:28:19.16,*Default,NTP,0000,0000,0000,,医生  我在迈尔小姐那拿到了粗粒麦粉\N{\fn微软雅黑\fs14}Doctor, I got the semolina from Mrs. Meir.
+Dialogue: 0,0:28:20.11,0:28:24.44,*Default,NTP,0000,0000,0000,,他们又在放无罪释放红军旅恐怖分子的新闻\N{\fn微软雅黑\fs14}They are demonstrating again for the release of the RAF terrorists.
+Dialogue: 0,0:28:24.44,0:28:26.68,*Default,NTP,0000,0000,0000,,艾思林  曼霍夫\N{\fn微软雅黑\fs14}Ensslin, Meinhof...
+Dialogue: 0,0:28:26.68,0:28:31.07,*Default,NTP,0000,0000,0000,,在战争前  德国有最坚强的女性\N{\fn微软雅黑\fs14}Before the war Germany had the strongest women...
+Dialogue: 0,0:28:31.79,0:28:33.96,*Default,NTP,0000,0000,0000,,就像您的妻子安科\N{\fn微软雅黑\fs14}Like your wife Anke.
+Dialogue: 0,0:28:33.96,0:28:36.96,*Default,NTP,0000,0000,0000,,难道不是吗  医生\N{\fn微软雅黑\fs14}Wasn't she strong, Doctor?
+Dialogue: 0,0:28:38.72,0:28:41.92,*Default,NTP,0000,0000,0000,,艾莉丝广播站上午试播\N{\fn微软雅黑\fs14}"First rehearsal in the Iris Studio today.
+Dialogue: 0,0:28:41.92,0:28:43.18,*Default,NTP,0000,0000,0000,,二十分钟倒计时\N{\fn微软雅黑\fs14}In twenty minutes.
+Dialogue: 0,0:28:43.24,0:28:45.72,*Default,NTP,0000,0000,0000,,你就能全身心放松\N{\fn微软雅黑\fs14}You're to lead your own stretches today."
+Dialogue: 0,0:28:46.26,0:28:47.38,*Default,NTP,0000,0000,0000,,早上好\N{\fn微软雅黑\fs14}Good morning.
+Dialogue: 0,0:28:47.54,0:28:49.26,*Default,NTP,0000,0000,0000,,-早上好  -你好\N{\fn微软雅黑\fs14}- Good morning. - Hello.
+Dialogue: 0,0:28:50.57,0:28:52.05,*Default,NTP,0000,0000,0000,,-早上好  -早上好\N{\fn微软雅黑\fs14}- Good morning. - Good morning.
+Dialogue: 0,0:28:52.21,0:28:54.85,*Default,NTP,0000,0000,0000,,-你好  -早上好  早上好\N{\fn微软雅黑\fs14}- Hi. - Good morning. Good morning.
+Dialogue: 0,0:28:55.01,0:28:56.61,*Default,NTP,0000,0000,0000,,你的膝盖怎么样了  还好吗\N{\fn微软雅黑\fs14}How's your knee? Okay?
+Dialogue: 0,0:28:58.01,0:28:59.48,*Default,NTP,0000,0000,0000,,你能来太好了\N{\fn微软雅黑\fs14}It's wonderful you're here.
+Dialogue: 0,0:28:59.64,0:29:01.68,*Default,NTP,0000,0000,0000,,谢谢\N{\fn微软雅黑\fs14}Thank you.
+Dialogue: 0,0:29:07.68,0:29:11.07,*Default,NTP,0000,0000,0000,,今天舞团里有件高兴的事\N{\fn微软雅黑\fs14}We have some happier company business today.
+Dialogue: 0,0:29:11.23,0:29:13.11,*Default,NTP,0000,0000,0000,,来了一个新舞者\N{\fn微软雅黑\fs14}We have a new dancer.
+Dialogue: 0,0:29:13.27,0:29:16.71,*Default,NTP,0000,0000,0000,,这位是苏西·班尼恩  她从美国过来加入我们\N{\fn微软雅黑\fs14}This is Susie Bannion, who's joining us from America.
+Dialogue: 0,0:29:16.87,0:29:19.47,*Default,NTP,0000,0000,0000,,我昨天有幸看到了她的面试表现\N{\fn微软雅黑\fs14}I was privileged to witness her audition yesterday.
+Dialogue: 0,0:29:19.62,0:29:21.82,*Default,NTP,0000,0000,0000,,我们很幸运能有她的加入\N{\fn微软雅黑\fs14}We are very lucky to have her.
+Dialogue: 0,0:29:21.98,0:29:23.78,*Default,NTP,0000,0000,0000,,你想说点什么吗  苏西\N{\fn微软雅黑\fs14}Would you like to say something, Susie?
+Dialogue: 0,0:29:27.54,0:29:29.81,*Default,NTP,0000,0000,0000,,我不知道\N{\fn微软雅黑\fs14}I don't know.
+Dialogue: 0,0:29:29.97,0:29:30.53,*Default,NTP,0000,0000,0000,,大家好\N{\fn微软雅黑\fs14}Hello.
+Dialogue: 0,0:29:33.49,0:29:34.89,*Default,NTP,0000,0000,0000,,我还没有融入的感觉\N{\fn微软雅黑\fs14}I feel like I'm not even here yet.
+Dialogue: 0,0:29:35.05,0:29:36.17,*Default,NTP,0000,0000,0000,,我不知道\N{\fn微软雅黑\fs14}I don't know.
+Dialogue: 0,0:29:36.33,0:29:37.33,*Default,NTP,0000,0000,0000,,等你准备好了再加入也不迟\N{\fn微软雅黑\fs14}You join in whenever you feel ready,
+Dialogue: 0,0:29:37.49,0:29:39.09,*Default,NTP,0000,0000,0000,,不着急\N{\fn微软雅黑\fs14}but there's no rush.
+Dialogue: 0,0:29:39.25,0:29:42.28,*Default,NTP,0000,0000,0000,,欢迎来到我们的小家庭\N{\fn微软雅黑\fs14}Welcome to our little family.
+Dialogue: 0,0:29:42.44,0:29:43.48,*Default,NTP,0000,0000,0000,,我叫苏西\N{\fn微软雅黑\fs14}I'm Susie.
+Dialogue: 0,0:29:43.64,0:29:45.64,*Default,NTP,0000,0000,0000,,-你好  -你好\N{\fn微软雅黑\fs14}- Hi. - Hi.
+Dialogue: 0,0:29:45.80,0:29:48.00,*Default,NTP,0000,0000,0000,,好了  今天的排练\N{\fn微软雅黑\fs14}All right, so for today's rehearsal,
+Dialogue: 0,0:29:48.16,0:29:50.87,*Default,NTP,0000,0000,0000,,我想从上次我们学习"人"开始讲\N{\fn微软雅黑\fs14}I want to pick up exactly where we left off with Volk.
+Dialogue: 0,0:29:51.03,0:29:52.15,*Default,NTP,0000,0000,0000,,我和奥尔加谈了\N{\fn微软雅黑\fs14}I've spoken to Olga,
+Dialogue: 0,0:29:52.31,0:29:54.95,*Default,NTP,0000,0000,0000,,她来跳帕特里夏的部分\N{\fn微软雅黑\fs14}and she's going to dance Patricia's part.
+Dialogue: 0,0:29:55.11,0:29:59.63,*Default,NTP,0000,0000,0000,,莎拉  你来跳奥尔加的部分\N{\fn微软雅黑\fs14}And, Sara, I'd like you to dance Olga's part.
+Dialogue: 0,0:29:59.78,0:30:00.98,*Default,NTP,0000,0000,0000,,大家都同意吗\N{\fn微软雅黑\fs14}Is everyone happy with that?
+Dialogue: 0,0:30:02.44,0:30:03.12,*Default,NTP,0000,0000,0000,,好的\N{\fn微软雅黑\fs14}Okay.
+Dialogue: 0,0:30:03.93,0:30:05.09,*Default,NTP,0000,0000,0000,,很好\N{\fn微软雅黑\fs14}Good.
+Dialogue: 0,0:30:16.71,0:30:18.63,*Default,NTP,0000,0000,0000,,不  不不不  不行  请把音乐关掉\N{\fn微软雅黑\fs14}No, no, no, no, no, no, no, no. Music off, please.
+Dialogue: 0,0:30:18.79,0:30:20.51,*Default,NTP,0000,0000,0000,,停一下\N{\fn微软雅黑\fs14}One moment.
+Dialogue: 0,0:30:20.67,0:30:21.79,*Default,NTP,0000,0000,0000,,好了  看着我\N{\fn微软雅黑\fs14}Okay, so...
+Dialogue: 0,0:30:21.95,0:30:24.91,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}And one, and two, and three.
+Dialogue: 0,0:30:25.07,0:30:26.46,*Default,NTP,0000,0000,0000,,你得从地上拔起来\N{\fn微软雅黑\fs14}You pull it from the ground.
+Dialogue: 0,0:30:26.62,0:30:28.22,*Default,NTP,0000,0000,0000,,好吗  要记住  有重力\N{\fn微软雅黑\fs14}All right? Gravity, remember.
+Dialogue: 0,0:30:28.38,0:30:30.30,*Default,NTP,0000,0000,0000,,这一面的所有人\N{\fn微软雅黑\fs14}And everybody from here, please.
+Dialogue: 0,0:30:30.46,0:30:31.70,*Default,NTP,0000,0000,0000,,还有坦纳\N{\fn微软雅黑\fs14}And Tanner.
+Dialogue: 0,0:30:31.86,0:30:33.74,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}One and two and three.
+Dialogue: 0,0:30:33.90,0:30:35.85,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}And one, and two, and three.
+Dialogue: 0,0:30:36.01,0:30:38.09,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}Und eins, und zwei, und drei.
+Dialogue: 0,0:30:38.25,0:30:40.61,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}Und eins, und zwei, und drei.
+Dialogue: 0,0:30:40.77,0:30:42.61,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}Und eins, und zwei, und drei.
+Dialogue: 0,0:30:42.77,0:30:44.85,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}Und eins, und zwei, und drei.
+Dialogue: 0,0:30:45.01,0:30:46.76,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}Und eins, und zwei, und drei.
+Dialogue: 0,0:30:46.92,0:30:48.72,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}Und eins, und zwei, und drei.
+Dialogue: 0,0:30:48.88,0:30:51.04,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}Und eins, und zwei, und drei.
+Dialogue: 0,0:30:51.20,0:30:52.72,*Default,NTP,0000,0000,0000,,这是什么狗屎东西\N{\fn微软雅黑\fs14}This is shit.
+Dialogue: 0,0:30:54.60,0:30:56.23,*Default,NTP,0000,0000,0000,,-什么狗屎东西  -好了\N{\fn微软雅黑\fs14}- Such shit. - Okay.
+Dialogue: 0,0:30:56.39,0:30:59.31,*Default,NTP,0000,0000,0000,,我们休息十分钟\N{\fn微软雅黑\fs14}Why don't we all break for ten minutes.
+Dialogue: 0,0:30:59.47,0:31:02.43,*Default,NTP,0000,0000,0000,,你甚至懒得尊重自己的谎言\N{\fn微软雅黑\fs14}You can't even be bothered to respect your own lies.
+Dialogue: 0,0:31:02.59,0:31:04.19,*Default,NTP,0000,0000,0000,,伊万诺娃小姐\N{\fn微软雅黑\fs14}Miss Ivanova!
+Dialogue: 0,0:31:04.35,0:31:06.18,*Default,NTP,0000,0000,0000,,不   没事  没关系\N{\fn微软雅黑\fs14}No, no, no, no, no, it's okay.
+Dialogue: 0,0:31:06.34,0:31:07.74,*Default,NTP,0000,0000,0000,,我们来直面问题\N{\fn微软雅黑\fs14}Let's face this.
+Dialogue: 0,0:31:09.06,0:31:11.50,*Default,NTP,0000,0000,0000,,帕特里夏走了  奥尔加\N{\fn微软雅黑\fs14}Patricia is gone, Olga.
+Dialogue: 0,0:31:11.66,0:31:13.66,*Default,NTP,0000,0000,0000,,我们不知道她去了哪里\N{\fn微软雅黑\fs14}We don't know where.
+Dialogue: 0,0:31:13.82,0:31:15.53,*Default,NTP,0000,0000,0000,,要是她想躲起来  她就不会告诉我们\N{\fn微软雅黑\fs14}If she's gone into hiding, she wouldn't have told us,
+Dialogue: 0,0:31:15.69,0:31:17.85,*Default,NTP,0000,0000,0000,,-对吗  -她本来要告诉别人的\N{\fn微软雅黑\fs14}- would she? - She would have told someone.
+Dialogue: 0,0:31:18.01,0:31:19.45,*Default,NTP,0000,0000,0000,,我们知道她和那些\N{\fn微软雅黑\fs14}We know that she had dealings
+Dialogue: 0,0:31:19.61,0:31:21.85,*Default,NTP,0000,0000,0000,,寻找目标的人做交易\N{\fn微软雅黑\fs14}with people who are interested in targets.
+Dialogue: 0,0:31:22.01,0:31:23.21,*Default,NTP,0000,0000,0000,,我们也知道昨晚在克罗伊茨贝格\N{\fn微软雅黑\fs14}And we know there was another bomb
+Dialogue: 0,0:31:23.37,0:31:24.45,*Default,NTP,0000,0000,0000,,又有炸弹爆炸了\N{\fn微软雅黑\fs14}in Kreuzberg last night.
+Dialogue: 0,0:31:24.61,0:31:25.57,*Default,NTP,0000,0000,0000,,她不会这么做的\N{\fn微软雅黑\fs14}She wouldn't do that.
+Dialogue: 0,0:31:26.76,0:31:28.64,*Default,NTP,0000,0000,0000,,她想实践自己的信仰\N{\fn微软雅黑\fs14}She wanted to live her beliefs.
+Dialogue: 0,0:31:28.80,0:31:30.92,*Default,NTP,0000,0000,0000,,谁不欣赏她这一点呢\N{\fn微软雅黑\fs14}Who doesn't admire that?
+Dialogue: 0,0:31:31.08,0:31:34.48,*Default,NTP,0000,0000,0000,,世界上有太多需要改变的事\N{\fn微软雅黑\fs14}And there's so much to change in the world.
+Dialogue: 0,0:31:34.64,0:31:36.19,*Default,NTP,0000,0000,0000,,如果她想住在\N{\fn微软雅黑\fs14}If she wants to live in a cellar
+Dialogue: 0,0:31:36.35,0:31:39.15,*Default,NTP,0000,0000,0000,,一个装满汽油瓶子的地窖里  那是她的选择\N{\fn微软雅黑\fs14}filling bottles with petrol, that's her choice.
+Dialogue: 0,0:31:39.31,0:31:42.23,*Default,NTP,0000,0000,0000,,如果她被警察枪杀了  大家都会伤心的\N{\fn微软雅黑\fs14}And who won't be heartbroken if she's shot by police?
+Dialogue: 0,0:31:42.39,0:31:45.14,*Default,NTP,0000,0000,0000,,你操控了一切\N{\fn微软雅黑\fs14}You manipulate everything.
+Dialogue: 0,0:31:47.30,0:31:50.26,*Default,NTP,0000,0000,0000,,她不相信你们  因为你是个伪君子\N{\fn微软雅黑\fs14}She didn't trust you because you're hypocrites.
+Dialogue: 0,0:31:50.42,0:31:52.86,*Default,NTP,0000,0000,0000,,你带奥尔加回房间吧  坦纳\N{\fn微软雅黑\fs14}Will you take Olga to her room, please, Tanner?
+Dialogue: 0,0:31:54.63,0:31:56.30,*Default,NTP,0000,0000,0000,,不  坦纳小姐\N{\fn微软雅黑\fs14}No, Miss Tanner!
+Dialogue: 0,0:31:57.62,0:31:59.22,*Default,NTP,0000,0000,0000,,给我叫一辆出租车\N{\fn微软雅黑\fs14}Call Olga a cab.
+Dialogue: 0,0:31:59.38,0:32:01.26,*Default,NTP,0000,0000,0000,,我受够了\N{\fn微软雅黑\fs14}She's had enough.
+Dialogue: 0,0:32:01.42,0:32:02.86,*Default,NTP,0000,0000,0000,,我要打包东西\N{\fn微软雅黑\fs14}And is going to pack her things
+Dialogue: 0,0:32:03.02,0:32:06.45,*Default,NTP,0000,0000,0000,,离开这见鬼的疯人院\N{\fn微软雅黑\fs14}and get the fuck out from this box of rabies!
+Dialogue: 0,0:32:11.12,0:32:12.24,*Default,NTP,0000,0000,0000,,你们这帮女巫\N{\fn微软雅黑\fs14}Witches!
+Dialogue: 0,0:32:22.72,0:32:25.08,*Default,NTP,0000,0000,0000,,抱歉让你看到这些\N{\fn微软雅黑\fs14}I'm sorry about that.
+Dialogue: 0,0:32:26.87,0:32:28.47,*Default,NTP,0000,0000,0000,,这种事很难处理\N{\fn微软雅黑\fs14}It's a hot thing we do.
+Dialogue: 0,0:32:33.55,0:32:37.66,*Default,NTP,0000,0000,0000,,好了  那么谁来跳主角\N{\fn微软雅黑\fs14}Okay, so... who will dance the protagonist?
+Dialogue: 0,0:32:37.82,0:32:39.42,*Default,NTP,0000,0000,0000,,索尼娅\N{\fn微软雅黑\fs14}Sonia?
+Dialogue: 0,0:32:39.58,0:32:42.10,*Default,NTP,0000,0000,0000,,我不行  我做不到\N{\fn微软雅黑\fs14}I can't. Not yet.
+Dialogue: 0,0:32:42.26,0:32:43.66,*Default,NTP,0000,0000,0000,,卡洛琳\N{\fn微软雅黑\fs14}Caroline?
+Dialogue: 0,0:32:47.49,0:32:49.65,*Default,NTP,0000,0000,0000,,很好  我们会想出办法的\N{\fn微软雅黑\fs14}Very well. We'll manage.
+Dialogue: 0,0:32:49.81,0:32:52.89,*Default,NTP,0000,0000,0000,,我建议我们从头开始\N{\fn微软雅黑\fs14}I suggest that we all take it from the top.
+Dialogue: 0,0:32:53.05,0:32:54.53,*Default,NTP,0000,0000,0000,,我来跳\N{\fn微软雅黑\fs14}I'll dance.
+Dialogue: 0,0:33:03.72,0:33:05.11,*Default,NTP,0000,0000,0000,,我了解这支舞\N{\fn微软雅黑\fs14}I know it.
+Dialogue: 0,0:33:05.27,0:33:06.67,*Default,NTP,0000,0000,0000,,纪录片里有\N{\fn微软雅黑\fs14}It's in the documentary.
+Dialogue: 0,0:33:06.83,0:33:08.71,*Default,NTP,0000,0000,0000,,我在图书馆看了无数遍\N{\fn微软雅黑\fs14}I-I've seen it a hundred times at the library.
+Dialogue: 0,0:33:11.59,0:33:14.03,*Default,NTP,0000,0000,0000,,亲爱的  我们演出这支舞前\N{\fn微软雅黑\fs14}Sweetheart, we rehearsed this piece
+Dialogue: 0,0:33:14.19,0:33:16.82,*Default,NTP,0000,0000,0000,,排演了十个月\N{\fn微软雅黑\fs14}for ten months before we performed it.
+Dialogue: 0,0:33:18.18,0:33:20.86,*Default,NTP,0000,0000,0000,,我也去亲眼看过\N{\fn微软雅黑\fs14}I've seen it in person, too.
+Dialogue: 0,0:33:21.02,0:33:23.46,*Default,NTP,0000,0000,0000,,那么你一个人先跳一遍\N{\fn微软雅黑\fs14}First do it alone, then.
+Dialogue: 0,0:33:23.62,0:33:27.01,*Default,NTP,0000,0000,0000,,我们不能拖累其他人\N{\fn微软雅黑\fs14}We don't want to put the others at risk.
+Dialogue: 0,0:33:27.17,0:33:28.81,*Default,NTP,0000,0000,0000,,我们可不想到时候\N{\fn微软雅黑\fs14}The last thing we need
+Dialogue: 0,0:33:28.97,0:33:32.45,*Default,NTP,0000,0000,0000,,有人不小心被踢翻了\N{\fn微软雅黑\fs14}is someone to get kicked in the ribs.
+Dialogue: 0,0:33:36.36,0:33:37.92,*Default,NTP,0000,0000,0000,,好吗\N{\fn微软雅黑\fs14}All right?
+Dialogue: 0,0:34:01.08,0:34:03.40,*Default,NTP,0000,0000,0000,,Marks老师  请放一下音乐\N{\fn微软雅黑\fs14}Frau Marks, music please.
+Dialogue: 0,0:34:32.83,0:34:33.95,*Default,NTP,0000,0000,0000,,好  停停停\N{\fn微软雅黑\fs14}Okay, stop. Stop, stop.
+Dialogue: 0,0:34:34.11,0:34:35.58,*Default,NTP,0000,0000,0000,,停一下\N{\fn微软雅黑\fs14}Stop.
+Dialogue: 0,0:34:35.74,0:34:37.14,*Default,NTP,0000,0000,0000,,好了\N{\fn微软雅黑\fs14}All right.
+Dialogue: 0,0:34:37.30,0:34:38.86,*Default,NTP,0000,0000,0000,,放空你的大脑\N{\fn微软雅黑\fs14}Clear your head.
+Dialogue: 0,0:34:39.02,0:34:40.82,*Default,NTP,0000,0000,0000,,我要你从头来一遍\N{\fn微软雅黑\fs14}I want you to start over.
+Dialogue: 0,0:34:40.98,0:34:43.18,*Default,NTP,0000,0000,0000,,你拉伸了吗\N{\fn微软雅黑\fs14}Have you stretched?
+Dialogue: 0,0:34:43.34,0:34:45.13,*Default,NTP,0000,0000,0000,,这不是在开玩笑\N{\fn微软雅黑\fs14}This is no joke.
+Dialogue: 0,0:35:14.47,0:35:17.84,*Default,NTP,0000,0000,0000,,奥尔加  没事吧\N{\fn微软雅黑\fs14}Olga. Everything alright?
+Dialogue: 0,0:36:18.20,0:36:19.68,*Default,NTP,0000,0000,0000,,奥尔加\N{\fn微软雅黑\fs14}Olga.
+Dialogue: 0,0:36:22.15,0:36:23.07,*Default,NTP,0000,0000,0000,,过来\N{\fn微软雅黑\fs14}Come here.
+Dialogue: 0,0:36:23.84,0:36:25.99,*Default,NTP,0000,0000,0000,,来\N{\fn微软雅黑\fs14}Come.
+Dialogue: 0,0:36:26.28,0:36:27.28,*Default,NTP,0000,0000,0000,,到我这来\N{\fn微软雅黑\fs14}Come to me.
+Dialogue: 0,0:36:52.97,0:36:55.32,*Default,NTP,0000,0000,0000,,记住  音乐一播放你就开始\N{\fn微软雅黑\fs14}Remember, you start on one with the music,
+Dialogue: 0,0:36:55.48,0:36:58.48,*Default,NTP,0000,0000,0000,,什么时候感觉不好了  就停下\N{\fn微软雅黑\fs14}and if you feel ill at any time, just stop.
+Dialogue: 0,0:36:58.64,0:37:00.52,*Default,NTP,0000,0000,0000,,从这个动作开始\N{\fn微软雅黑\fs14}You start here.
+Dialogue: 0,0:37:00.68,0:37:01.76,*Default,NTP,0000,0000,0000,,音乐\N{\fn微软雅黑\fs14}And...
+Dialogue: 0,0:38:00.42,0:38:01.94,*Default,NTP,0000,0000,0000,,音乐调大\N{\fn微软雅黑\fs14}Lauter!
+Dialogue: 0,0:38:09.37,0:38:11.57,*Default,NTP,0000,0000,0000,,很好  好极了  苏西\N{\fn微软雅黑\fs14}Bravo. Bravo, Susie.
+Dialogue: 0,0:40:18.60,0:40:20.00,*Default,NTP,0000,0000,0000,,会好的\N{\fn微软雅黑\fs14}It'll pass.
+Dialogue: 0,0:40:20.16,0:40:22.80,*Default,NTP,0000,0000,0000,,你不是第一个感到头晕的\N{\fn微软雅黑\fs14}You're not the first dancer who lost the room.
+Dialogue: 0,0:40:27.43,0:40:29.07,*Default,NTP,0000,0000,0000,,我一般不会头晕\N{\fn微软雅黑\fs14}I'm not usually dizzy.
+Dialogue: 0,0:40:29.23,0:40:30.43,*Default,NTP,0000,0000,0000,,偶尔的崩溃\N{\fn微软雅黑\fs14}An occasional collapse
+Dialogue: 0,0:40:30.59,0:40:32.95,*Default,NTP,0000,0000,0000,,可能都能算是职业病了吧\N{\fn微软雅黑\fs14}is a vocational hazard, I'm afraid.
+Dialogue: 0,0:40:33.11,0:40:36.34,*Default,NTP,0000,0000,0000,,我  我没有  我没有崩溃\N{\fn微软雅黑\fs14}I-I didn't... I didn't collapse.
+Dialogue: 0,0:40:36.50,0:40:39.46,*Default,NTP,0000,0000,0000,,你跪在了地板上  舞蹈的结束动作不是这个\N{\fn微软雅黑\fs14}You're on the floor, and that's not where the dance ends.
+Dialogue: 0,0:40:42.38,0:40:44.85,*Default,NTP,0000,0000,0000,,我只是不想吐在你的练习室里\N{\fn微软雅黑\fs14}I was trying not to throw up in your studio.
+Dialogue: 0,0:40:45.01,0:40:46.33,*Default,NTP,0000,0000,0000,,苏西  没关系的\N{\fn微软雅黑\fs14}Susie, it's fine.
+Dialogue: 0,0:40:46.49,0:40:48.57,*Default,NTP,0000,0000,0000,,你表现得很好\N{\fn微软雅黑\fs14}It was wonderful.
+Dialogue: 0,0:40:48.73,0:40:51.77,*Default,NTP,0000,0000,0000,,莎拉  请你带她回房间吧\N{\fn微软雅黑\fs14}Sara, can you take her to her room, please?
+Dialogue: 0,0:40:51.93,0:40:54.21,*Default,NTP,0000,0000,0000,,你今天就休息吧\N{\fn微软雅黑\fs14}You can rest for the rest of the day.
+Dialogue: 0,0:41:06.07,0:41:08.51,*Default,NTP,0000,0000,0000,,-很不错的开始  -好了  姑娘们\N{\fn微软雅黑\fs14}- How enlightening. - Okay, come on, girls.
+Dialogue: 0,0:41:08.67,0:41:10.15,*Default,NTP,0000,0000,0000,,我们开始\N{\fn微软雅黑\fs14}Let's go.
+Dialogue: 0,0:41:10.31,0:41:12.59,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}And one, and two, and three.
+Dialogue: 0,0:41:12.75,0:41:14.02,*Default,NTP,0000,0000,0000,,还有\N{\fn微软雅黑\fs14}And...
+Dialogue: 0,0:41:47.75,0:41:50.02,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}德国
+Dialogue: 0,0:42:01.82,0:42:04.28,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}柏林
+Dialogue: 0,0:42:02.82,0:42:03.58,*Default,NTP,0000,0000,0000,,不  苏西\N{\fn微软雅黑\fs14}No, Susie.
+Dialogue: 0,0:42:03.74,0:42:07.21,*Default,NTP,0000,0000,0000,,我们必须学习美国\N{\fn微软雅黑\fs14}We have to study America.
+Dialogue: 0,0:42:07.37,0:42:08.97,*Default,NTP,0000,0000,0000,,我说了不行\N{\fn微软雅黑\fs14}I said no.
+Dialogue: 0,0:42:11.69,0:42:13.01,*Default,NTP,0000,0000,0000,,苏珊娜\N{\fn微软雅黑\fs14}Susanna.
+Dialogue: 0,0:42:21.32,0:42:22.63,*Default,NTP,0000,0000,0000,,没事吧\N{\fn微软雅黑\fs14}Everything fine?
+Dialogue: 0,0:42:51.46,0:42:57.01,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}黑暗之母\N眼泪之母\N叹息之母\N马科斯母亲
+Dialogue: 0,0:43:15.32,0:43:16.48,*Default,NTP,0000,0000,0000,,请注意\N{\fn微软雅黑\fs14}Attention, please!
+Dialogue: 0,0:43:18.59,0:43:21.80,*Default,NTP,0000,0000,0000,,不要伤害奥尔加\N{\fn微软雅黑\fs14}Don't hurt Olga.
+Dialogue: 0,0:44:07.96,0:44:09.40,*Default,NTP,0000,0000,0000,,慢慢地\N{\fn微软雅黑\fs14}Slowly...
+Dialogue: 0,0:44:48.69,0:44:53.01,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}布兰克夫人
+Dialogue: 0,0:44:59.96,0:45:01.03,*Default,NTP,0000,0000,0000,,抬出去\N{\fn微软雅黑\fs14}Out!
+Dialogue: 0,0:45:26.59,0:45:28.11,*Default,NTP,0000,0000,0000,,警察局  你好\N{\fn微软雅黑\fs14}Police station, good evening.
+Dialogue: 0,0:45:28.11,0:45:32.40,*Default,NTP,0000,0000,0000,,你好  我要报警  一个年轻女孩失踪了\N{\fn微软雅黑\fs14}Good evening, I'm reporting a young woman who may be missing.
+Dialogue: 0,0:45:33.03,0:45:35.03,*Default,NTP,0000,0000,0000,,她不可能知道自己在做什么\N{\fn微软雅黑\fs14}She couldn't have known what she was doing.
+Dialogue: 0,0:45:36.00,0:45:38.67,*Default,NTP,0000,0000,0000,,她只不过比我们预想得更合适\N{\fn微软雅黑\fs14}She just carried more of our intention than we expected.
+Dialogue: 0,0:45:38.67,0:45:43.28,*Default,NTP,0000,0000,0000,,我们还迁怒于奥尔加\N{\fn微软雅黑\fs14}We also let ourselves get angry with Olga.
+Dialogue: 0,0:45:45.17,0:45:48.00,*Default,NTP,0000,0000,0000,,我能感受到  但是这个女孩很自然\N{\fn微软雅黑\fs14}I could feel it. But the girl is natural.
+Dialogue: 0,0:45:43.40,0:45:45.17,*Default,NTP,0000,0000,0000,,不  不是时候\N{\fn微软雅黑\fs14}No. I'm not saying that yet.
+Dialogue: 0,0:45:48.00,0:45:50.55,*Default,NTP,0000,0000,0000,,就像帕特里夏  只是更干净些\N{\fn微软雅黑\fs14}Like Patricia. Only clean somehow.
+Dialogue: 0,0:45:50.55,0:45:52.80,*Default,NTP,0000,0000,0000,,她可能比我们想要的更出色\N{\fn微软雅黑\fs14}She may be more what we're looking for.
+Dialogue: 0,0:45:52.80,0:45:54.32,*Default,NTP,0000,0000,0000,,甚至超过萨拉\N{\fn微软雅黑\fs14}Even than Sara.
+Dialogue: 0,0:45:55.96,0:45:57.03,*Default,NTP,0000,0000,0000,,我们是要那么做吗\N{\fn微软雅黑\fs14}Are we saying that?
+Dialogue: 0,0:46:06.85,0:46:08.49,*Default,NTP,0000,0000,0000,,你看起来还是不太好\N{\fn微软雅黑\fs14}You don't look better.
+Dialogue: 0,0:46:08.65,0:46:10.93,*Default,NTP,0000,0000,0000,,你一直都这么苍白吗\N{\fn微软雅黑\fs14}Or are you this pale all the time?
+Dialogue: 0,0:46:12.21,0:46:13.80,*Default,NTP,0000,0000,0000,,你自己好好休息吧\N{\fn微软雅黑\fs14}I will leave you.
+Dialogue: 0,0:46:15.20,0:46:16.32,*Default,NTP,0000,0000,0000,,晚安\N{\fn微软雅黑\fs14}Good night.
+Dialogue: 0,0:46:25.59,0:46:27.03,*Default,NTP,0000,0000,0000,,十七世纪\N{\fn微软雅黑\fs14}The Amish split
+Dialogue: 0,0:46:27.19,0:46:29.43,*Default,NTP,0000,0000,0000,,阿米什人从门诺教派中分裂出来\N{\fn微软雅黑\fs14}from the Mennonites in the 17th century.
+Dialogue: 0,0:46:29.59,0:46:30.55,*Default,NTP,0000,0000,0000,,他们担心门诺教派\N{\fn微软雅黑\fs14}They were worried the Mennonites
+Dialogue: 0,0:46:30.71,0:46:32.23,*Default,NTP,0000,0000,0000,,变得过于自由了\N{\fn微软雅黑\fs14}were becoming too liberal.
+Dialogue: 0,0:46:33.42,0:46:35.50,*Default,NTP,0000,0000,0000,,"他们"  不是"我们"\N{\fn微软雅黑\fs14}"They"? Not "We"?
+Dialogue: 0,0:46:35.66,0:46:38.90,*Default,NTP,0000,0000,0000,,你把宗教思想抛在脑后了\N{\fn微软雅黑\fs14}You've left religious thinking behind you, then?
+Dialogue: 0,0:46:39.06,0:46:41.30,*Default,NTP,0000,0000,0000,,你不喜欢谈论这些事情\N{\fn微软雅黑\fs14}And you're not comfortable talking about these things.
+Dialogue: 0,0:46:41.46,0:46:43.53,*Default,NTP,0000,0000,0000,,我不知道为什么要谈\N{\fn微软雅黑\fs14}I don't know why we are.
+Dialogue: 0,0:46:43.69,0:46:45.25,*Default,NTP,0000,0000,0000,,你真是一个让人感到好奇的人\N{\fn微软雅黑\fs14}It's difficult not to be curious about you.
+Dialogue: 0,0:46:45.41,0:46:47.65,*Default,NTP,0000,0000,0000,,短短两天之内  你参加了面试\N{\fn微软雅黑\fs14}In two days, you've auditioned,
+Dialogue: 0,0:46:47.81,0:46:51.17,*Default,NTP,0000,0000,0000,,被录取了  又成了主舞\N{\fn微软雅黑\fs14}been accepted and danced a lead.
+Dialogue: 0,0:46:51.33,0:46:53.96,*Default,NTP,0000,0000,0000,,你是什么时候开始决定要加入我们的\N{\fn微软雅黑\fs14}How did your journey towards us begin?
+Dialogue: 0,0:46:54.12,0:46:55.60,*Default,NTP,0000,0000,0000,,我之前去了纽约\N{\fn微软雅黑\fs14}I went to New York.
+Dialogue: 0,0:46:55.76,0:46:57.92,*Default,NTP,0000,0000,0000,,去了玛莎·格雷厄姆中心\N{\fn微软雅黑\fs14}To the Martha Graham Center.
+Dialogue: 0,0:46:58.08,0:47:00.64,*Default,NTP,0000,0000,0000,,我看了三次你们的演出\N{\fn微软雅黑\fs14}I saw you there three times.
+Dialogue: 0,0:47:00.80,0:47:02.32,*Default,NTP,0000,0000,0000,,第一次是坐巴士去的\N{\fn微软雅黑\fs14}I went once by bus,
+Dialogue: 0,0:47:02.47,0:47:04.83,*Default,NTP,0000,0000,0000,,之后两次是搭车去的\N{\fn微软雅黑\fs14}then I hitchhiked the other two.
+Dialogue: 0,0:47:04.99,0:47:07.47,*Default,NTP,0000,0000,0000,,那很危险\N{\fn微软雅黑\fs14}That's risky.
+Dialogue: 0,0:47:07.63,0:47:09.59,*Default,NTP,0000,0000,0000,,你被惩罚了吗\N{\fn微软雅黑\fs14}Were you punished?
+Dialogue: 0,0:47:10.51,0:47:12.03,*Default,NTP,0000,0000,0000,,是的\N{\fn微软雅黑\fs14}Yeah.
+Dialogue: 0,0:47:12.98,0:47:15.30,*Default,NTP,0000,0000,0000,,但我当时感觉我必须去看你们\N{\fn微软雅黑\fs14}But I felt I had to see you.
+Dialogue: 0,0:47:23.77,0:47:25.93,*Default,NTP,0000,0000,0000,,今天在《人》的创作者面前\N{\fn微软雅黑\fs14}What did it feel today
+Dialogue: 0,0:47:26.09,0:47:29.85,*Default,NTP,0000,0000,0000,,跳了这支舞  你感觉如何\N{\fn微软雅黑\fs14}to dance Volkin front of the one who made it?
+Dialogue: 0,0:47:30.01,0:47:31.81,*Default,NTP,0000,0000,0000,,不  不对  这个问题太浅薄了\N{\fn微软雅黑\fs14}No, no. That's a vain question.
+Dialogue: 0,0:47:31.97,0:47:33.96,*Default,NTP,0000,0000,0000,,我问你另一个问题\N{\fn微软雅黑\fs14}Let me ask you another.
+Dialogue: 0,0:47:34.12,0:47:38.04,*Default,NTP,0000,0000,0000,,你在跳舞的时候  你内心\N{\fn微软雅黑\fs14}When you were dancing, what did it feel like...
+Dialogue: 0,0:47:38.20,0:47:41.56,*Default,NTP,0000,0000,0000,,你体内是什么感觉\N{\fn微软雅黑\fs14}inside you, inside your body?
+Dialogue: 0,0:47:46.83,0:47:51.47,*Default,NTP,0000,0000,0000,,感觉就像我想象中的做爱的感觉\N{\fn微软雅黑\fs14}It felt like what I think it must feel like to fuck.
+Dialogue: 0,0:47:51.63,0:47:53.46,*Default,NTP,0000,0000,0000,,你是说跟男人做爱吗\N{\fn微软雅黑\fs14}You mean to fuck a man?
+Dialogue: 0,0:47:53.62,0:47:55.58,*Default,NTP,0000,0000,0000,,不  我\N{\fn微软雅黑\fs14}No, I...
+Dialogue: 0,0:47:55.74,0:47:57.22,*Default,NTP,0000,0000,0000,,我想的是类似于动物交配\N{\fn微软雅黑\fs14}was thinking of an animal.
+Dialogue: 0,0:48:05.33,0:48:07.05,*Default,NTP,0000,0000,0000,,你当时看起来\N{\fn微软雅黑\fs14}You looked...
+Dialogue: 0,0:48:17.64,0:48:21.12,*Default,NTP,0000,0000,0000,,我让卡洛琳帮助你练习跳跃\N{\fn微软雅黑\fs14}I'm going to ask Caroline to work on your jumps with you.
+Dialogue: 0,0:48:21.28,0:48:23.71,*Default,NTP,0000,0000,0000,,你跳的还远远不够好\N{\fn微软雅黑\fs14}Yours are nowhere near good enough yet.
+Dialogue: 0,0:48:23.87,0:48:25.55,*Default,NTP,0000,0000,0000,,我们得把你培养好\N{\fn微软雅黑\fs14}We'll have to build you up.
+Dialogue: 0,0:48:27.15,0:48:28.99,*Default,NTP,0000,0000,0000,,这样你们演出这支舞的时候\N{\fn微软雅黑\fs14}So that I can dance the protagonist
+Dialogue: 0,0:48:29.15,0:48:30.87,*Default,NTP,0000,0000,0000,,我可以跳主角吗\N{\fn微软雅黑\fs14}when you perform it?
+Dialogue: 0,0:48:31.03,0:48:34.38,*Default,NTP,0000,0000,0000,,那我就得看到你一次次跳出这种水平\N{\fn微软雅黑\fs14}I'll need to see you dance at this level time and time again.
+Dialogue: 0,0:48:34.54,0:48:35.66,*Default,NTP,0000,0000,0000,,我可以\N{\fn微软雅黑\fs14}I can do it.
+Dialogue: 0,0:48:41.46,0:48:45.29,*Default,NTP,0000,0000,0000,,奥尔加跳起来就像是个举重运动员\N{\fn微软雅黑\fs14}Olga made Volk seem like such heavy lifting.
+Dialogue: 0,0:48:46.93,0:48:48.09,*Default,NTP,0000,0000,0000,,她从来都不理解《人》的核心\N{\fn微软雅黑\fs14}She never understood the heart of Volk.
+Dialogue: 0,0:48:50.73,0:48:52.61,*Default,NTP,0000,0000,0000,,她缺乏信念\N{\fn微软雅黑\fs14}She lacked conviction.
+Dialogue: 0,0:48:52.76,0:48:54.56,*Default,NTP,0000,0000,0000,,还好她走了\N{\fn微软雅黑\fs14}I'm relieved she's gone.
+Dialogue: 0,0:48:56.36,0:48:59.20,*Default,NTP,0000,0000,0000,,这还多亏你的帮忙\N{\fn微软雅黑\fs14}Thank you for your help with that.
+Dialogue: 0,0:49:05.55,0:49:07.75,*Default,NTP,0000,0000,0000,,布兰克夫人\N{\fn微软雅黑\fs14}Madame Blanc...
+Dialogue: 0,0:49:07.91,0:49:12.58,*Default,NTP,0000,0000,0000,,想让我在《人》里跳主舞\N{\fn微软雅黑\fs14}wants me to dance the protagonist in Volk.
+Dialogue: 0,0:49:14.98,0:49:18.42,*Default,NTP,0000,0000,0000,,我没想到会这样\N{\fn微软雅黑\fs14}I didn't think it was gonna be like this.
+Dialogue: 0,0:49:18.58,0:49:21.38,*Default,NTP,0000,0000,0000,,她人很好\N{\fn微软雅黑\fs14}She's so kind.
+Dialogue: 0,0:49:21.54,0:49:23.09,*Default,NTP,0000,0000,0000,,真好\N{\fn微软雅黑\fs14}That's wonderful.
+Dialogue: 0,0:49:26.93,0:49:28.33,*Default,NTP,0000,0000,0000,,你没事吧\N{\fn微软雅黑\fs14}Are you all right?
+Dialogue: 0,0:49:30.17,0:49:32.96,*Default,NTP,0000,0000,0000,,没事  我只是...\N{\fn微软雅黑\fs14}I'm fine. I was just...
+Dialogue: 0,0:49:35.36,0:49:38.80,*Default,NTP,0000,0000,0000,,我在想排练时奥尔加说的话\N{\fn微软雅黑\fs14}I was just thinking about what Olga said in rehearsal.
+Dialogue: 0,0:49:38.96,0:49:40.48,*Default,NTP,0000,0000,0000,,关于帕特里夏的事\N{\fn微软雅黑\fs14}About Patricia.
+Dialogue: 0,0:49:40.64,0:49:42.75,*Default,NTP,0000,0000,0000,,什么意思\N{\fn微软雅黑\fs14}What do you mean?
+Dialogue: 0,0:49:42.91,0:49:46.35,*Default,NTP,0000,0000,0000,,她参加了政治团体\N{\fn微软雅黑\fs14}She was active in some political groups.
+Dialogue: 0,0:49:48.67,0:49:50.63,*Default,NTP,0000,0000,0000,,没人知道她到底在哪里\N{\fn微软雅黑\fs14}No one knows where she is, really.
+Dialogue: 0,0:49:50.79,0:49:53.02,*Default,NTP,0000,0000,0000,,她还好吗\N{\fn微软雅黑\fs14}If she's all right.
+Dialogue: 0,0:49:53.18,0:49:55.54,*Default,NTP,0000,0000,0000,,那是真的吗\N{\fn微软雅黑\fs14}Was it true...
+Dialogue: 0,0:49:55.70,0:49:57.18,*Default,NTP,0000,0000,0000,,奥尔加说的\N{\fn微软雅黑\fs14}what Olga said?
+Dialogue: 0,0:49:59.18,0:50:01.38,*Default,NTP,0000,0000,0000,,是的\N{\fn微软雅黑\fs14}Yes.
+Dialogue: 0,0:50:01.54,0:50:03.97,*Default,NTP,0000,0000,0000,,帕特里夏不相信那些女管理员\N{\fn微软雅黑\fs14}Patricia didn't trust the matrons.
+Dialogue: 0,0:50:05.41,0:50:07.57,*Default,NTP,0000,0000,0000,,我从来都不知道原因\N{\fn微软雅黑\fs14}And I never understood why.
+Dialogue: 0,0:50:11.65,0:50:14.76,*Default,NTP,0000,0000,0000,,要是我明天求你帮个忙  你会帮我吗\N{\fn微软雅黑\fs14}If I asked you for a favor tomorrow, would you do it?
+Dialogue: 0,0:50:14.76,0:50:15.76,*Default,NTP,0000,0000,0000,,会\N{\fn微软雅黑\fs14}Yes.
+Dialogue: 0,0:50:22.79,0:50:25.19,*Default,NTP,0000,0000,0000,,我们可能会被抓到的\N{\fn微软雅黑\fs14}We might get caught.
+Dialogue: 0,0:50:26.19,0:50:27.19,*Default,NTP,0000,0000,0000,,好的\N{\fn微软雅黑\fs14}Okay.
+Dialogue: 0,0:51:12.28,0:51:13.75,*Default,NTP,0000,0000,0000,,母亲  母亲\N{\fn微软雅黑\fs14}Mother. Mother.
+Dialogue: 0,0:51:14.39,0:51:15.63,*Default,NTP,0000,0000,0000,,母亲\N{\fn微软雅黑\fs14}Mother.
+Dialogue: 0,0:51:15.79,0:51:18.67,*Default,NTP,0000,0000,0000,,母亲  母亲  母亲  母亲\N{\fn微软雅黑\fs14}Mother. Mother. Mother. Mother.
+Dialogue: 0,0:51:18.83,0:51:20.39,*Default,NTP,0000,0000,0000,,母亲  母亲\N{\fn微软雅黑\fs14}Mother. Mother.
+Dialogue: 0,0:51:24.14,0:51:25.06,*Default,NTP,0000,0000,0000,,苏珊娜\N{\fn微软雅黑\fs14}Susanna.
+Dialogue: 0,0:51:27.68,0:51:28.84,*Default,NTP,0000,0000,0000,,谁\N{\fn微软雅黑\fs14}Who?
+Dialogue: 0,0:51:31.72,0:51:32.72,*Default,NTP,0000,0000,0000,,女巫\N{\fn微软雅黑\fs14}Witches!
+Dialogue: 0,0:51:38.08,0:51:42.66,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}第三幕\N借
+Dialogue: 0,0:52:09.59,0:52:12.03,*Default,NTP,0000,0000,0000,,请进  快\N{\fn微软雅黑\fs14}Come inside, hurry up!
+Dialogue: 0,0:52:15.20,0:52:16.55,*Default,NTP,0000,0000,0000,,有何贵干\N{\fn微软雅黑\fs14}What do you want?
+Dialogue: 0,0:52:17.00,0:52:19.28,*Default,NTP,0000,0000,0000,,我们想找负责人谈谈\N{\fn微软雅黑\fs14}We need to talk to someone in charge.
+Dialogue: 0,0:52:19.28,0:52:21.11,*Default,NTP,0000,0000,0000,,马科斯老师\N{\fn微软雅黑\fs14}Miss Markos!
+Dialogue: 0,0:52:21.11,0:52:25.03,*Default,NTP,0000,0000,0000,,事关一个年轻女孩  她叫帕特里夏\N{\fn微软雅黑\fs14}About a girl named Patrizia...
+Dialogue: 0,0:52:28.55,0:52:30.32,*Default,NTP,0000,0000,0000,,帕特里夏·辛格\N{\fn微软雅黑\fs14}Patricia Hingle.
+Dialogue: 0,0:52:36.11,0:52:38.24,*Default,NTP,0000,0000,0000,,有叫布兰克的吗\N{\fn微软雅黑\fs14}Someone named Blanc then?
+Dialogue: 0,0:52:40.03,0:52:41.40,*Default,NTP,0000,0000,0000,,我就是\N{\fn微软雅黑\fs14}I'm she.
+Dialogue: 0,0:52:44.07,0:52:50.80,*Default,NTP,0000,0000,0000,,进来说吧  请  跟我来\N{\fn微软雅黑\fs14}Why don't you come in? Please... follow me.
+Dialogue: 0,0:52:59.85,0:53:01.33,*Default,NTP,0000,0000,0000,,-早上好  -早上好\N{\fn微软雅黑\fs14}- Guten Morgen. - Guten Morgen.
+Dialogue: 0,0:53:01.49,0:53:02.45,*Default,NTP,0000,0000,0000,,早上好\N{\fn微软雅黑\fs14}Morgen.
+Dialogue: 0,0:53:02.61,0:53:04.08,*Default,NTP,0000,0000,0000,,早上好\N{\fn微软雅黑\fs14}Guten Morgen.
+Dialogue: 0,0:53:14.11,0:53:15.75,*Default,NTP,0000,0000,0000,,我知道  太疯狂了\N{\fn微软雅黑\fs14}Yeah, I know. It's crazy.
+Dialogue: 0,0:53:15.91,0:53:17.75,*Default,NTP,0000,0000,0000,,好了  我们下回见\N{\fn微软雅黑\fs14}Okay, well, let's meet soon.
+Dialogue: 0,0:53:25.18,0:53:26.62,*Default,NTP,0000,0000,0000,,不  我  我准备好了\N{\fn微软雅黑\fs14}Yeah, no, I'm-I'm... I'm ready.
+Dialogue: 0,0:53:26.78,0:53:28.70,*Default,NTP,0000,0000,0000,,我快出门了\N{\fn微软雅黑\fs14}I'm almost out the door.
+Dialogue: 0,0:53:28.86,0:53:30.50,*Default,NTP,0000,0000,0000,,好  好的\N{\fn微软雅黑\fs14}Okay. Yeah.
+Dialogue: 0,0:53:30.66,0:53:33.06,*Default,NTP,0000,0000,0000,,-回头见  -马尔凯塔\N{\fn微软雅黑\fs14}- I'll see you soon. - Marketa.
+Dialogue: 0,0:53:34.37,0:53:37.57,*Default,NTP,0000,0000,0000,,-马尔凯塔  过来  -回见\N{\fn微软雅黑\fs14}- Marketa, come on. - I'll see you soon.
+Dialogue: 0,0:53:39.49,0:53:40.89,*Default,NTP,0000,0000,0000,,快过来\N{\fn微软雅黑\fs14}Come on.
+Dialogue: 0,0:53:58.31,0:53:59.75,*Default,NTP,0000,0000,0000,,过来  来  快来\N{\fn微软雅黑\fs14}Come, come, come.
+Dialogue: 0,0:54:10.30,0:54:13.02,*Default,NTP,0000,0000,0000,,你确定没人会来吗\N{\fn微软雅黑\fs14}Are you sure no one's coming?
+Dialogue: 0,0:54:13.17,0:54:15.05,*Default,NTP,0000,0000,0000,,确定  别担心\N{\fn微软雅黑\fs14}Oh, I'm sure. Don't worry.
+Dialogue: 0,0:54:15.21,0:54:17.25,*Default,NTP,0000,0000,0000,,周末没人会来这里的\N{\fn微软雅黑\fs14}Nobody comes here during the weekend.
+Dialogue: 0,0:54:44.62,0:54:45.94,*Default,NTP,0000,0000,0000,,这里没有帕特里夏的\N{\fn微软雅黑\fs14}Patricia's isn't here.
+Dialogue: 0,0:54:46.10,0:54:48.34,*Default,NTP,0000,0000,0000,,找找奥尔加的\N{\fn微软雅黑\fs14}Try looking for Olga's.
+Dialogue: 0,0:54:48.50,0:54:49.94,*Default,NTP,0000,0000,0000,,奥尔加\N{\fn微软雅黑\fs14}Olga...
+Dialogue: 0,0:54:50.74,0:54:52.10,*Default,NTP,0000,0000,0000,,她的也没有\N{\fn微软雅黑\fs14}She's not here.
+Dialogue: 0,0:54:53.85,0:54:56.05,*Default,NTP,0000,0000,0000,,我需要号码\N{\fn微软雅黑\fs14}I just need a number.
+Dialogue: 0,0:54:56.21,0:54:58.33,*Default,NTP,0000,0000,0000,,要能打给她父母或是谁  能确切告诉我\N{\fn微软雅黑\fs14}For her parents or someone who can tell me for sure
+Dialogue: 0,0:54:58.49,0:54:59.69,*Default,NTP,0000,0000,0000,,她在不在柏林\N{\fn微软雅黑\fs14}she is or isn't in Berlin.
+Dialogue: 0,0:55:20.07,0:55:22.27,*Default,NTP,0000,0000,0000,,好奇怪\N{\fn微软雅黑\fs14}Hmm. How odd.
+Dialogue: 0,0:55:27.06,0:55:28.30,*Default,NTP,0000,0000,0000,,1961年\N{\fn微软雅黑\fs14}1961.
+Dialogue: 0,0:55:30.14,0:55:31.54,*Default,NTP,0000,0000,0000,,1955年\N{\fn微软雅黑\fs14}1955.
+Dialogue: 0,0:55:33.37,0:55:35.01,*Default,NTP,0000,0000,0000,,1949年\N{\fn微软雅黑\fs14}1949.
+Dialogue: 0,0:55:36.53,0:55:37.77,*Default,NTP,0000,0000,0000,,真古怪\N{\fn微软雅黑\fs14}It's bizarre.
+Dialogue: 0,0:56:29.92,0:56:31.04,*Default,NTP,0000,0000,0000,,什么都没有\N{\fn微软雅黑\fs14}There's nothing.
+Dialogue: 0,0:56:31.20,0:56:32.56,*Default,NTP,0000,0000,0000,,快走吧\N{\fn微软雅黑\fs14}Come on.
+Dialogue: 0,0:56:36.59,0:56:38.79,*Default,NTP,0000,0000,0000,,坐下\N{\fn微软雅黑\fs14}Sit down.
+Dialogue: 0,0:56:43.23,0:56:44.98,*Default,NTP,0000,0000,0000,,今天早上\N{\fn微软雅黑\fs14}This morning,
+Dialogue: 0,0:56:45.14,0:56:47.82,*Default,NTP,0000,0000,0000,,我们把自己的本能转向内心\N{\fn微软雅黑\fs14}we turn our instincts inward.
+Dialogue: 0,0:56:47.98,0:56:49.30,*Default,NTP,0000,0000,0000,,米利乌斯小姐  曼德尔小姐\N{\fn微软雅黑\fs14}Miss Millius, Miss Mandel,
+Dialogue: 0,0:56:49.46,0:56:51.22,*Default,NTP,0000,0000,0000,,请把镜子盖上  好吗\N{\fn微软雅黑\fs14}can you close the mirrors, please?
+Dialogue: 0,0:56:51.38,0:56:52.46,*Default,NTP,0000,0000,0000,,马科斯小姐  不放音乐\N{\fn微软雅黑\fs14}Miss Marks, no music.
+Dialogue: 0,0:57:01.01,0:57:03.68,*Default,NTP,0000,0000,0000,,我想开始一段新的作品\N{\fn微软雅黑\fs14}I want to start work on a new piece.
+Dialogue: 0,0:57:03.84,0:57:07.80,*Default,NTP,0000,0000,0000,,关于重生\N{\fn微软雅黑\fs14}A piece about rebirths.
+Dialogue: 0,0:57:07.96,0:57:10.80,*Default,NTP,0000,0000,0000,,它们施加的不可避免的拉扯\N{\fn微软雅黑\fs14}The inevitable pull that they exert
+Dialogue: 0,0:57:10.96,0:57:14.59,*Default,NTP,0000,0000,0000,,以及我们努力的逃离\N{\fn微软雅黑\fs14}and our efforts to escape them.
+Dialogue: 0,0:57:14.75,0:57:17.31,*Default,NTP,0000,0000,0000,,我们现在开始学习  但是  苏西\N{\fn微软雅黑\fs14}We'll learn it now, but, Susie,
+Dialogue: 0,0:57:17.47,0:57:20.19,*Default,NTP,0000,0000,0000,,你可以随心即兴发挥\N{\fn微软雅黑\fs14}you will improvise freely at its heart.
+Dialogue: 0,0:57:20.35,0:57:22.15,*Default,NTP,0000,0000,0000,,我对你的本能很感兴趣\N{\fn微软雅黑\fs14}I'm interested in your instincts here.
+Dialogue: 0,0:57:32.14,0:57:35.33,*Default,NTP,0000,0000,0000,,这个作品将被命名为"Weider Öffnen"\N{\fn微软雅黑\fs14}The piece will be called Weider Öffnen.
+Dialogue: 0,0:57:35.49,0:57:37.21,*Default,NTP,0000,0000,0000,,再次开始\N{\fn微软雅黑\fs14}Open Again.
+Dialogue: 0,0:57:37.37,0:57:38.73,*Default,NTP,0000,0000,0000,,开始\N{\fn微软雅黑\fs14}Allez.
+Dialogue: 0,0:57:45.88,0:57:49.32,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,0:57:49.48,0:57:52.91,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,0:57:53.07,0:57:56.43,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,0:57:56.59,0:58:00.19,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,0:58:00.35,0:58:03.70,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,0:58:03.86,0:58:06.26,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,0:58:07.42,0:58:10.70,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,0:58:10.86,0:58:14.13,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,0:58:14.29,0:58:17.69,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,0:58:17.85,0:58:18.93,*Default,NTP,0000,0000,0000,,一\N{\fn微软雅黑\fs14}One...
+Dialogue: 0,0:58:19.09,0:58:21.08,*Default,NTP,0000,0000,0000,,二  三  四\N{\fn微软雅黑\fs14}...two, three, four.
+Dialogue: 0,0:58:21.24,0:58:24.84,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,0:58:25.00,0:58:27.88,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,0:58:28.04,0:58:31.67,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,0:58:31.83,0:58:35.23,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,0:58:35.39,0:58:38.87,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,0:58:39.03,0:58:42.22,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,0:58:42.38,0:58:45.58,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,0:58:45.74,0:58:47.30,*Default,NTP,0000,0000,0000,,一\N{\fn微软雅黑\fs14}One...
+Dialogue: 0,0:59:04.96,0:59:07.76,*Default,NTP,0000,0000,0000,,你应该事先告诉我她要过来\N{\fn微软雅黑\fs14}You should have told me she was coming.
+Dialogue: 0,0:59:07.76,0:59:10.28,*Default,NTP,0000,0000,0000,,她想亲自感受一下苏西\N{\fn微软雅黑\fs14}She wanted to fell Susie for herself.
+Dialogue: 0,0:59:10.28,0:59:12.44,*Default,NTP,0000,0000,0000,,所以你把她放在\N{\fn微软雅黑\fs14}So you put her...
+Dialogue: 0,0:59:12.44,0:59:15.20,*Default,NTP,0000,0000,0000,,地板下面的\N{\fn微软雅黑\fs14}in a storage closet!
+Dialogue: 0,0:59:15.20,0:59:16.44,*Default,NTP,0000,0000,0000,,储藏间里\N{\fn微软雅黑\fs14}Under the floor?
+Dialogue: 0,0:59:16.48,0:59:17.72,*Default,NTP,0000,0000,0000,,海莲娜·马科斯\N{\fn微软雅黑\fs14}Helena Markos?
+Dialogue: 0,0:59:18.76,0:59:20.76,*Default,NTP,0000,0000,0000,,母亲想要这样\N{\fn微软雅黑\fs14}Mother wanted it.
+Dialogue: 0,0:59:20.20,0:59:23.40,*Default,NTP,0000,0000,0000,,我们不是同意不再用那个头衔了吗\N{\fn微软雅黑\fs14}I though we agreed to stop using that title.
+Dialogue: 0,0:59:24.20,0:59:26.48,*Default,NTP,0000,0000,0000,,如果马科斯真是三母亲之一\N{\fn微软雅黑\fs14}If Markos really were one of the Three Mothers
+Dialogue: 0,0:59:26.48,0:59:28.84,*Default,NTP,0000,0000,0000,,我们就不会陷入这个尴尬局面\N{\fn微软雅黑\fs14}we wouldn't be in this situation.
+Dialogue: 0,0:59:28.84,0:59:33.32,*Default,NTP,0000,0000,0000,,班尼恩小姐的事你应该自己告诉马科斯\N{\fn微软雅黑\fs14}You should have told Markos about Miss Bannion yourself.
+Dialogue: 0,0:59:33.32,0:59:35.55,*Default,NTP,0000,0000,0000,,现在母亲想要她\N{\fn微软雅黑\fs14}Now Mother wants her.
+Dialogue: 0,0:59:35.55,0:59:40.51,*Default,NTP,0000,0000,0000,,我们这么快就又要浪费一个女孩吗\N{\fn微软雅黑\fs14}Are we going to waste another girl so quickly?
+Dialogue: 0,0:59:42.07,0:59:43.32,*Default,NTP,0000,0000,0000,,大家都投过票了\N{\fn微软雅黑\fs14}Everyone voted.
+Dialogue: 0,0:59:43.32,0:59:46.11,*Default,NTP,0000,0000,0000,,我们没有选择你作为领袖\N{\fn微软雅黑\fs14}You are not the light we chose to follow.
+Dialogue: 0,0:59:46.11,0:59:51.11,*Default,NTP,0000,0000,0000,,如果马科斯想要这个女孩  那你就得为她做好准备\N{\fn微软雅黑\fs14}If Markos wants this girl, you must prepare her.
+Dialogue: 0,0:59:51.11,0:59:52.07,*Default,NTP,0000,0000,0000,,她想要吗\N{\fn微软雅黑\fs14}And does she?
+Dialogue: 0,0:59:52.07,0:59:52.96,*Default,NTP,0000,0000,0000,,是的\N{\fn微软雅黑\fs14}Yes!
+Dialogue: 0,0:59:54.11,0:59:55.92,*Default,NTP,0000,0000,0000,,马科斯能活下去\N{\fn微软雅黑\fs14}Markos will live.
+Dialogue: 0,0:59:56.92,1:00:00.28,*Default,NTP,0000,0000,0000,,我们及时找到了这个女孩\N{\fn微软雅黑\fs14}We found the girl in time.
+Dialogue: 0,1:00:13.00,1:00:16.32,*Default,NTP,0000,0000,0000,,我不用着急了\N{\fn微软雅黑\fs14}I won't rush again.
+Dialogue: 0,1:00:16.32,1:00:20.96,*Default,NTP,0000,0000,0000,,这个女孩准备好的时候  我会亲自告诉马科斯\N{\fn微软雅黑\fs14}I will tell Markos when the girl is ready.
+Dialogue: 0,1:00:21.56,1:00:22.80,*Default,NTP,0000,0000,0000,,巴尔福\N{\fn微软雅黑\fs14}Miss Balfour!
+Dialogue: 0,1:00:23.51,1:00:24.36,*Default,NTP,0000,0000,0000,,好了\N{\fn微软雅黑\fs14}Alright!
+Dialogue: 0,1:00:26.18,1:00:27.98,*Default,NTP,0000,0000,0000,,发生什么事了吗\N{\fn微软雅黑\fs14}Did something happen?
+Dialogue: 0,1:00:28.14,1:00:30.18,*Default,NTP,0000,0000,0000,,你跳舞的时候\N{\fn微软雅黑\fs14}To you, during it?
+Dialogue: 0,1:00:32.37,1:00:34.37,*Default,NTP,0000,0000,0000,,没  没有\N{\fn微软雅黑\fs14}N-No.
+Dialogue: 0,1:00:34.53,1:00:36.05,*Default,NTP,0000,0000,0000,,你有没有  有没有...\N{\fn微软雅黑\fs14}Did you... did you...
+Dialogue: 0,1:00:37.13,1:00:39.81,*Default,NTP,0000,0000,0000,,你有没有感觉到什么\N{\fn微软雅黑\fs14}Did you feel something there?
+Dialogue: 0,1:00:41.68,1:00:43.84,*Default,NTP,0000,0000,0000,,什么人\N{\fn微软雅黑\fs14}Someone?
+Dialogue: 0,1:00:44.00,1:00:45.56,*Default,NTP,0000,0000,0000,,或是什么东西\N{\fn微软雅黑\fs14}Or just something.
+Dialogue: 0,1:00:47.32,1:00:48.60,*Default,NTP,0000,0000,0000,,你怎么会这么问\N{\fn微软雅黑\fs14}What made you say that?
+Dialogue: 0,1:00:48.76,1:00:49.96,*Default,NTP,0000,0000,0000,,我不知道\N{\fn微软雅黑\fs14}I don't know.
+Dialogue: 0,1:00:52.75,1:00:55.47,*Default,NTP,0000,0000,0000,,我把你问懵了吗\N{\fn微软雅黑\fs14}Am I confusing you?
+Dialogue: 0,1:00:56.43,1:00:58.15,*Default,NTP,0000,0000,0000,,没有  就是\N{\fn微软雅黑\fs14}No, it's, um...
+Dialogue: 0,1:00:59.31,1:01:01.66,*Default,NTP,0000,0000,0000,,感觉很奇怪  这是...\N{\fn微软雅黑\fs14}It's odd. It's the...
+Dialogue: 0,1:01:01.82,1:01:03.46,*Default,NTP,0000,0000,0000,,这是帕特里夏会说的那种话\N{\fn微软雅黑\fs14}It's the sort of thing Patricia would say.
+Dialogue: 0,1:01:03.62,1:01:06.10,*Default,NTP,0000,0000,0000,,很古怪\N{\fn微软雅黑\fs14}It's bizarre.
+Dialogue: 0,1:01:06.26,1:01:07.82,*Default,NTP,0000,0000,0000,,走吧\N{\fn微软雅黑\fs14}Come on.
+Dialogue: 0,1:01:07.82,1:01:09.70,*Default,NTP,0000,0000,0000,,我们换个衣服  不然索尼娅就自己走了\N{\fn微软雅黑\fs14}Let's get changed, or Sonia will leave without us.
+Dialogue: 0,1:01:09.86,1:01:10.90,*Default,NTP,0000,0000,0000,,我有你能穿的裙子\N{\fn微软雅黑\fs14}I've got a dress you can wear.
+Dialogue: 0,1:01:11.06,1:01:12.26,*Default,NTP,0000,0000,0000,,两个酷女孩\N{\fn微软雅黑\fs14}Double caposhi.
+Dialogue: 0,1:01:27.40,1:01:28.84,*Default,NTP,0000,0000,0000,,苏西\N{\fn微软雅黑\fs14}Susie!
+Dialogue: 0,1:01:39.95,1:01:41.63,*Default,NTP,0000,0000,0000,,苏西\N{\fn微软雅黑\fs14}Oh, Susie!
+Dialogue: 0,1:01:53.76,1:01:56.72,*Default,NTP,0000,0000,0000,,我想用老式的方法\N{\fn微软雅黑\fs14}I want to bring in a custom from the old ways.
+Dialogue: 0,1:01:56.72,1:01:58.51,*Default,NTP,0000,0000,0000,,你有什么想法\N{\fn微软雅黑\fs14}What do you have in mind?
+Dialogue: 0,1:01:58.51,1:02:00.24,*Default,NTP,0000,0000,0000,,一个见证人\N{\fn微软雅黑\fs14}A witness.
+Dialogue: 0,1:02:00.24,1:02:02.72,*Default,NTP,0000,0000,0000,,我们新认识的警察朋友中的一个\N{\fn微软雅黑\fs14}One of our new friends from the police?
+Dialogue: 0,1:02:02.72,1:02:06.28,*Default,NTP,0000,0000,0000,,为什么不在窗外漂亮的小东西中挑一个\N{\fn微软雅黑\fs14}Why not one of those young things at the window?
+Dialogue: 0,1:02:06.28,1:02:09.03,*Default,NTP,0000,0000,0000,,我们已经有位见证人了\N{\fn微软雅黑\fs14}You're forgetting we already have a witness.
+Dialogue: 0,1:02:09.03,1:02:12.36,*Default,NTP,0000,0000,0000,,那个把警察叫到我们房子的老男人\N{\fn微软雅黑\fs14}The old man who sent us the police in the first place.
+Dialogue: 0,1:02:12.36,1:02:14.15,*Default,NTP,0000,0000,0000,,他会成为我们的见证人\N{\fn微软雅黑\fs14}He will be our winess.
+Dialogue: 0,1:02:14.15,1:02:17.32,*Default,NTP,0000,0000,0000,,对  不能是这些女孩\N{\fn微软雅黑\fs14}Yes. Not one of our girls.
+Dialogue: 0,1:02:17.32,1:02:19.00,*Default,NTP,0000,0000,0000,,这会让她们发疯的\N{\fn微软雅黑\fs14}It would make any of them insane.
+Dialogue: 0,1:02:19.00,1:02:20.92,*Default,NTP,0000,0000,0000,,没错\N{\fn微软雅黑\fs14}I agree.
+Dialogue: 0,1:02:20.92,1:02:23.92,*Default,NTP,0000,0000,0000,,让苏西看见我们这样也是好事\N{\fn微软雅黑\fs14}And it's good for Susie to see us like this.
+Dialogue: 0,1:02:23.92,1:02:26.11,*Default,NTP,0000,0000,0000,,我们仍属于这个世界\N{\fn微软雅黑\fs14}That we're still part of the world.
+Dialogue: 0,1:02:26.11,1:02:29.55,*Default,NTP,0000,0000,0000,,也许她还感受到了我们的企图\N{\fn微软雅黑\fs14}Maybe she even senses what we want of her.
+Dialogue: 0,1:02:29.55,1:02:32.15,*Default,NTP,0000,0000,0000,,她能感受到很多\N{\fn微软雅黑\fs14}She senses a lot.
+Dialogue: 0,1:02:32.15,1:02:34.96,*Default,NTP,0000,0000,0000,,你能看见她眼睛放光\N{\fn微软雅黑\fs14}You can see her eyes shine with it.
+Dialogue: 0,1:02:34.96,1:02:37.63,*Default,NTP,0000,0000,0000,,我每天晚上都能看到\N{\fn微软雅黑\fs14}I see it every night.
+Dialogue: 0,1:02:37.63,1:02:40.48,*Default,NTP,0000,0000,0000,,就在我把我们的梦托给她的时候\N{\fn微软雅黑\fs14}When I send her our dreams.
+Dialogue: 0,1:03:26.68,1:03:28.08,*Default,NTP,0000,0000,0000,,是真的吗\N{\fn微软雅黑\fs14}Is it true?
+Dialogue: 0,1:04:00.65,1:04:02.13,*Default,NTP,0000,0000,0000,,是真的吗\N{\fn微软雅黑\fs14}Is it true?
+Dialogue: 0,1:04:07.76,1:04:09.52,*Default,NTP,0000,0000,0000,,我知道我是谁\N{\fn微软雅黑\fs14}I know who I am!
+Dialogue: 0,1:04:11.00,1:04:12.96,*Default,NTP,0000,0000,0000,,我知道我是谁\N{\fn微软雅黑\fs14}I know who I am!
+Dialogue: 0,1:04:17.83,1:04:20.43,*Default,NTP,0000,0000,0000,,没事了\N{\fn微软雅黑\fs14}It's all right.
+Dialogue: 0,1:04:20.59,1:04:21.59,*Default,NTP,0000,0000,0000,,没事了\N{\fn微软雅黑\fs14}It's okay.
+Dialogue: 0,1:04:21.75,1:04:23.27,*Default,NTP,0000,0000,0000,,她没事吧\N{\fn微软雅黑\fs14}Is she all right?
+Dialogue: 0,1:04:23.43,1:04:24.83,*Default,NTP,0000,0000,0000,,只是做了个噩梦\N{\fn微软雅黑\fs14}It's just a nightmare.
+Dialogue: 0,1:04:25.59,1:04:27.15,*Default,NTP,0000,0000,0000,,马科斯舞团特制\N{\fn微软雅黑\fs14}The Markos Company special.
+Dialogue: 0,1:04:27.31,1:04:29.15,*Default,NTP,0000,0000,0000,,没想到你过这么久才做噩梦\N{\fn微软雅黑\fs14}I'm surprised it took this long.
+Dialogue: 0,1:04:29.31,1:04:31.39,*Default,NTP,0000,0000,0000,,如果她需要安定就告诉我\N{\fn微软雅黑\fs14}Hey, let me know if she needs a Valium.
+Dialogue: 0,1:04:39.34,1:04:41.50,*Default,NTP,0000,0000,0000,,她说得没错  我刚来这里时睡不好觉\N{\fn微软雅黑\fs14}She's right. I dreamt of hairballs in toilets
+Dialogue: 0,1:04:41.66,1:04:44.46,*Default,NTP,0000,0000,0000,,连着三周天天梦到厕所里的头发团\N{\fn微软雅黑\fs14}for three weeks before I got a decent night of sleep here.
+Dialogue: 0,1:04:46.25,1:04:47.29,*Default,NTP,0000,0000,0000,,过去点\N{\fn微软雅黑\fs14}Move over.
+Dialogue: 0,1:04:58.48,1:05:01.80,*Default,NTP,0000,0000,0000,,我只和我的姐姐一起同床睡过\N{\fn微软雅黑\fs14}I've only ever slept in bed with my sister.
+Dialogue: 0,1:05:01.96,1:05:03.56,*Default,NTP,0000,0000,0000,,现在我们就是姐妹了\N{\fn微软雅黑\fs14}We're sisters now.
+Dialogue: 0,1:05:29.36,1:05:34.69,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}第四幕\N索取
+Dialogue: 0,1:05:56.24,1:05:58.76,*Default,NTP,0000,0000,0000,,在刚刚向媒体发布的声明中\N{\fn微软雅黑\fs14}In a statement released to the press moments ago,
+Dialogue: 0,1:05:58.76,1:06:02.11,*Default,NTP,0000,0000,0000,,劫匪头目马蒂亚尔·马哈茂德\N{\fn微软雅黑\fs14}the hijacker's leader Martyrer Mahmud
+Dialogue: 0,1:06:00.67,1:06:03.83,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}柏林站[西出口]
+Dialogue: 0,1:06:02.11,1:06:04.22,*Default,NTP,0000,0000,0000,,要求释放巴德尔  艾思林  莫勒\N{\fn微软雅黑\fs14}demands Baader, Ensslin, Moeller
+Dialogue: 0,1:06:04.22,1:06:06.20,*Default,NTP,0000,0000,0000,,以及其它关押在施达姆斯坦监狱的\N{\fn微软雅黑\fs14}and the other RAF prisoners
+Dialogue: 0,1:06:06.20,1:06:10.68,*Default,NTP,0000,0000,0000,,赤色军团囚犯并乘飞机前往摩加迪沙\N{\fn微软雅黑\fs14}be released from Stammheim prison and flown to Mogadishu.
+Dialogue: 0,1:06:10.72,1:06:11.68,*Default,NTP,0000,0000,0000,,早上好\N{\fn微软雅黑\fs14}Good morning.
+Dialogue: 0,1:06:11.68,1:06:18.84,*Default,NTP,0000,0000,0000,,我能见格洛克纳警官或阿尔布雷希特警官吗\N{\fn微软雅黑\fs14}I'd like to talk to Detective Glockner or Detective Albrecht.
+Dialogue: 0,1:06:19.28,1:06:20.36,*Default,NTP,0000,0000,0000,,姓名\N{\fn微软雅黑\fs14}Your name?
+Dialogue: 0,1:06:20.36,1:06:22.76,*Default,NTP,0000,0000,0000,,约瑟夫·克伦佩雷尔\N{\fn微软雅黑\fs14}Klemperer, Josef.
+Dialogue: 0,1:06:22.76,1:06:23.59,*Default,NTP,0000,0000,0000,,稍等\N{\fn微软雅黑\fs14}One moment.
+Dialogue: 0,1:06:25.76,1:06:28.96,*Default,NTP,0000,0000,0000,,为表明态度\N{\fn微软雅黑\fs14}...as proof of their intentions,
+Dialogue: 0,1:06:28.96,1:06:31.84,*Default,NTP,0000,0000,0000,,劫匪把航班飞行员尤尔根·舒曼的尸体\N{\fn微软雅黑\fs14}the hijackers threw down onto the tarmac,
+Dialogue: 0,1:06:31.84,1:06:34.00,*Default,NTP,0000,0000,0000,,扔到了柏油马路上\N{\fn微软雅黑\fs14}the body of the flights pilot Jurgen Schumann.
+Dialogue: 0,1:06:34.00,1:06:35.88,*Default,NTP,0000,0000,0000,,他已头部中枪身亡\N{\fn微软雅黑\fs14}He had been shot in the head.
+Dialogue: 0,1:06:37.40,1:06:39.63,*Default,NTP,0000,0000,0000,,格洛克纳警官的办公室就在右边\N{\fn微软雅黑\fs14}Agent Glockner's office is on the right.
+Dialogue: 0,1:06:39.63,1:06:42.48,*Default,NTP,0000,0000,0000,,请到那边那边坐下  他们会叫你\N{\fn微软雅黑\fs14}Have a seat there and they'll call for you.
+Dialogue: 0,1:06:43.36,1:06:45.03,*Default,NTP,0000,0000,0000,,恐怖分子嫌疑人  你知道这个女人的名字吗\N{\fn微软雅黑\fs14}Terror suspect. Do you know this woman's name?
+Dialogue: 0,1:06:53.46,1:06:59.11,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}寻人启事
+Dialogue: 0,1:06:54.97,1:06:56.96,*Default,NTP,0000,0000,0000,,克伦佩雷尔先生\N{\fn微软雅黑\fs14}Herr Klemperer?
+Dialogue: 0,1:06:57.20,1:06:59.07,*Default,NTP,0000,0000,0000,,克伦佩雷尔先生\N{\fn微软雅黑\fs14}Herr Klemperer?
+Dialogue: 0,1:06:59.20,1:07:01.16,*Default,NTP,0000,0000,0000,,请进\N{\fn微软雅黑\fs14}Please come inside.
+Dialogue: 0,1:07:02.55,1:07:04.51,*Default,NTP,0000,0000,0000,,我们看了所有的房间\N{\fn微软雅黑\fs14}We were shown every room.
+Dialogue: 0,1:07:04.51,1:07:07.32,*Default,NTP,0000,0000,0000,,没看到任何值得注意的\N{\fn微软雅黑\fs14}We didn't see anything worth remembering.
+Dialogue: 0,1:07:08.48,1:07:11.44,*Default,NTP,0000,0000,0000,,她们都是专业的演员\N{\fn微软雅黑\fs14}They are professional performers.
+Dialogue: 0,1:07:11.44,1:07:15.20,*Default,NTP,0000,0000,0000,,幻觉是她们的手段\N{\fn微软雅黑\fs14}Illusion is their craft.
+Dialogue: 0,1:07:15.36,1:07:17.51,*Default,NTP,0000,0000,0000,,这不是您该操心的\N{\fn微软雅黑\fs14}It's not your place to speculate on that.
+Dialogue: 0,1:07:23.84,1:07:27.76,*Default,NTP,0000,0000,0000,,你们跟那个叫马科斯的女人谈了吗\N{\fn微软雅黑\fs14}Did you speak to the woman called Markos?
+Dialogue: 0,1:07:27.76,1:07:31.68,*Default,NTP,0000,0000,0000,,帕特里夏总叫她"马科斯母亲"\N{\fn微软雅黑\fs14}Patricia referred to her as "Mother Markos."
+Dialogue: 0,1:07:31.68,1:07:39.24,*Default,NTP,0000,0000,0000,,她有这个女人率领女巫团的幻觉\N{\fn微软雅黑\fs14}She had a delusion about this woman leading a coven there.
+Dialogue: 0,1:07:41.59,1:07:45.24,*Default,NTP,0000,0000,0000,,她有这个幻觉已经好几个月了\N{\fn微软雅黑\fs14}She had this delusion for months.
+Dialogue: 0,1:07:45.24,1:07:47.76,*Default,NTP,0000,0000,0000,,您相信女巫吗  医生\N{\fn微软雅黑\fs14}Do you believe in witches, Doctor?
+Dialogue: 0,1:07:47.76,1:07:50.48,*Default,NTP,0000,0000,0000,,不\N{\fn微软雅黑\fs14}No.
+Dialogue: 0,1:07:50.48,1:07:53.03,*Default,NTP,0000,0000,0000,,但是我相信\N{\fn微软雅黑\fs14}But I believe that...
+Dialogue: 0,1:07:53.03,1:07:59.96,*Default,NTP,0000,0000,0000,,人们可以犯下罪行并将其称之为巫术\N{\fn微软雅黑\fs14}people can organize themselves to perpetrate crimes and call it magic.
+Dialogue: 0,1:07:59.96,1:08:03.00,*Default,NTP,0000,0000,0000,,这个我信\N{\fn微软雅黑\fs14}That I can believe.
+Dialogue: 0,1:08:04.80,1:08:08.51,*Default,NTP,0000,0000,0000,,您知道我们这一周是怎么过来的吗  医生\N{\fn微软雅黑\fs14}Do you understand the kind of week we are having, Doctor?
+Dialogue: 0,1:08:14.07,1:08:17.07,*Default,NTP,0000,0000,0000,,格洛克纳警官\N{\fn微软雅黑\fs14}Detective Glockner!
+Dialogue: 0,1:08:19.48,1:08:23.15,*Default,NTP,0000,0000,0000,,这不是我们第一次见面了\N{\fn微软雅黑\fs14}This isn't the first time we've met.
+Dialogue: 0,1:08:24.15,1:08:28.19,*Default,NTP,0000,0000,0000,,您以前是弗里德瑙的警察\N{\fn微软雅黑\fs14}You were on the police force in Friedenau, weren't you?
+Dialogue: 0,1:08:28.19,1:08:33.80,*Default,NTP,0000,0000,0000,,您帮我找过我的妻子\N{\fn微软雅黑\fs14}You helped me to try to locate my wife.
+Dialogue: 0,1:08:33.80,1:08:36.07,*Default,NTP,0000,0000,0000,,您的妻子也失踪了\N{\fn微软雅黑\fs14}Your wife also went missing?
+Dialogue: 0,1:08:36.07,1:08:39.88,*Default,NTP,0000,0000,0000,,苏联执政前两年\N{\fn微软雅黑\fs14}Two years before the Russian charge.
+Dialogue: 0,1:08:39.88,1:08:46.52,*Default,NTP,0000,0000,0000,,安科·米尔  1943年\N{\fn微软雅黑\fs14}Ankle Meire. 1943.
+Dialogue: 0,1:08:46.52,1:08:52.27,*Default,NTP,0000,0000,0000,,根据记录  您帮我排除了波兰\N{\fn微软雅黑\fs14}From the records, you helped me cross off Poland.
+Dialogue: 0,1:08:52.27,1:08:57.03,*Default,NTP,0000,0000,0000,,我仍然非常感激\N{\fn微软雅黑\fs14}I'm still grateful.
+Dialogue: 0,1:09:05.79,1:09:08.03,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}And one, and two, and three.
+Dialogue: 0,1:09:08.19,1:09:10.31,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}And one, and two, and three.
+Dialogue: 0,1:09:10.47,1:09:12.75,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}And one, and two, and three.
+Dialogue: 0,1:09:12.91,1:09:15.50,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}And one, and two, and three.
+Dialogue: 0,1:09:15.66,1:09:17.54,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}One, and two, and three.
+Dialogue: 0,1:09:17.70,1:09:20.10,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}And one, and two, and three.
+Dialogue: 0,1:09:20.26,1:09:22.46,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}And one, and two, and three.
+Dialogue: 0,1:09:22.62,1:09:24.73,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}And one, and two, and three.
+Dialogue: 0,1:09:24.89,1:09:26.57,*Default,NTP,0000,0000,0000,,没关系\N{\fn微软雅黑\fs14}That's-that's okay.
+Dialogue: 0,1:09:28.81,1:09:30.41,*Default,NTP,0000,0000,0000,,你要做跳跃吗\N{\fn微软雅黑\fs14}Do you want to do the jumps?
+Dialogue: 0,1:09:31.97,1:09:33.73,*Default,NTP,0000,0000,0000,,好\N{\fn微软雅黑\fs14}Okay.
+Dialogue: 0,1:09:33.89,1:09:35.52,*Default,NTP,0000,0000,0000,,然后\N{\fn微软雅黑\fs14}And...
+Dialogue: 0,1:09:35.68,1:09:37.88,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}one, and two, and three.
+Dialogue: 0,1:09:38.04,1:09:40.52,*Default,NTP,0000,0000,0000,,一  二  三\N{\fn微软雅黑\fs14}And one, and two, and three.
+Dialogue: 0,1:09:40.68,1:09:41.40,*Default,NTP,0000,0000,0000,,不\N{\fn微软雅黑\fs14}No.
+Dialogue: 0,1:09:41.56,1:09:43.20,*Default,NTP,0000,0000,0000,,手肘抬高\N{\fn微软雅黑\fs14}Elbows higher.
+Dialogue: 0,1:09:43.36,1:09:44.51,*Default,NTP,0000,0000,0000,,打断一下\N{\fn微软雅黑\fs14}All right, one moment.
+Dialogue: 0,1:09:44.67,1:09:46.47,*Default,NTP,0000,0000,0000,,苏西  跳跃要放松肌肉\N{\fn微软雅黑\fs14}Susie, part of the jump is muscle,
+Dialogue: 0,1:09:46.63,1:09:48.83,*Default,NTP,0000,0000,0000,,随着你的跳跃会越来越放松\N{\fn微软雅黑\fs14}and that will develop as you condition,
+Dialogue: 0,1:09:48.99,1:09:50.35,*Default,NTP,0000,0000,0000,,但是你好像不喜欢这样\N{\fn微软雅黑\fs14}but you seem to have an aversion to them,
+Dialogue: 0,1:09:50.51,1:09:51.99,*Default,NTP,0000,0000,0000,,我不知道为什么\N{\fn微软雅黑\fs14}and I don't quite see why.
+Dialogue: 0,1:09:52.15,1:09:53.79,*Default,NTP,0000,0000,0000,,你很喜欢被束缚在大地上吗\N{\fn微软雅黑\fs14}Are you so happy to be stuck to the earth?
+Dialogue: 0,1:09:55.26,1:09:57.02,*Default,NTP,0000,0000,0000,,落地前要屈膝\N{\fn微软雅黑\fs14}There's a yield before the push,
+Dialogue: 0,1:09:57.18,1:09:58.70,*Default,NTP,0000,0000,0000,,我觉得你还没有理解透彻\N{\fn微软雅黑\fs14}which I don't think you're quite understanding.
+Dialogue: 0,1:09:58.86,1:10:02.02,*Default,NTP,0000,0000,0000,,卡洛琳  你能来帮我们示范一套吗\N{\fn微软雅黑\fs14}Caroline. Could you come and do a series for us, please?
+Dialogue: 0,1:10:17.72,1:10:18.52,*Default,NTP,0000,0000,0000,,谢谢\N{\fn微软雅黑\fs14}Thank you.
+Dialogue: 0,1:10:19.88,1:10:21.20,*Default,NTP,0000,0000,0000,,轮到你了\N{\fn微软雅黑\fs14}And now you.
+Dialogue: 0,1:10:46.97,1:10:49.01,*Default,NTP,0000,0000,0000,,我现在只想\N{\fn微软雅黑\fs14}What I really want is to be on...
+Dialogue: 0,1:10:49.17,1:10:51.17,*Default,NTP,0000,0000,0000,,好好站在在这地板上\N{\fn微软雅黑\fs14}on the floor right now, anyway.
+Dialogue: 0,1:10:51.33,1:10:52.73,*Default,NTP,0000,0000,0000,,当然了\N{\fn微软雅黑\fs14}Well, of course.
+Dialogue: 0,1:10:52.89,1:10:55.12,*Default,NTP,0000,0000,0000,,那是因为你错将肢体上的不足\N{\fn微软雅黑\fs14}That's because you're mistaking physical weakness
+Dialogue: 0,1:10:55.28,1:10:57.20,*Default,NTP,0000,0000,0000,,当做你的艺术追求\N{\fn微软雅黑\fs14}with artistic preference.
+Dialogue: 0,1:10:57.36,1:10:59.00,*Default,NTP,0000,0000,0000,,还因为你累了\N{\fn微软雅黑\fs14}And because you're tired.
+Dialogue: 0,1:11:02.93,1:11:03.52,*Default,NTP,0000,0000,0000,,现在\N{\fn微软雅黑\fs14}At this point,
+Dialogue: 0,1:11:03.68,1:11:05.91,*Default,NTP,0000,0000,0000,,跳跃是与这个地方对你的拉扯对抗\N{\fn微软雅黑\fs14}the jumps are opposing the pull of the structure,
+Dialogue: 0,1:11:06.07,1:11:08.27,*Default,NTP,0000,0000,0000,,但是\N{\fn微软雅黑\fs14}but...
+Dialogue: 0,1:11:08.43,1:11:10.11,*Default,NTP,0000,0000,0000,,这样做还太早了  你不觉得吗\N{\fn微软雅黑\fs14}it's soon for that, don't you think?
+Dialogue: 0,1:11:12.15,1:11:16.54,*Default,NTP,0000,0000,0000,,地板...才是在承受所有舞者的压力\N{\fn微软雅黑\fs14}The floor work is... is keeping the other dancers pushed down.
+Dialogue: 0,1:11:16.70,1:11:19.18,*Default,NTP,0000,0000,0000,,所以这样\N{\fn微软雅黑\fs14}So this...
+Dialogue: 0,1:11:19.34,1:11:21.94,*Default,NTP,0000,0000,0000,,这样才能回响...\N{\fn微软雅黑\fs14}this could echo that...
+Dialogue: 0,1:11:25.97,1:11:29.65,*Default,NTP,0000,0000,0000,,达到更高的高度\N{\fn微软雅黑\fs14}...on-on a slightly higher point of elevation.
+Dialogue: 0,1:11:32.25,1:11:33.93,*Default,NTP,0000,0000,0000,,如果我现在贴近地面\N{\fn微软雅黑\fs14}If I stay close to the ground now
+Dialogue: 0,1:11:34.09,1:11:37.68,*Default,NTP,0000,0000,0000,,然后再直接起跳\N{\fn微软雅黑\fs14}and go straight into the jumps where you have them later,
+Dialogue: 0,1:11:37.84,1:11:41.84,*Default,NTP,0000,0000,0000,,就能更加达到高度\N{\fn微软雅黑\fs14}then that's more to the point.
+Dialogue: 0,1:11:42.00,1:11:44.20,*Default,NTP,0000,0000,0000,,这种抗拒更加\N{\fn微软雅黑\fs14}The resistance is more...
+Dialogue: 0,1:11:44.36,1:11:46.31,*Default,NTP,0000,0000,0000,,强烈\N{\fn微软雅黑\fs14}emphatic.
+Dialogue: 0,1:11:46.47,1:11:47.67,*Default,NTP,0000,0000,0000,,对吧\N{\fn微软雅黑\fs14}Right?
+Dialogue: 0,1:11:50.99,1:11:55.70,*Default,NTP,0000,0000,0000,,我觉得你可能不知道\N{\fn微软雅黑\fs14}I don't know how aware you are
+Dialogue: 0,1:11:55.86,1:11:59.10,*Default,NTP,0000,0000,0000,,我们四十年来住在这里经历了什么\N{\fn微软雅黑\fs14}of what times we lived through here 40 years ago.
+Dialogue: 0,1:12:01.74,1:12:03.54,*Default,NTP,0000,0000,0000,,不知道这里是由什么建造的\N{\fn微软雅黑\fs14}Out of which this piece was made.
+Dialogue: 0,1:12:05.49,1:12:07.61,*Default,NTP,0000,0000,0000,,我们这么多年来付出了惨重的代价\N{\fn微软雅黑\fs14}We learned at great cost through those years
+Dialogue: 0,1:12:07.77,1:12:10.85,*Default,NTP,0000,0000,0000,,才学会了平衡的重要\N{\fn微软雅黑\fs14}the value of the balance of things.
+Dialogue: 0,1:12:11.01,1:12:15.88,*Default,NTP,0000,0000,0000,,每一支射出的弓箭都能感到地球的拉扯\N{\fn微软雅黑\fs14}Every arrow that flies feels the pull of the earth,
+Dialogue: 0,1:12:16.04,1:12:19.64,*Default,NTP,0000,0000,0000,,但我们还是要向上瞄准\N{\fn微软雅黑\fs14}but we must aim upwards.
+Dialogue: 0,1:12:19.80,1:12:21.40,*Default,NTP,0000,0000,0000,,我们要让你置身空中\N{\fn微软雅黑\fs14}We need to get you in the air.
+Dialogue: 0,1:12:39.38,1:12:41.26,*Default,NTP,0000,0000,0000,,别碰她  别碰她  别碰她  别碰她\N{\fn微软雅黑\fs14}Leave her, leave her, leave her, leave her, leave...
+Dialogue: 0,1:12:59.64,1:13:03.03,*Default,NTP,0000,0000,0000,,卡洛琳  不用害怕\N{\fn微软雅黑\fs14}Oh, Caroline. Don't be afraid.
+Dialogue: 0,1:13:03.03,1:13:06.15,*Default,NTP,0000,0000,0000,,一切都会好的  好吗\N{\fn微软雅黑\fs14}Eveything will be alright. Yes?
+Dialogue: 0,1:13:13.39,1:13:15.34,*Default,NTP,0000,0000,0000,,她狠狠地撞到了头\N{\fn微软雅黑\fs14}She hit her head hard.
+Dialogue: 0,1:13:13.45,1:13:15.05,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}坦兹
+Dialogue: 0,1:13:15.50,1:13:16.90,*Default,NTP,0000,0000,0000,,我听到了  我希望...\N{\fn微软雅黑\fs14}I heard it. I hope...
+Dialogue: 0,1:13:17.11,1:13:18.60,*Default,NTP,0000,0000,0000,,小姐\N{\fn微软雅黑\fs14}Fraulein?
+Dialogue: 0,1:13:19.80,1:13:22.11,*Default,NTP,0000,0000,0000,,请等一下\N{\fn微软雅黑\fs14}One moment, please.
+Dialogue: 0,1:13:25.69,1:13:30.37,*Default,NTP,0000,0000,0000,,我...我在找和你们舞团的一名舞者\N{\fn微软雅黑\fs14}I am... I'm looking for a dancer from your company.
+Dialogue: 0,1:13:30.53,1:13:32.81,*Default,NTP,0000,0000,0000,,你要找谁\N{\fn微软雅黑\fs14}Who are you looking for?
+Dialogue: 0,1:13:32.97,1:13:34.53,*Default,NTP,0000,0000,0000,,你是莎拉\N{\fn微软雅黑\fs14}You are Sara.
+Dialogue: 0,1:13:37.20,1:13:38.76,*Default,NTP,0000,0000,0000,,是的\N{\fn微软雅黑\fs14}Yes.
+Dialogue: 0,1:13:38.92,1:13:39.88,*Default,NTP,0000,0000,0000,,有什么需要帮忙的吗\N{\fn微软雅黑\fs14}May I help you?
+Dialogue: 0,1:13:40.04,1:13:43.08,*Default,NTP,0000,0000,0000,,我是帕特里夏的一个朋友\N{\fn微软雅黑\fs14}I am a friend from Patricia.
+Dialogue: 0,1:13:44.88,1:13:48.64,*Default,NTP,0000,0000,0000,,当截止时间一到  劫匪就通知警方\N{\fn微软雅黑\fs14}When the deadline arrived, the hijackers informed the police,
+Dialogue: 0,1:13:48.64,1:13:52.56,*Default,NTP,0000,0000,0000,,他们把航班上所有的免费酒都倒在人质身上\N{\fn微软雅黑\fs14}they had poured all the flight's duty-free alcohol over the hostages
+Dialogue: 0,1:13:52.56,1:13:54.92,*Default,NTP,0000,0000,0000,,扬言放火烧掉他们\N{\fn微软雅黑\fs14}and were set to ignite them.
+Dialogue: 0,1:13:54.92,1:13:58.07,*Default,NTP,0000,0000,0000,,但当他们得知西德政府正在走流程\N{\fn微软雅黑\fs14}But when they were told the West German Government
+Dialogue: 0,1:13:58.07,1:14:00.60,*Default,NTP,0000,0000,0000,,释放施达姆斯坦监狱收押的恐怖分子时\N{\fn微软雅黑\fs14}was in the process of releasing the terrorists from Stammheim prison,
+Dialogue: 0,1:14:00.60,1:14:04.07,*Default,NTP,0000,0000,0000,,他们同意将最后期限延长至午夜之后\N{\fn微软雅黑\fs14}they agreed to extend the deadline to after midnight.
+Dialogue: 0,1:14:04.07,1:14:06.29,*Default,NTP,0000,0000,0000,,我不知道是怎么回事\N{\fn微软雅黑\fs14}I don't know what to make of any of this.
+Dialogue: 0,1:14:06.45,1:14:08.05,*Default,NTP,0000,0000,0000,,我知道她都在做些什么\N{\fn微软雅黑\fs14}I know the kind of thing she was involved with,
+Dialogue: 0,1:14:08.21,1:14:09.49,*Default,NTP,0000,0000,0000,,但我不觉得舞团内\N{\fn微软雅黑\fs14}but I can't see how any of this
+Dialogue: 0,1:14:09.65,1:14:11.73,*Default,NTP,0000,0000,0000,,会发生这种事\N{\fn微软雅黑\fs14}could be happening inside the company.
+Dialogue: 0,1:14:12.07,1:14:13.96,*Default,NTP,0000,0000,0000,,她描述为\N{\fn微软雅黑\fs14}Well, she describes...
+Dialogue: 0,1:14:15.59,1:14:18.42,*Default,NTP,0000,0000,0000,,类似于某种夺权的\N{\fn微软雅黑\fs14}something like a revolutionary organization
+Dialogue: 0,1:14:18.58,1:14:21.14,*Default,NTP,0000,0000,0000,,反抗团体\N{\fn微软雅黑\fs14}in a crisis of leadership.
+Dialogue: 0,1:14:21.30,1:14:24.22,*Default,NTP,0000,0000,0000,,由于马科斯重病\N{\fn微软雅黑\fs14}With Markos very ill...
+Dialogue: 0,1:14:25.81,1:14:27.49,*Default,NTP,0000,0000,0000,,我就住在那里\N{\fn微软雅黑\fs14}I live there.
+Dialogue: 0,1:14:27.65,1:14:28.85,*Default,NTP,0000,0000,0000,,那里还有我的朋友\N{\fn微软雅黑\fs14}I have friends there.
+Dialogue: 0,1:14:29.01,1:14:31.01,*Default,NTP,0000,0000,0000,,我没有发现这种情况\N{\fn微软雅黑\fs14}I don't see any evidence of this at all.
+Dialogue: 0,1:14:31.17,1:14:32.45,*Default,NTP,0000,0000,0000,,没有人来接近过我\N{\fn微软雅黑\fs14}No one has ever approached me
+Dialogue: 0,1:14:32.61,1:14:34.29,*Default,NTP,0000,0000,0000,,据我所知也没有人接近过其他女孩\N{\fn微软雅黑\fs14}or any of the other girls, as far as I know.
+Dialogue: 0,1:14:34.45,1:14:37.20,*Default,NTP,0000,0000,0000,,读读这个\N{\fn微软雅黑\fs14}Read this.
+Dialogue: 0,1:14:37.36,1:14:38.28,*Default,NTP,0000,0000,0000,,这是什么\N{\fn微软雅黑\fs14}What is this?
+Dialogue: 0,1:14:38.44,1:14:40.32,*Default,NTP,0000,0000,0000,,这是帕特里夏的日记\N{\fn微软雅黑\fs14}This is Patricia's diary.
+Dialogue: 0,1:14:42.32,1:14:44.00,*Default,NTP,0000,0000,0000,,马科斯母亲\N{\fn微软雅黑\fs14}Mother Markos.
+Dialogue: 0,1:14:44.16,1:14:47.19,*Default,NTP,0000,0000,0000,,迈因霍夫母亲\N{\fn微软雅黑\fs14}Mother Meinhof.
+Dialogue: 0,1:14:47.35,1:14:48.63,*Default,NTP,0000,0000,0000,,舞蹈排练\N{\fn微软雅黑\fs14}The dance rehearsal.
+Dialogue: 0,1:14:48.79,1:14:50.11,*Default,NTP,0000,0000,0000,,政治活动\N{\fn微软雅黑\fs14}Political action.
+Dialogue: 0,1:14:50.27,1:14:52.07,*Default,NTP,0000,0000,0000,,这两者在帕特里夏的生活中\N{\fn微软雅黑\fs14}These two areas in Patricia's life
+Dialogue: 0,1:14:52.23,1:14:55.30,*Default,NTP,0000,0000,0000,,是同样重要的\N{\fn微软雅黑\fs14}were of equal importance.
+Dialogue: 0,1:14:55.46,1:14:58.06,*Default,NTP,0000,0000,0000,,于是就会发生移情\N{\fn微软雅黑\fs14}This is how transference happens,
+Dialogue: 0,1:14:58.22,1:15:01.42,*Default,NTP,0000,0000,0000,,就会出现幻想\N{\fn微软雅黑\fs14}how delusion is made.
+Dialogue: 0,1:15:01.58,1:15:03.10,*Default,NTP,0000,0000,0000,,幻想  莎拉\N{\fn微软雅黑\fs14}Delusion, Sara,
+Dialogue: 0,1:15:03.26,1:15:06.77,*Default,NTP,0000,0000,0000,,就是道出真相的谎言\N{\fn微软雅黑\fs14}is a lie that tells a truth.
+Dialogue: 0,1:15:06.93,1:15:08.72,*Default,NTP,0000,0000,0000,,这上面说"女巫"\N{\fn微软雅黑\fs14}This says "Witches."
+Dialogue: 0,1:15:10.69,1:15:15.08,*Default,NTP,0000,0000,0000,,也许帕特里夏的幻想是和女巫有关的\N{\fn微软雅黑\fs14}Maybe Patricia's fantasies about witches,
+Dialogue: 0,1:15:15.25,1:15:20.64,*Default,NTP,0000,0000,0000,,她是这样应对其他形式的刺激的\N{\fn微软雅黑\fs14}they are her way of processing some other form of intrigue.
+Dialogue: 0,1:15:23.56,1:15:25.95,*Default,NTP,0000,0000,0000,,舞团是一个家\N{\fn微软雅黑\fs14}The company's a family.
+Dialogue: 0,1:15:26.11,1:15:27.87,*Default,NTP,0000,0000,0000,,大家之间非常友爱\N{\fn微软雅黑\fs14}There's a lot of love there.
+Dialogue: 0,1:15:28.03,1:15:29.51,*Default,NTP,0000,0000,0000,,爱和操控\N{\fn微软雅黑\fs14}Love and manipulation--
+Dialogue: 0,1:15:29.67,1:15:33.79,*Default,NTP,0000,0000,0000,,经常...经常会同时出现\N{\fn微软雅黑\fs14}they... they share houses very often.
+Dialogue: 0,1:15:33.95,1:15:36.50,*Default,NTP,0000,0000,0000,,他们形影相随\N{\fn微软雅黑\fs14}They are frequent bedfellows.
+Dialogue: 0,1:15:36.66,1:15:38.42,*Default,NTP,0000,0000,0000,,抱歉  我看不出来\N{\fn微软雅黑\fs14}Sorry, I don't see this.
+Dialogue: 0,1:15:42.94,1:15:43.94,*Default,NTP,0000,0000,0000,,吃吧\N{\fn微软雅黑\fs14}Eat.
+Dialogue: 0,1:15:46.05,1:15:47.05,*Default,NTP,0000,0000,0000,,吃吧\N{\fn微软雅黑\fs14}Eat.
+Dialogue: 0,1:15:55.72,1:15:58.32,*Default,NTP,0000,0000,0000,,只不过\N{\fn微软雅黑\fs14}Only...
+Dialogue: 0,1:15:58.48,1:16:01.24,*Default,NTP,0000,0000,0000,,也许是警察遗漏了些什么\N{\fn微软雅黑\fs14}maybe the police, they missed something.
+Dialogue: 0,1:16:02.48,1:16:06.39,*Default,NTP,0000,0000,0000,,帕特里夏的确提到过\N{\fn微软雅黑\fs14}And Patricia, she did spoke of...
+Dialogue: 0,1:16:06.55,1:16:09.63,*Default,NTP,0000,0000,0000,,那幢大楼有隐藏区域\N{\fn微软雅黑\fs14}whole hidden areas of the building.
+Dialogue: 0,1:16:09.79,1:16:12.75,*Default,NTP,0000,0000,0000,,有些隐藏的房间\N{\fn微软雅黑\fs14}Actual rooms that are secret.
+Dialogue: 0,1:16:18.14,1:16:20.46,*Default,NTP,0000,0000,0000,,无意冒犯\N{\fn微软雅黑\fs14}I don't want to be disrespectful--
+Dialogue: 0,1:16:20.62,1:16:22.90,*Default,NTP,0000,0000,0000,,我不...但你既然问了\N{\fn微软雅黑\fs14}I don't-- but you're asking me,
+Dialogue: 0,1:16:23.06,1:16:24.86,*Default,NTP,0000,0000,0000,,-我就告诉你  -拜托\N{\fn微软雅黑\fs14}- and I'm telling you... - Oh, please.
+Dialogue: 0,1:16:25.02,1:16:26.17,*Default,NTP,0000,0000,0000,,这是个舞团\N{\fn微软雅黑\fs14}It's a dance company.
+Dialogue: 0,1:16:26.33,1:16:28.21,*Default,NTP,0000,0000,0000,,我们不会聊别的事\N{\fn微软雅黑\fs14}We're not talking about anything else.
+Dialogue: 0,1:16:28.37,1:16:29.89,*Default,NTP,0000,0000,0000,,莎拉\N{\fn微软雅黑\fs14}Sara.
+Dialogue: 0,1:16:30.05,1:16:33.29,*Default,NTP,0000,0000,0000,,拜托  你仔细再看看\N{\fn微软雅黑\fs14}Please, only look closer.
+Dialogue: 0,1:16:33.45,1:16:34.57,*Default,NTP,0000,0000,0000,,谢谢你对帕特里夏的关心\N{\fn微软雅黑\fs14}Thank you for caring for Patricia,
+Dialogue: 0,1:16:34.73,1:16:36.36,*Default,NTP,0000,0000,0000,,但我希望你以后不要再来了\N{\fn微软雅黑\fs14}but I hope you don't come again.
+Dialogue: 0,1:16:58.46,1:16:59.62,*Default,NTP,0000,0000,0000,,-晚安  -晚安\N{\fn微软雅黑\fs14}- Good night. - Good night.
+Dialogue: 0,1:17:00.01,1:17:01.57,*Default,NTP,0000,0000,0000,,莎拉  快点\N{\fn微软雅黑\fs14}Sara, hurry up.
+Dialogue: 0,1:17:01.73,1:17:03.97,*Default,NTP,0000,0000,0000,,我累了  我要用厕所\N{\fn微软雅黑\fs14}I'm tired. I need the bathroom.
+Dialogue: 0,1:17:07.12,1:17:09.04,*Default,NTP,0000,0000,0000,,-晚安  朵儿  -晚安\N{\fn微软雅黑\fs14}- Good night, Doll. - Good night.
+Dialogue: 0,1:17:18.59,1:17:20.47,*Default,NTP,0000,0000,0000,,她还没有回来吗\N{\fn微软雅黑\fs14}She hasn't come back yet?
+Dialogue: 0,1:17:26.11,1:17:28.54,*Default,NTP,0000,0000,0000,,也许她去约会了\N{\fn微软雅黑\fs14}Maybe she's seeing somebody.
+Dialogue: 0,1:17:33.30,1:17:34.82,*Default,NTP,0000,0000,0000,,你经常要面对的问题之一是\N{\fn微软雅黑\fs14}Part of the issue always
+Dialogue: 0,1:17:34.98,1:17:37.29,*Default,NTP,0000,0000,0000,,你无法全方位地看到你自己的肢体\N{\fn微软雅黑\fs14}is not being able to see your body in space.
+Dialogue: 0,1:17:37.45,1:17:41.89,*Default,NTP,0000,0000,0000,,镜子中的一个角度或者拍录的片段远远不够\N{\fn微软雅黑\fs14}One angle in one mirror or on film is not enough.
+Dialogue: 0,1:17:42.05,1:17:43.53,*Default,NTP,0000,0000,0000,,舞动不是无声的\N{\fn微软雅黑\fs14}Movement is never mute.
+Dialogue: 0,1:17:43.69,1:17:45.13,*Default,NTP,0000,0000,0000,,而是一种语言\N{\fn微软雅黑\fs14}It is a language.
+Dialogue: 0,1:17:45.29,1:17:46.76,*Default,NTP,0000,0000,0000,,一套在空气中\N{\fn微软雅黑\fs14}It's a series of energetic shapes...
+Dialogue: 0,1:17:46.92,1:17:48.44,*Default,NTP,0000,0000,0000,,传递的能量形态\N{\fn微软雅黑\fs14}...written in the air
+Dialogue: 0,1:17:48.60,1:17:51.56,*Default,NTP,0000,0000,0000,,就像辞藻对语句的塑造\N{\fn微软雅黑\fs14}like words forming sentences.
+Dialogue: 0,1:17:51.72,1:17:53.12,*Default,NTP,0000,0000,0000,,对诗篇的塑造\N{\fn微软雅黑\fs14}Like poems.
+Dialogue: 0,1:17:54.36,1:17:55.76,*Default,NTP,0000,0000,0000,,对祷词的塑造\N{\fn微软雅黑\fs14}Like prayers.
+Dialogue: 0,1:17:58.75,1:17:59.99,*Default,NTP,0000,0000,0000,,就像咒语\N{\fn微软雅黑\fs14}Spells?
+Dialogue: 0,1:18:02.03,1:18:05.95,*Default,NTP,0000,0000,0000,,当你跳跃起来  重要的不是你跳得多高\N{\fn微软雅黑\fs14}When you jump, it's not the height
+Dialogue: 0,1:18:06.11,1:18:08.46,*Default,NTP,0000,0000,0000,,而是你身下的空间\N{\fn微软雅黑\fs14}but the space beneath you that matters.
+Dialogue: 0,1:18:08.62,1:18:11.26,*Default,NTP,0000,0000,0000,,你向空中的每一跃都要像一见钟情\N{\fn微软雅黑\fs14}Every leap into the air must be a coup de foudre.
+Dialogue: 0,1:18:16.38,1:18:18.01,*Default,NTP,0000,0000,0000,,我不明白\N{\fn微软雅黑\fs14}I don't understand.
+Dialogue: 0,1:18:18.17,1:18:20.81,*Default,NTP,0000,0000,0000,,就像一道电光\N{\fn微软雅黑\fs14}A strike of lightning.
+Dialogue: 0,1:18:20.97,1:18:23.05,*Default,NTP,0000,0000,0000,,爱神之箭\N{\fn微软雅黑\fs14}A bolt of love, in fact.
+Dialogue: 0,1:18:26.13,1:18:28.56,*Default,NTP,0000,0000,0000,,真美\N{\fn微软雅黑\fs14}That's beautiful.
+Dialogue: 0,1:18:28.72,1:18:31.92,*Default,NTP,0000,0000,0000,,舞者绝对不能拥有两样特质\N{\fn微软雅黑\fs14}There are two things that dance can never be again:
+Dialogue: 0,1:18:32.08,1:18:34.84,*Default,NTP,0000,0000,0000,,美丽和欢乐\N{\fn微软雅黑\fs14}beautiful and cheerful.
+Dialogue: 0,1:18:35.00,1:18:39.03,*Default,NTP,0000,0000,0000,,今天  我们要把所有美丽的东西都打倒\N{\fn微软雅黑\fs14}Today, we need to break the nose of every beautiful thing.
+Dialogue: 0,1:18:39.19,1:18:40.59,*Default,NTP,0000,0000,0000,,如果你要做舞者\N{\fn微软雅黑\fs14}And if you're going to be a dancer,
+Dialogue: 0,1:18:40.75,1:18:42.59,*Default,NTP,0000,0000,0000,,你必须要学习法语\N{\fn微软雅黑\fs14}you must learn French.
+Dialogue: 0,1:18:43.35,1:18:45.33,*Default,NTP,0000,0000,0000,,不用担心\N{\fn微软雅黑\fs14}Try not to worry.
+Dialogue: 0,1:18:45.33,1:18:48.14,*Default,NTP,0000,0000,0000,,布兰克正在尝试新方法\N{\fn微软雅黑\fs14}Blanc is working on the new approach,
+Dialogue: 0,1:18:48.14,1:18:51.10,*Default,NTP,0000,0000,0000,,我们怎么知道帕特里夏会变成那样\N{\fn微软雅黑\fs14}How could we have known what would happen with Patricia?
+Dialogue: 0,1:18:51.10,1:18:54.33,*Default,NTP,0000,0000,0000,,我们想做的事在现实中还没做过\N{\fn微软雅黑\fs14}What we are attempting hasn't been done in living memory.
+Dialogue: 0,1:18:54.33,1:18:58.22,*Default,NTP,0000,0000,0000,,我们怎么知道能不能成功\N{\fn微软雅黑\fs14}How do we know it will work at all?
+Dialogue: 0,1:18:58.22,1:19:00.45,*Default,NTP,0000,0000,0000,,如果害得那个女孩没命\N{\fn微软雅黑\fs14}If it killed that girl
+Dialogue: 0,1:19:00.45,1:19:03.22,*Default,NTP,0000,0000,0000,,无论用哪个女孩都会死\N{\fn微软雅黑\fs14}it may kill any girl we try.
+Dialogue: 0,1:19:03.22,1:19:04.53,*Default,NTP,0000,0000,0000,,她说得没错\N{\fn微软雅黑\fs14}She is not wrong.
+Dialogue: 0,1:19:04.26,1:19:05.74,*Default,NTP,0000,0000,0000,,帕特里夏最后不是自愿的\N{\fn微软雅黑\fs14}Patricia was unwilling in the end.
+Dialogue: 0,1:19:05.74,1:19:07.70,*Default,NTP,0000,0000,0000,,布兰克认为那就是原因\N{\fn微软雅黑\fs14}Blanc believes that was the reason.
+Dialogue: 0,1:19:07.70,1:19:10.37,*Default,NTP,0000,0000,0000,,我们不应该强迫\N{\fn微软雅黑\fs14}We should not have forced it.
+Dialogue: 0,1:19:10.37,1:19:12.14,*Default,NTP,0000,0000,0000,,她还没准备好\N{\fn微软雅黑\fs14}She did not want to be a vessel.
+Dialogue: 0,1:19:12.14,1:19:14.10,*Default,NTP,0000,0000,0000,,我们想把自己的力量给她\N{\fn微软雅黑\fs14}We wanted to bring her into our power
+Dialogue: 0,1:19:14.10,1:19:17.14,*Default,NTP,0000,0000,0000,,可她却想把百货商场给炸了\N{\fn微软雅黑\fs14}but she wanted to blow up departments stores intead.
+Dialogue: 0,1:19:17.14,1:19:18.68,*Default,NTP,0000,0000,0000,,那姑娘太蠢了\N{\fn微软雅黑\fs14}What a fool, that girl.
+Dialogue: 0,1:19:18.87,1:19:20.71,*Default,NTP,0000,0000,0000,,当你跳别人创造的舞时\N{\fn微软雅黑\fs14}When you dance the dance of another,
+Dialogue: 0,1:19:20.87,1:19:24.75,*Default,NTP,0000,0000,0000,,你就把你自己想象成创造者\N{\fn微软雅黑\fs14}you make yourself in the image of its creator.
+Dialogue: 0,1:19:24.91,1:19:26.07,*Default,NTP,0000,0000,0000,,你放空你自己\N{\fn微软雅黑\fs14}You empty yourself
+Dialogue: 0,1:19:26.22,1:19:27.66,*Default,NTP,0000,0000,0000,,让她的作品存于你的心中\N{\fn微软雅黑\fs14}so that her work can live within you.
+Dialogue: 0,1:19:27.82,1:19:29.06,*Default,NTP,0000,0000,0000,,你明白吗\N{\fn微软雅黑\fs14}Do you understand?
+Dialogue: 0,1:19:30.30,1:19:32.34,*Default,NTP,0000,0000,0000,,嗯\N{\fn微软雅黑\fs14}Yeah.
+Dialogue: 0,1:19:32.50,1:19:33.62,*Default,NTP,0000,0000,0000,,你现在是舞团的一员\N{\fn微软雅黑\fs14}You're in a company now.
+Dialogue: 0,1:19:33.78,1:19:35.06,*Default,NTP,0000,0000,0000,,你要找准你自己的位置\N{\fn微软雅黑\fs14}You have to find your right place.
+Dialogue: 0,1:19:35.22,1:19:36.57,*Default,NTP,0000,0000,0000,,你要决定\N{\fn微软雅黑\fs14}You have to decide--
+Dialogue: 0,1:19:36.73,1:19:39.81,*Default,NTP,0000,0000,0000,,你想成为舞团的哪一部分\N{\fn微软雅黑\fs14}what is it you want to be for this company?
+Dialogue: 0,1:19:39.97,1:19:41.73,*Default,NTP,0000,0000,0000,,是头\N{\fn微软雅黑\fs14}Is it the head?
+Dialogue: 0,1:19:41.89,1:19:43.53,*Default,NTP,0000,0000,0000,,脊柱\N{\fn微软雅黑\fs14}The spine?
+Dialogue: 0,1:19:43.69,1:19:45.61,*Default,NTP,0000,0000,0000,,性爱\N{\fn微软雅黑\fs14}The sex?
+Dialogue: 0,1:19:45.77,1:19:46.92,*Default,NTP,0000,0000,0000,,心脏\N{\fn微软雅黑\fs14}The heart?
+Dialogue: 0,1:19:47.08,1:19:48.24,*Default,NTP,0000,0000,0000,,手\N{\fn微软雅黑\fs14}The hands.
+Dialogue: 0,1:19:51.16,1:19:53.04,*Default,NTP,0000,0000,0000,,我想成为这个舞团的手\N{\fn微软雅黑\fs14}I want to be this company's hands.
+Dialogue: 0,1:19:57.47,1:19:59.39,*Default,NTP,0000,0000,0000,,更高\N{\fn微软雅黑\fs14}Higher.
+Dialogue: 0,1:19:59.55,1:20:01.23,*Default,NTP,0000,0000,0000,,更高  更高\N{\fn微软雅黑\fs14}Higher. Higher.
+Dialogue: 0,1:20:01.39,1:20:03.99,*Default,NTP,0000,0000,0000,,更高\N{\fn微软雅黑\fs14}Higher.
+Dialogue: 0,1:20:04.15,1:20:06.19,*Default,NTP,0000,0000,0000,,更高  更高\N{\fn微软雅黑\fs14}Higher! Higher.
+Dialogue: 0,1:20:06.35,1:20:07.70,*Default,NTP,0000,0000,0000,,更高\N{\fn微软雅黑\fs14}Higher.
+Dialogue: 0,1:20:09.26,1:20:12.42,*Default,NTP,0000,0000,0000,,更高  更高  更高\N{\fn微软雅黑\fs14}Higher, higher, higher.
+Dialogue: 0,1:20:12.58,1:20:13.66,*Default,NTP,0000,0000,0000,,更高\N{\fn微软雅黑\fs14}Higher.
+Dialogue: 0,1:20:18.93,1:20:19.81,*Default,NTP,0000,0000,0000,,更高\N{\fn微软雅黑\fs14}Higher.
+Dialogue: 0,1:20:20.53,1:20:22.77,*Default,NTP,0000,0000,0000,,更高  更高\N{\fn微软雅黑\fs14}Higher. Higher.
+Dialogue: 0,1:20:22.93,1:20:26.52,*Default,NTP,0000,0000,0000,,更高  更高  更高\N{\fn微软雅黑\fs14}Higher. Higher. Higher.
+Dialogue: 0,1:20:32.40,1:20:35.12,*Default,NTP,0000,0000,0000,,有时候只需要教我两遍\N{\fn微软雅黑\fs14}Sometimes I only need to be told twice.
+Dialogue: 0,1:20:46.78,1:20:49.94,*Default,NTP,0000,0000,0000,,我们怎么知道没人想把我们也炸了\N{\fn微软雅黑\fs14}How do we know no one's planning to blow us up, too?
+Dialogue: 0,1:20:49.94,1:20:53.37,*Default,NTP,0000,0000,0000,,帕特里夏可能把我们的事情告诉任何人\N{\fn微软雅黑\fs14}Patricia might have said anything to anyone about us.
+Dialogue: 0,1:20:53.37,1:20:54.90,*Default,NTP,0000,0000,0000,,就像那个老头\N{\fn微软雅黑\fs14}As she did with the old man.
+Dialogue: 0,1:20:54.90,1:20:55.86,*Default,NTP,0000,0000,0000,,你说的对\N{\fn微软雅黑\fs14}You are right.
+Dialogue: 0,1:20:55.86,1:20:57.65,*Default,NTP,0000,0000,0000,,我们不能泄气\N{\fn微软雅黑\fs14}We cannot despair.
+Dialogue: 0,1:20:58.94,1:21:00.49,*Default,NTP,0000,0000,0000,,我们还有时间\N{\fn微软雅黑\fs14}We have time.
+Dialogue: 0,1:21:00.49,1:21:02.78,*Default,NTP,0000,0000,0000,,有多少时间\N{\fn微软雅黑\fs14}How much time?
+Dialogue: 0,1:21:02.78,1:21:06.41,*Default,NTP,0000,0000,0000,,如果母亲在布兰克将苏西带下来之前死了\N{\fn微软雅黑\fs14}If Mother dies before Blanc can deliver us Susie.
+Dialogue: 0,1:21:06.41,1:21:07.94,*Default,NTP,0000,0000,0000,,这个舞团就完了\N{\fn微软雅黑\fs14}this company is finished.
+Dialogue: 0,1:21:07.94,1:21:11.26,*Default,NTP,0000,0000,0000,,马科斯会为了我们挺住的\N{\fn微软雅黑\fs14}Markos will hold on, for us.
+Dialogue: 0,1:21:11.26,1:21:13.18,*Default,NTP,0000,0000,0000,,你也见过她了\N{\fn微软雅黑\fs14}You've seen her.
+Dialogue: 0,1:21:13.18,1:21:16.49,*Default,NTP,0000,0000,0000,,她的身体就是一座牢笼\N{\fn微软雅黑\fs14}Her body's a prison!
+Dialogue: 0,1:21:16.49,1:21:20.14,*Default,NTP,0000,0000,0000,,病上加病\N{\fn微软雅黑\fs14}Disease is on top of disease
+Dialogue: 0,1:21:20.14,1:21:22.30,*Default,NTP,0000,0000,0000,,她还能坚持多久\N{\fn微软雅黑\fs14}How long she can possibly...
+Dialogue: 0,1:22:29.60,1:22:34.04,*Default,NTP,0000,0000,0000,,33  34  35  36\N{\fn微软雅黑\fs14}33, 34, 35, 36,
+Dialogue: 0,1:22:34.20,1:22:37.35,*Default,NTP,0000,0000,0000,,37  38  39\N{\fn微软雅黑\fs14}37, 38, 39,
+Dialogue: 0,1:22:37.51,1:22:39.03,*Default,NTP,0000,0000,0000,,40  41\N{\fn微软雅黑\fs14}40, 41.
+Dialogue: 0,1:22:44.11,1:22:46.15,*Default,NTP,0000,0000,0000,,57  58  59\N{\fn微软雅黑\fs14}57, 58, 59,
+Dialogue: 0,1:22:46.30,1:22:48.94,*Default,NTP,0000,0000,0000,,60  61  62  63\N{\fn微软雅黑\fs14}60, 61, 62, 63.
+Dialogue: 0,1:22:58.45,1:23:01.49,*Default,NTP,0000,0000,0000,,65  64  63  62\N{\fn微软雅黑\fs14}65, 64, 63, 62.
+Dialogue: 0,1:23:09.64,1:23:12.24,*Default,NTP,0000,0000,0000,,23  22  21\N{\fn微软雅黑\fs14}23, 22, 21.
+Dialogue: 0,1:23:25.79,1:23:27.22,*Default,NTP,0000,0000,0000,,十  九  八\N{\fn微软雅黑\fs14}Ten, nine, eight,
+Dialogue: 0,1:23:27.38,1:23:28.94,*Default,NTP,0000,0000,0000,,七  六\N{\fn微软雅黑\fs14}seven, six.
+Dialogue: 0,1:23:29.10,1:23:31.26,*Default,NTP,0000,0000,0000,,二  一\N{\fn微软雅黑\fs14}Two, one.
+Dialogue: 0,1:26:10.90,1:26:12.82,*Default,NTP,0000,0000,0000,,我们拦不住她\N{\fn微软雅黑\fs14}We couldn't stop her!
+Dialogue: 0,1:26:12.82,1:26:15.65,*Default,NTP,0000,0000,0000,,她拿刀太快了\N{\fn微软雅黑\fs14}She was too fast with knife!
+Dialogue: 0,1:26:17.70,1:26:18.98,*Default,NTP,0000,0000,0000,,她都凉了\N{\fn微软雅黑\fs14}She's cold.
+Dialogue: 0,1:26:20.81,1:26:23.29,*Default,NTP,0000,0000,0000,,快跟我来\N{\fn微软雅黑\fs14}Come with me! Quickly!
+Dialogue: 0,1:26:41.32,1:26:43.99,*Default,NTP,0000,0000,0000,,帕特里夏写到\N{\fn微软雅黑\fs14}Patricia wrote about
+Dialogue: 0,1:26:44.15,1:26:47.43,*Default,NTP,0000,0000,0000,,"三名母亲"随着时间流逝被人遗忘\N{\fn微软雅黑\fs14}"Three Mothers" lost in time,
+Dialogue: 0,1:26:47.59,1:26:51.79,*Default,NTP,0000,0000,0000,,她们早于基督教而存在\N{\fn微软雅黑\fs14}predating all Christian invention.
+Dialogue: 0,1:26:51.95,1:26:55.14,*Default,NTP,0000,0000,0000,,早于上帝  早于恶魔\N{\fn微软雅黑\fs14}Pre-God. Pre-Devil.
+Dialogue: 0,1:26:55.30,1:26:59.22,*Default,NTP,0000,0000,0000,,黑暗之母  眼泪之母\N{\fn微软雅黑\fs14}Mother Tenebrarum, Mother Lachrymarum
+Dialogue: 0,1:26:59.38,1:27:01.78,*Default,NTP,0000,0000,0000,,和叹息之母\N{\fn微软雅黑\fs14}and Mother Suspiriorum.
+Dialogue: 0,1:27:03.18,1:27:07.21,*Default,NTP,0000,0000,0000,,黑暗  眼泪和叹息\N{\fn微软雅黑\fs14}Darkness, Tears and Sighs.
+Dialogue: 0,1:27:08.25,1:27:10.41,*Default,NTP,0000,0000,0000,,我昨晚看到那些东西\N{\fn微软雅黑\fs14}I saw images of that last night.
+Dialogue: 0,1:27:10.57,1:27:12.93,*Default,NTP,0000,0000,0000,,各种瓷器  非常精美的东西\N{\fn微软雅黑\fs14}In porcelain, these very fine things.
+Dialogue: 0,1:27:13.09,1:27:14.44,*Default,NTP,0000,0000,0000,,看得出来她们很有钱\N{\fn微软雅黑\fs14}You can tell they have money.
+Dialogue: 0,1:27:18.44,1:27:21.44,*Default,NTP,0000,0000,0000,,帕特里夏说过  马科斯\N{\fn微软雅黑\fs14}Patricia said that, uh, Markos
+Dialogue: 0,1:27:21.60,1:27:23.88,*Default,NTP,0000,0000,0000,,是其中一位母亲\N{\fn微软雅黑\fs14}claims to be one of the Three.
+Dialogue: 0,1:27:24.03,1:27:26.63,*Default,NTP,0000,0000,0000,,但是她们之间也有分歧\N{\fn微软雅黑\fs14}But there is dissent amongst them.
+Dialogue: 0,1:27:26.79,1:27:31.63,*Default,NTP,0000,0000,0000,,她写了"马科斯派"和"布兰克派"\N{\fn微软雅黑\fs14}She wrote about "Markosites" And "Blancites."
+Dialogue: 0,1:27:31.79,1:27:34.94,*Default,NTP,0000,0000,0000,,内部的分裂\N{\fn微软雅黑\fs14}In-Internal division.
+Dialogue: 0,1:27:35.10,1:27:37.10,*Default,NTP,0000,0000,0000,,布兰克夫人也与这件事有关吗\N{\fn微软雅黑\fs14}Madame Blanc's involved in this?
+Dialogue: 0,1:27:43.42,1:27:46.65,*Default,NTP,0000,0000,0000,,他们认为她们是女巫吗\N{\fn微软雅黑\fs14}Do they believe they're witches?
+Dialogue: 0,1:27:46.81,1:27:52.05,*Default,NTP,0000,0000,0000,,你可以把你的幻想告诉别人  莎拉\N{\fn微软雅黑\fs14}You can give someone your delusion, Sara.
+Dialogue: 0,1:27:52.21,1:27:53.45,*Default,NTP,0000,0000,0000,,就变成了宗教\N{\fn微软雅黑\fs14}That's religion.
+Dialogue: 0,1:27:56.16,1:27:57.60,*Default,NTP,0000,0000,0000,,德意志帝国也是\N{\fn微软雅黑\fs14}That was the Reich.
+Dialogue: 0,1:27:59.16,1:28:00.84,*Default,NTP,0000,0000,0000,,德意志帝国也有这种特征\N{\fn微软雅黑\fs14}The Reich had these things.
+Dialogue: 0,1:28:02.48,1:28:04.39,*Default,NTP,0000,0000,0000,,军衔\N{\fn微软雅黑\fs14}Insignia.
+Dialogue: 0,1:28:04.55,1:28:07.39,*Default,NTP,0000,0000,0000,,秘密授予仪式\N{\fn微软雅黑\fs14}Esoteric ritual.
+Dialogue: 0,1:28:07.55,1:28:10.59,*Default,NTP,0000,0000,0000,,这些"母亲"很可能是\N{\fn微软雅黑\fs14}These "Mothers," Yeah, they could be
+Dialogue: 0,1:28:10.75,1:28:13.94,*Default,NTP,0000,0000,0000,,对隐喻历史中的主要人物的\N{\fn微软雅黑\fs14}code names for founding members
+Dialogue: 0,1:28:14.10,1:28:16.38,*Default,NTP,0000,0000,0000,,一些代称\N{\fn微软雅黑\fs14}with metaphoric histories.
+Dialogue: 0,1:28:16.54,1:28:18.74,*Default,NTP,0000,0000,0000,,我不知道\N{\fn微软雅黑\fs14}I don't know.
+Dialogue: 0,1:28:18.90,1:28:23.37,*Default,NTP,0000,0000,0000,,但我知道你正在和一群危险的人住在一起\N{\fn微软雅黑\fs14}But I do know you are living with dangerous people.
+Dialogue: 0,1:28:23.53,1:28:25.61,*Default,NTP,0000,0000,0000,,帕特里夏可能还...\N{\fn微软雅黑\fs14}Patricia could still be in...
+Dialogue: 0,1:28:25.77,1:28:26.69,*Default,NTP,0000,0000,0000,,在那里\N{\fn微软雅黑\fs14}...in there.
+Dialogue: 0,1:28:31.09,1:28:32.69,*Default,NTP,0000,0000,0000,,她们可能把她关了起来\N{\fn微软雅黑\fs14}They could be holding her.
+Dialogue: 0,1:28:32.85,1:28:34.40,*Default,NTP,0000,0000,0000,,关在楼里\N{\fn微软雅黑\fs14}In the building.
+Dialogue: 0,1:28:34.56,1:28:36.60,*Default,NTP,0000,0000,0000,,最近出了那么多事  我觉得当局\N{\fn微软雅黑\fs14}Well, I cannot promise that the authorities
+Dialogue: 0,1:28:36.76,1:28:39.60,*Default,NTP,0000,0000,0000,,应该不会回来搜查\N{\fn微软雅黑\fs14}will come back to, uh, inspect a cabinet
+Dialogue: 0,1:28:39.76,1:28:43.99,*Default,NTP,0000,0000,0000,,一个装满瓷器的柜子\N{\fn微软雅黑\fs14}full of porcelain after all that has happened.
+Dialogue: 0,1:28:44.15,1:28:46.31,*Default,NTP,0000,0000,0000,,但我们可以努力试试\N{\fn微软雅黑\fs14}But we can try.
+Dialogue: 0,1:28:46.47,1:28:50.11,*Default,NTP,0000,0000,0000,,同时  你得照顾好你自己\N{\fn微软雅黑\fs14}And in the meantime, you must, uh, take care of yourself.
+Dialogue: 0,1:28:50.27,1:28:52.11,*Default,NTP,0000,0000,0000,,也许你应该离开\N{\fn微软雅黑\fs14}Perhaps you should leave.
+Dialogue: 0,1:28:52.27,1:28:53.70,*Default,NTP,0000,0000,0000,,你有什么可去的地方吗\N{\fn微软雅黑\fs14}You have somewhere you can go?
+Dialogue: 0,1:28:55.86,1:28:58.22,*Default,NTP,0000,0000,0000,,我会想办法的\N{\fn微软雅黑\fs14}I'll figure it out.
+Dialogue: 0,1:28:58.38,1:29:01.06,*Default,NTP,0000,0000,0000,,我觉得你应该把这放回去\N{\fn微软雅黑\fs14}And I think you should put this back.
+Dialogue: 0,1:29:01.22,1:29:03.06,*Default,NTP,0000,0000,0000,,或者还是把这留在这里吧\N{\fn微软雅黑\fs14}Or better still, you leave it here.
+Dialogue: 0,1:29:05.05,1:29:07.09,*Default,NTP,0000,0000,0000,,最好别让她们知道你偷拿了\N{\fn微软雅黑\fs14}Not good for them to know that you have it.
+Dialogue: 0,1:30:06.18,1:30:08.14,*Default,NTP,0000,0000,0000,,格非特  我来弄\N{\fn微软雅黑\fs14}Griffith, I will take it.
+Dialogue: 0,1:30:36.36,1:30:38.63,*Default,NTP,0000,0000,0000,,你们中有人生病了吗\N{\fn微软雅黑\fs14}Is anyone among you sick?
+Dialogue: 0,1:30:38.79,1:30:41.31,*Default,NTP,0000,0000,0000,,让他联系教堂的长老\N{\fn微软雅黑\fs14}Let him call for the elders of the church;
+Dialogue: 0,1:30:41.47,1:30:43.75,*Default,NTP,0000,0000,0000,,让他们为他祈祷\N{\fn微软雅黑\fs14}and let them pray over him,
+Dialogue: 0,1:30:43.91,1:30:47.30,*Default,NTP,0000,0000,0000,,以上帝之名用圣油涂抹他的身体\N{\fn微软雅黑\fs14}anointing him with oil in the name of the Lord.
+Dialogue: 0,1:30:47.46,1:30:52.62,*Default,NTP,0000,0000,0000,,出于信心的祈祷  要救那病人\N{\fn微软雅黑\fs14}And the prayer of faith shall save him that is sick,
+Dialogue: 0,1:30:52.78,1:30:55.66,*Default,NTP,0000,0000,0000,,主必叫他起来\N{\fn微软雅黑\fs14}and the Lord shall raise him up;
+Dialogue: 0,1:30:55.82,1:30:59.77,*Default,NTP,0000,0000,0000,,他若犯了罪\N{\fn微软雅黑\fs14}and if he has committed sins...
+Dialogue: 0,1:30:59.93,1:31:01.77,*Default,NTP,0000,0000,0000,,我的女儿\N{\fn微软雅黑\fs14}My daughter.
+Dialogue: 0,1:31:04.57,1:31:06.53,*Default,NTP,0000,0000,0000,,也必蒙赦免\N{\fn微软雅黑\fs14}...they shall be forgiven him.
+Dialogue: 0,1:31:10.44,1:31:12.24,*Default,NTP,0000,0000,0000,,我最小的女儿\N{\fn微软雅黑\fs14}My last one.
+Dialogue: 0,1:31:14.08,1:31:17.83,*Default,NTP,0000,0000,0000,,她就是我的罪\N{\fn微软雅黑\fs14}She's my sin.
+Dialogue: 0,1:31:17.99,1:31:20.95,*Default,NTP,0000,0000,0000,,她是我对世界的玷污\N{\fn微软雅黑\fs14}She's what I smeared on the world.
+Dialogue: 0,1:31:28.60,1:31:32.39,*Default,NTP,0000,0000,0000,,最开始是最重要的  你记得吗\N{\fn微软雅黑\fs14}First of all it's very important, do you remember this?
+Dialogue: 0,1:31:33.47,1:31:36.35,*Default,NTP,0000,0000,0000,,你要用你的中心\N{\fn微软雅黑\fs14}You must use your center.
+Dialogue: 0,1:31:36.35,1:31:40.13,*Default,NTP,0000,0000,0000,,必须要创造出空间\N{\fn微软雅黑\fs14}and you must create a space.
+Dialogue: 0,1:31:41.99,1:31:43.08,*Default,NTP,0000,0000,0000,,我现在明白了\N{\fn微软雅黑\fs14}Now I understand.
+Dialogue: 0,1:31:43.08,1:31:45.30,*Default,NTP,0000,0000,0000,,等等  等等\N{\fn微软雅黑\fs14}Wait, wait.
+Dialogue: 0,1:31:45.30,1:31:47.02,*Default,NTP,0000,0000,0000,,好了\N{\fn微软雅黑\fs14}Alright.
+Dialogue: 0,1:31:49.54,1:31:52.32,*Default,NTP,0000,0000,0000,,悬停  在空中悬停\N{\fn微软雅黑\fs14}Suspended, suspended in the air.
+Dialogue: 0,1:31:52.32,1:31:54.77,*Default,NTP,0000,0000,0000,,记得创造空间\N{\fn微软雅黑\fs14}Remember to create space.
+Dialogue: 0,1:31:54.77,1:31:56.05,*Default,NTP,0000,0000,0000,,我明白了\N{\fn微软雅黑\fs14}Yes, I understand.
+Dialogue: 0,1:32:00.43,1:32:03.83,*Default,NTP,0000,0000,0000,,你和她们达成了某种协议\N{\fn微软雅黑\fs14}You're making some kind of deal with them.
+Dialogue: 0,1:32:03.99,1:32:06.23,*Default,NTP,0000,0000,0000,,我不知道你在说什么\N{\fn微软雅黑\fs14}I don't know what you're talking about.
+Dialogue: 0,1:32:07.78,1:32:10.62,*Default,NTP,0000,0000,0000,,你怎么知道她们要你付出什么做回报\N{\fn微软雅黑\fs14}How can you know what they're going to ask you in return?
+Dialogue: 0,1:32:10.78,1:32:13.74,*Default,NTP,0000,0000,0000,,莎拉  不管你是怎么想的\N{\fn微软雅黑\fs14}Sara, whatever you have in your mind,
+Dialogue: 0,1:32:13.90,1:32:17.05,*Default,NTP,0000,0000,0000,,一切都很正常\N{\fn微软雅黑\fs14}nothing is wrong.
+Dialogue: 0,1:32:17.21,1:32:18.97,*Default,NTP,0000,0000,0000,,你只是还没有尝到后果\N{\fn微软雅黑\fs14}You just haven't seen the bill yet.
+Dialogue: 0,1:32:21.01,1:32:22.57,*Default,NTP,0000,0000,0000,,一切都很正常\N{\fn微软雅黑\fs14}Nothing's wrong.
+Dialogue: 0,1:32:25.60,1:32:28.56,*Default,NTP,0000,0000,0000,,德国联邦警察特种兵\N{\fn微软雅黑\fs14}Special forces of the German Federal Police
+Dialogue: 0,1:32:28.56,1:32:30.87,*Default,NTP,0000,0000,0000,,在夜晚突袭了汉莎航空181航班\N{\fn微软雅黑\fs14}stromed Lufthansa 181 in the night
+Dialogue: 0,1:32:30.87,1:32:33.45,*Default,NTP,0000,0000,0000,,击毙了四名劫匪\N{\fn微软雅黑\fs14}and killed three of the four hijackers
+Dialogue: 0,1:32:33.45,1:32:37.44,*Default,NTP,0000,0000,0000,,终结了航班乘客五天来的恐惧\N{\fn微软雅黑\fs14}ending five days of terror for the passenger of the flight.
+Dialogue: 0,1:32:37.44,1:32:40.62,*Default,NTP,0000,0000,0000,,早晨  高度警戒的\N{\fn微软雅黑\fs14}In the morning, in the high-security wing
+Dialogue: 0,1:32:40.63,1:32:43.31,*Default,NTP,0000,0000,0000,,斯图加特施达姆斯坦监狱里\N{\fn微软雅黑\fs14}of the Stuutgart-Stammheim prison,
+Dialogue: 0,1:32:43.31,1:32:47.42,*Default,NTP,0000,0000,0000,,五名RAF集团犯人中\N{\fn微软雅黑\fs14}three of the five RAF prisoners were discovered dead
+Dialogue: 0,1:32:47.42,1:32:49.55,*Default,NTP,0000,0000,0000,,有三人听闻\N{\fn微软雅黑\fs14}in an apparent suicide pact
+Dialogue: 0,1:32:49.55,1:32:53.00,*Default,NTP,0000,0000,0000,,摩加迪沙的消息后自杀\N{\fn微软雅黑\fs14}made upon hearing of the news from Mogadishu.
+Dialogue: 0,1:32:53.00,1:32:55.56,*Default,NTP,0000,0000,0000,,抗议者在德国周围聚集\N{\fn微软雅黑\fs14}Protesters are congregating around the Germany
+Dialogue: 0,1:32:55.56,1:32:59.80,*Default,NTP,0000,0000,0000,,说犯人其实是被刺杀的\N{\fn微软雅黑\fs14}chanting that the prisoners were instead assassinated.
+Dialogue: 0,1:32:59.80,1:33:07.48,*Default,NTP,0000,0000,0000,,联邦警察局局长霍斯特·赫罗尔德宣称\N{\fn微软雅黑\fs14}Federal Police President Horst Herold, went so far as to declare...
+Dialogue: 0,1:33:07.48,1:33:08.48,*Default,NTP,0000,0000,0000,,"巴德尔-迈因霍夫时代终结了"\N{\fn微软雅黑\fs14}"The Baader-Meinhof era is done."
+Dialogue: 0,1:33:18.95,1:33:20.55,*Default,NTP,0000,0000,0000,,你怎么了\N{\fn微软雅黑\fs14}What's the matter with you?
+Dialogue: 0,1:33:26.42,1:33:30.94,*Default,NTP,0000,0000,0000,,你不用担心被刷得那么白  苏西\N{\fn微软雅黑\fs14}You don't be so afraid about the white, Susie.
+Dialogue: 0,1:33:31.10,1:33:34.30,*Default,NTP,0000,0000,0000,,后排的观众也得看到你\N{\fn微软雅黑\fs14}They need to see you from the very back row.
+Dialogue: 0,1:33:42.29,1:33:43.65,*Default,NTP,0000,0000,0000,,莎拉在哪里\N{\fn微软雅黑\fs14}Where is Sara?
+Dialogue: 0,1:33:45.17,1:33:47.40,*Default,NTP,0000,0000,0000,,她今天早上很早就来了\N{\fn微软雅黑\fs14}She came early in the morning,
+Dialogue: 0,1:33:47.56,1:33:49.40,*Default,NTP,0000,0000,0000,,化好妆就走了\N{\fn微软雅黑\fs14}did her makeup and left.
+Dialogue: 0,1:33:52.41,1:33:54.06,*Default,NTP,0000,0000,0000,,晚上好  欢迎\N{\fn微软雅黑\fs14}Good evening, welcome.
+Dialogue: 0,1:33:56.37,1:33:58.49,*Default,NTP,0000,0000,0000,,第一次来  对吗\N{\fn微软雅黑\fs14}First time here, isn't it?
+Dialogue: 0,1:34:00.18,1:34:01.57,*Default,NTP,0000,0000,0000,,请进\N{\fn微软雅黑\fs14}Please, come.
+Dialogue: 0,1:34:08.82,1:34:11.78,*Default,NTP,0000,0000,0000,,好的  谢谢  祝您愉快\N{\fn微软雅黑\fs14}Yes, thank you. Have fun.
+Dialogue: 0,1:34:12.70,1:34:13.78,*Default,NTP,0000,0000,0000,,直走\N{\fn微软雅黑\fs14}Straight ahead.
+Dialogue: 0,1:34:18.21,1:34:23.57,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}第五幕\N在母亲的房子\N[地面皆为黑暗]
+Dialogue: 0,1:34:38.67,1:34:39.59,*Default,NTP,0000,0000,0000,,姑娘们\N{\fn微软雅黑\fs14}Girls!
+Dialogue: 0,1:34:40.34,1:34:41.75,*Default,NTP,0000,0000,0000,,四分钟\N{\fn微软雅黑\fs14}Vier minuten!
+Dialogue: 0,1:34:41.91,1:34:43.19,*Default,NTP,0000,0000,0000,,四分钟\N{\fn微软雅黑\fs14}Four minutes!
+Dialogue: 0,1:34:46.03,1:34:48.86,*Default,NTP,0000,0000,0000,,四分钟\N{\fn微软雅黑\fs14}Vier minuten!
+Dialogue: 0,1:34:49.02,1:34:50.66,*Default,NTP,0000,0000,0000,,快  快\N{\fn微软雅黑\fs14}Tak, tak.
+Dialogue: 0,1:35:31.18,1:35:32.26,*Default,NTP,0000,0000,0000,,这是真的吗\N{\fn微软雅黑\fs14}Is it true?
+Dialogue: 0,1:35:32.42,1:35:33.34,*Default,NTP,0000,0000,0000,,莎拉\N{\fn微软雅黑\fs14}Sara.
+Dialogue: 0,1:35:34.74,1:35:36.33,*Default,NTP,0000,0000,0000,,莎拉\N{\fn微软雅黑\fs14}Sara.
+Dialogue: 0,1:35:36.49,1:35:37.85,*Default,NTP,0000,0000,0000,,帕特里夏\N{\fn微软雅黑\fs14}Patricia.
+Dialogue: 0,1:35:39.09,1:35:41.97,*Default,NTP,0000,0000,0000,,帕特里夏  帕特里夏\N{\fn微软雅黑\fs14}Patricia. Patricia.
+Dialogue: 0,1:35:42.13,1:35:44.53,*Default,NTP,0000,0000,0000,,-我就知道  -他们会杀了他\N{\fn微软雅黑\fs14}- I knew it. - They'll kill him.
+Dialogue: 0,1:35:44.69,1:35:46.49,*Default,NTP,0000,0000,0000,,我很抱歉我这么久才来\N{\fn微软雅黑\fs14}I'm sorry it took me so long.
+Dialogue: 0,1:35:46.64,1:35:48.52,*Default,NTP,0000,0000,0000,,我很抱歉\N{\fn微软雅黑\fs14}I'm so sorry.
+Dialogue: 0,1:35:48.68,1:35:50.68,*Default,NTP,0000,0000,0000,,他们对你做了什么\N{\fn微软雅黑\fs14}What did they do to you?
+Dialogue: 0,1:35:50.84,1:35:53.20,*Default,NTP,0000,0000,0000,,我每天都在这里醒来\N{\fn微软雅黑\fs14}I wake up here every day.
+Dialogue: 0,1:35:53.36,1:35:55.08,*Default,NTP,0000,0000,0000,,一切都结束了  我救你出去\N{\fn微软雅黑\fs14}It's all over now. I'll get you out.
+Dialogue: 0,1:35:56.32,1:35:57.71,*Default,NTP,0000,0000,0000,,楼上的表演要开始了\N{\fn微软雅黑\fs14}The performance is starting upstairs.
+Dialogue: 0,1:35:57.87,1:36:00.43,*Default,NTP,0000,0000,0000,,所有人都不会注意到的\N{\fn微软雅黑\fs14}Everyone will be looking the other way.
+Dialogue: 0,1:36:00.59,1:36:02.91,*Default,NTP,0000,0000,0000,,起来  起来\N{\fn微软雅黑\fs14}Get up. Get up.
+Dialogue: 0,1:36:03.07,1:36:04.15,*Default,NTP,0000,0000,0000,,帕特里夏\N{\fn微软雅黑\fs14}Patricia!
+Dialogue: 0,1:36:05.23,1:36:07.42,*Default,NTP,0000,0000,0000,,-帕特里夏  起来  -我在努力\N{\fn微软雅黑\fs14}- Patricia, get up. - I'm trying.
+Dialogue: 0,1:36:07.58,1:36:08.70,*Default,NTP,0000,0000,0000,,起来\N{\fn微软雅黑\fs14}Get up.
+Dialogue: 0,1:36:21.48,1:36:23.37,*Default,NTP,0000,0000,0000,,帮我出来\N{\fn微软雅黑\fs14}Get it off of me!
+Dialogue: 0,1:36:23.68,1:36:25.00,*Default,NTP,0000,0000,0000,,莎拉\N{\fn微软雅黑\fs14}Sara!
+Dialogue: 0,1:36:56.68,1:37:00.08,*Default,NTP,0000,0000,0000,,马科斯  马科斯  马科斯  马科斯\N{\fn微软雅黑\fs14}Markos! Markos! Markos! Markos!
+Dialogue: 0,1:37:12.40,1:37:14.22,*Default,NTP,0000,0000,0000,,晚上好\N{\fn微软雅黑\fs14}Good evening!
+Dialogue: 0,1:37:14.22,1:37:19.18,*Default,NTP,0000,0000,0000,,这段舞创造于1948年\N{\fn微软雅黑\fs14}We created this piece in 1948.
+Dialogue: 0,1:37:20.74,1:37:21.90,*Default,NTP,0000,0000,0000,,马尔凯塔\N{\fn微软雅黑\fs14}Marketa.
+Dialogue: 0,1:37:22.06,1:37:23.46,*Default,NTP,0000,0000,0000,,莎拉在哪里\N{\fn微软雅黑\fs14}Where is Sara?
+Dialogue: 0,1:37:23.62,1:37:24.38,*Default,NTP,0000,0000,0000,,莎拉\N{\fn微软雅黑\fs14}Sara?
+Dialogue: 0,1:37:24.54,1:37:25.57,*Default,NTP,0000,0000,0000,,我不知道\N{\fn微软雅黑\fs14}I don't know.
+Dialogue: 0,1:37:25.73,1:37:27.45,*Default,NTP,0000,0000,0000,,-她在楼上吗  -没有  我找过了\N{\fn微软雅黑\fs14}- Is she upstairs? - No. I looked.
+Dialogue: 0,1:37:27.61,1:37:29.61,*Default,NTP,0000,0000,0000,,像她还在一样照常跳\N{\fn微软雅黑\fs14}Just dance as if she's with you.
+Dialogue: 0,1:37:38.40,1:37:39.96,*Default,NTP,0000,0000,0000,,莎拉\N{\fn微软雅黑\fs14}Sara!
+Dialogue: 0,1:37:46.03,1:37:51.23,*Default,NTP,0000,0000,0000,,这是我们最后一次表演这个舞\N{\fn微软雅黑\fs14}This is the last time we are performing it.
+Dialogue: 0,1:37:51.23,1:37:55.72,*Default,NTP,0000,0000,0000,,由马科斯舞团演绎\N{\fn微软雅黑\fs14}The Markos Dance Company presents.
+Dialogue: 0,1:37:55.72,1:37:57.56,*Default,NTP,0000,0000,0000,,请观赏\N{\fn微软雅黑\fs14}Volk!
+Dialogue: 0,1:38:01.34,1:38:01.94,*Default,NTP,0000,0000,0000,,上\N{\fn微软雅黑\fs14}Go!
+Dialogue: 0,1:39:51.72,1:39:52.72,*Default,NTP,0000,0000,0000,,不\N{\fn微软雅黑\fs14}No.
+Dialogue: 0,1:39:53.01,1:39:54.30,*Default,NTP,0000,0000,0000,,亲爱的\N{\fn微软雅黑\fs14}My darling..
+Dialogue: 0,1:39:54.28,1:39:56.64,*Default,NTP,0000,0000,0000,,-不  -莎拉  不要动\N{\fn微软雅黑\fs14}- No. - Sara, lie still.
+Dialogue: 0,1:39:56.79,1:39:58.63,*Default,NTP,0000,0000,0000,,-不  莎拉\N{\fn微软雅黑\fs14}- No! - Sara.
+Dialogue: 0,1:40:01.71,1:40:05.19,*Default,NTP,0000,0000,0000,,不要  不要\N{\fn微软雅黑\fs14}Please. Please...
+Dialogue: 0,1:40:09.82,1:40:12.50,*Default,NTP,0000,0000,0000,,不  不\N{\fn微软雅黑\fs14}No! No!
+Dialogue: 0,1:41:10.76,1:41:12.94,*Default,NTP,0000,0000,0000,,这姑娘准备好了  布兰克\N{\fn微软雅黑\fs14}The girl is ready, Blanc.
+Dialogue: 0,1:41:12.94,1:41:14.86,*Default,NTP,0000,0000,0000,,到时候了\N{\fn微软雅黑\fs14}It's time.
+Dialogue: 0,1:44:09.45,1:44:10.96,*Default,NTP,0000,0000,0000,,请坐下\N{\fn微软雅黑\fs14}Please, remain seated!
+Dialogue: 0,1:44:10.96,1:44:11.72,*Default,NTP,0000,0000,0000,,请保持冷静\N{\fn微软雅黑\fs14}Stay calm and seated!
+Dialogue: 0,1:44:11.72,1:44:12.14,*Default,NTP,0000,0000,0000,,莎拉\N{\fn微软雅黑\fs14}Sara!
+Dialogue: 0,1:44:56.49,1:44:57.69,*Default,NTP,0000,0000,0000,,好了\N{\fn微软雅黑\fs14}Good.
+Dialogue: 0,1:44:57.85,1:44:59.52,*Default,NTP,0000,0000,0000,,好了  这样好了\N{\fn微软雅黑\fs14}Good. That's good.
+Dialogue: 0,1:46:12.40,1:46:14.24,*Default,NTP,0000,0000,0000,,抱歉我当时失态了\N{\fn微软雅黑\fs14}I'm sorry I went off book.
+Dialogue: 0,1:46:20.43,1:46:22.43,*Default,NTP,0000,0000,0000,,以后不得再发生这种事\N{\fn微软雅黑\fs14}This can't happen again.
+Dialogue: 0,1:46:22.59,1:46:26.67,*Default,NTP,0000,0000,0000,,你才刚刚开始理解  苏西\N{\fn微软雅黑\fs14}You're only just starting to understand, Susie.
+Dialogue: 0,1:46:26.83,1:46:28.31,*Default,NTP,0000,0000,0000,,我们把莎拉带回到楼上\N{\fn微软雅黑\fs14}We brought Sara back upstairs
+Dialogue: 0,1:46:28.47,1:46:30.66,*Default,NTP,0000,0000,0000,,只是为了能圆满完成演出\N{\fn微软雅黑\fs14}to try to complete the performance in time,
+Dialogue: 0,1:46:30.82,1:46:33.30,*Default,NTP,0000,0000,0000,,而你却搞砸了\N{\fn微软雅黑\fs14}but then you derailed it.
+Dialogue: 0,1:46:33.46,1:46:35.42,*Default,NTP,0000,0000,0000,,我伤害了那些人吗\N{\fn微软雅黑\fs14}Did I hurt those people?
+Dialogue: 0,1:46:35.58,1:46:36.90,*Default,NTP,0000,0000,0000,,这次没有\N{\fn微软雅黑\fs14}Not this time.
+Dialogue: 0,1:46:37.06,1:46:38.34,*Default,NTP,0000,0000,0000,,他们看到了一支舞\N{\fn微软雅黑\fs14}They saw a dance.
+Dialogue: 0,1:46:38.50,1:46:39.46,*Default,NTP,0000,0000,0000,,那就够了\N{\fn微软雅黑\fs14}That's all.
+Dialogue: 0,1:46:41.37,1:46:44.53,*Default,NTP,0000,0000,0000,,一切都一团糟  是吗\N{\fn微软雅黑\fs14}It's all a mess, isn't it?
+Dialogue: 0,1:46:44.69,1:46:46.73,*Default,NTP,0000,0000,0000,,外面的世界\N{\fn微软雅黑\fs14}The one out there.
+Dialogue: 0,1:46:46.89,1:46:48.37,*Default,NTP,0000,0000,0000,,里面的世界\N{\fn微软雅黑\fs14}The one in here.
+Dialogue: 0,1:46:51.24,1:46:52.60,*Default,NTP,0000,0000,0000,,将要来临的世界\N{\fn微软雅黑\fs14}The one that's coming.
+Dialogue: 0,1:46:56.88,1:46:59.20,*Default,NTP,0000,0000,0000,,为什么大家\N{\fn微软雅黑\fs14}Why is everyone
+Dialogue: 0,1:46:59.36,1:47:01.91,*Default,NTP,0000,0000,0000,,都愿意认为最糟糕的已经过去呢\N{\fn微软雅黑\fs14}so ready to think the worst is over?
+Dialogue: 0,1:47:20.21,1:47:22.21,*Default,NTP,0000,0000,0000,,我可以向你解释一切\N{\fn微软雅黑\fs14}I could explain everything to you.
+Dialogue: 0,1:47:24.53,1:47:26.81,*Default,NTP,0000,0000,0000,,但我觉得我不该这么做\N{\fn微软雅黑\fs14}I think it would be wrong, though.
+Dialogue: 0,1:47:33.14,1:47:35.66,*Default,NTP,0000,0000,0000,,你不想让我做出选择\N{\fn微软雅黑\fs14}You don't want to make me choose.
+Dialogue: 0,1:47:35.66,1:47:37.78,*Default,NTP,0000,0000,0000,,因为你爱我\N{\fn微软雅黑\fs14}Because you love me.
+Dialogue: 0,1:47:42.90,1:47:43.94,*Default,NTP,0000,0000,0000,,闭上你的眼睛\N{\fn微软雅黑\fs14}Close your eyes.
+Dialogue: 0,1:47:48.45,1:47:49.82,*Default,NTP,0000,0000,0000,,今晚不会有梦\N{\fn微软雅黑\fs14}No more dreams tonight.
+Dialogue: 0,1:47:53.81,1:47:56.22,*Default,NTP,0000,0000,0000,,绝对不会\N{\fn微软雅黑\fs14}I'll make sure of it.
+Dialogue: 0,1:47:59.77,1:48:02.81,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,1:48:02.97,1:48:06.69,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,1:48:03.13,1:48:07.74,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}第六幕\N叹息
+Dialogue: 0,1:48:06.85,1:48:10.60,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,1:48:10.76,1:48:14.40,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,1:48:14.56,1:48:16.60,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,1:48:16.60,1:48:18.23,*Default,NTP,0000,0000,0000,,今晚\N{\fn微软雅黑\fs14}Tonight.
+Dialogue: 0,1:48:18.23,1:48:19.27,*Default,NTP,0000,0000,0000,,一  二  三  四\N{\fn微软雅黑\fs14}One, two, three, four.
+Dialogue: 0,1:48:19.27,1:48:21.15,*Default,NTP,0000,0000,0000,,一定要在今晚进行\N{\fn微软雅黑\fs14}It must happen tonight.
+Dialogue: 0,1:49:30.12,1:49:31.36,*Default,NTP,0000,0000,0000,,医生\N{\fn微软雅黑\fs14}Herr Doktor.
+Dialogue: 0,1:49:32.19,1:49:33.88,*Default,NTP,0000,0000,0000,,医生  汤好了\N{\fn微软雅黑\fs14}But Doctor, the soup is ready!
+Dialogue: 0,1:50:01.56,1:50:04.64,*Default,NTP,0000,0000,0000,,你们今天吃喝随便\N{\fn微软雅黑\fs14}You can eat and drink all that you want!
+Dialogue: 0,1:51:53.50,1:51:54.83,*Default,NTP,0000,0000,0000,,谁在那里\N{\fn微软雅黑\fs14}Hello?
+Dialogue: 0,1:52:14.28,1:52:15.20,*Default,NTP,0000,0000,0000,,约瑟夫\N{\fn微软雅黑\fs14}Josef?
+Dialogue: 0,1:52:20.38,1:52:21.53,*Default,NTP,0000,0000,0000,,安科\N{\fn微软雅黑\fs14}Anke?
+Dialogue: 0,1:52:33.61,1:52:36.49,*Default,NTP,0000,0000,0000,,卡萝尔把我们的事情告诉他们了\N{\fn微软雅黑\fs14}Karol told them about us.
+Dialogue: 0,1:52:36.49,1:52:40.86,*Default,NTP,0000,0000,0000,,我当时只有几分钟时间\N{\fn微软雅黑\fs14}I had only a few minutes to get out.
+Dialogue: 0,1:52:43.94,1:52:47.53,*Default,NTP,0000,0000,0000,,我回到家  但是我的证件不见了\N{\fn微软雅黑\fs14}I got the apartment, but my papers were'n't anywhere.
+Dialogue: 0,1:52:47.53,1:52:52.98,*Default,NTP,0000,0000,0000,,我就徒步走到特普利斯\N{\fn微软雅黑\fs14}Then I traveled by foot to Teplice.
+Dialogue: 0,1:52:52.98,1:52:56.45,*Default,NTP,0000,0000,0000,,我本打算求米雷克家收留我\N{\fn微软雅黑\fs14}where I planned to ask Mireks family to take me in.
+Dialogue: 0,1:52:56.45,1:52:59.66,*Default,NTP,0000,0000,0000,,但是我在边境被抓了\N{\fn微软雅黑\fs14}But I was caught at the border
+Dialogue: 0,1:52:59.66,1:53:01.61,*Default,NTP,0000,0000,0000,,被带到了特莱西恩施塔特集中营\N{\fn微软雅黑\fs14}and taken to Theresienstadt camp
+Dialogue: 0,1:53:02.49,1:53:04.45,*Default,NTP,0000,0000,0000,,没人相信我是在加尔茨出生的\N{\fn微软雅黑\fs14}No one believed me that I was born in Gartz.
+Dialogue: 0,1:53:05.45,1:53:09.10,*Default,NTP,0000,0000,0000,,解放之后我就去了苏黎世\N{\fn微软雅黑\fs14}After the liberation I made my way Zurich
+Dialogue: 0,1:53:10.26,1:53:11.61,*Default,NTP,0000,0000,0000,,然后去了布里斯托尔\N{\fn微软雅黑\fs14}and then to Bristol.
+Dialogue: 0,1:53:12.49,1:53:14.06,*Default,NTP,0000,0000,0000,,我在那\N{\fn微软雅黑\fs14}I've made
+Dialogue: 0,1:53:14.06,1:53:18.41,*Default,NTP,0000,0000,0000,,有了新的生活\N{\fn微软雅黑\fs14}a new life there.
+Dialogue: 0,1:53:18.41,1:53:21.49,*Default,NTP,0000,0000,0000,,幸福的生活\N{\fn微软雅黑\fs14}A lovely life.
+Dialogue: 0,1:53:23.94,1:53:25.06,*Default,NTP,0000,0000,0000,,我听说\N{\fn微软雅黑\fs14}I was told
+Dialogue: 0,1:53:25.06,1:53:28.70,*Default,NTP,0000,0000,0000,,你在入侵时期遇害了\N{\fn微软雅黑\fs14}you'd died in the invasion.
+Dialogue: 0,1:54:04.05,1:54:06.21,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}普伦特森林站
+Dialogue: 0,1:56:04.55,1:56:05.93,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}坦兹
+Dialogue: 0,1:56:20.52,1:56:24.19,*Default,NTP,0000,0000,0000,,看他把这个弄得多脏\N{\fn微软雅黑\fs14}Look how dirty he made it!
+Dialogue: 0,1:56:24.19,1:56:27.84,*Default,NTP,0000,0000,0000,,可怜可怜我\N{\fn微软雅黑\fs14}Have a pity!
+Dialogue: 0,1:56:27.84,1:56:29.40,*Default,NTP,0000,0000,0000,,凭什么可怜你\N{\fn微软雅黑\fs14}What reason is there to pity you?
+Dialogue: 0,1:56:29.72,1:56:32.40,*Default,NTP,0000,0000,0000,,批捕之前你有那么多年的时间\N{\fn微软雅黑\fs14}You had years to get your wife out of Berlin
+Dialogue: 0,1:56:32.40,1:56:35.11,*Default,NTP,0000,0000,0000,,把你妻子送出柏林\N{\fn微软雅黑\fs14}before the arrests began.
+Dialogue: 0,1:56:35.11,1:56:38.72,*Default,NTP,0000,0000,0000,,当女人跟你说实话的时候\N{\fn微软雅黑\fs14}When women tell you the truth
+Dialogue: 0,1:56:38.72,1:56:40.72,*Default,NTP,0000,0000,0000,,你不可怜她们\N{\fn微软雅黑\fs14}You don't pity them.
+Dialogue: 0,1:56:41.23,1:56:44.48,*Default,NTP,0000,0000,0000,,你却说她们有幻觉\N{\fn微软雅黑\fs14}You tell them they have delusions!
+Dialogue: 0,1:59:15.90,1:59:18.86,*Default,NTP,0000,0000,0000,,我是无辜的\N{\fn微软雅黑\fs14}I am innocent!
+Dialogue: 0,1:59:20.78,1:59:23.70,*Default,NTP,0000,0000,0000,,我是无辜的\N{\fn微软雅黑\fs14}I am innocent!
+Dialogue: 0,1:59:24.45,1:59:28.66,*Default,NTP,0000,0000,0000,,我都记得\N{\fn微软雅黑\fs14}I remember!
+Dialogue: 0,1:59:28.66,1:59:32.49,*Default,NTP,0000,0000,0000,,我是无辜的\N{\fn微软雅黑\fs14}I am innocent!
+Dialogue: 0,1:59:36.41,1:59:39.33,*Default,NTP,0000,0000,0000,,柏林有罪人吗\N{\fn微软雅黑\fs14}Are there guilty men in Berlin?
+Dialogue: 0,1:59:39.33,1:59:41.30,*Default,NTP,0000,0000,0000,,到处都是\N{\fn微软雅黑\fs14}Everywhere!
+Dialogue: 0,1:59:41.30,1:59:45.86,*Default,NTP,0000,0000,0000,,但我不是\N{\fn微软雅黑\fs14}But I am not one of them!
+Dialogue: 0,1:59:49.92,1:59:51.40,*Default,NTP,0000,0000,0000,,我准备好了  夫人\N{\fn微软雅黑\fs14}I'm ready, Madame.
+Dialogue: 0,2:00:16.82,2:00:17.97,*Default,NTP,0000,0000,0000,,你看上去很害怕\N{\fn微软雅黑\fs14}You look afraid.
+Dialogue: 0,2:00:20.29,2:00:22.13,*Default,NTP,0000,0000,0000,,她是为你而害怕\N{\fn微软雅黑\fs14}She's afraid for you.
+Dialogue: 0,2:00:37.68,2:00:41.27,*Default,NTP,0000,0000,0000,,你将不会再\N{\fn微软雅黑\fs14}There will be nothing of you
+Dialogue: 0,2:00:41.43,2:00:45.11,*Default,NTP,0000,0000,0000,,存在\N{\fn微软雅黑\fs14}left inside.
+Dialogue: 0,2:00:45.27,2:00:50.62,*Default,NTP,0000,0000,0000,,只留下我的空间\N{\fn微软雅黑\fs14}Only space for me.
+Dialogue: 0,2:00:50.78,2:00:53.14,*Default,NTP,0000,0000,0000,,我就是为此而来的\N{\fn微软雅黑\fs14}I came here for this.
+Dialogue: 0,2:00:55.70,2:00:57.06,*Default,NTP,0000,0000,0000,,你们都等了够久了\N{\fn微软雅黑\fs14}You've all waited long enough.
+Dialogue: 0,2:00:59.37,2:01:02.13,*Default,NTP,0000,0000,0000,,要开始了\N{\fn微软雅黑\fs14}It is happening.
+Dialogue: 0,2:01:02.41,2:01:05.37,*Default,NTP,0000,0000,0000,,要开始了\N{\fn微软雅黑\fs14}It is happening!
+Dialogue: 0,2:01:46.69,2:01:50.16,*Default,NTP,0000,0000,0000,,你是自愿来的吗\N{\fn微软雅黑\fs14}Do you come here willingly?
+Dialogue: 0,2:01:54.16,2:01:55.84,*Default,NTP,0000,0000,0000,,你不能心怀一丝疑虑  苏西\N{\fn微软雅黑\fs14}You must have no doubts, Susie.
+Dialogue: 0,2:01:56.00,2:01:58.23,*Default,NTP,0000,0000,0000,,如果还有疑虑  我可以带你回去\N{\fn微软雅黑\fs14}If you do, I can take you back.
+Dialogue: 0,2:01:58.39,2:02:00.83,*Default,NTP,0000,0000,0000,,我可以让你忘掉这一切\N{\fn微软雅黑\fs14}I can take all of this from your head.
+Dialogue: 0,2:02:00.99,2:02:03.03,*Default,NTP,0000,0000,0000,,你可以忘掉一切\N{\fn微软雅黑\fs14}You can forget everything.
+Dialogue: 0,2:02:05.35,2:02:08.38,*Default,NTP,0000,0000,0000,,我想要非常纯净\N{\fn微软雅黑\fs14}I want this to be pure.
+Dialogue: 0,2:02:08.54,2:02:12.42,*Default,NTP,0000,0000,0000,,我们都知道你想要什么\N{\fn微软雅黑\fs14}We all know what you want.
+Dialogue: 0,2:02:16.54,2:02:19.53,*Default,NTP,0000,0000,0000,,这不是什么浮华\N{\fn微软雅黑\fs14}This isn't vanity.
+Dialogue: 0,2:02:19.69,2:02:22.33,*Default,NTP,0000,0000,0000,,这不是\N{\fn微软雅黑\fs14}This isn't...
+Dialogue: 0,2:02:22.49,2:02:24.33,*Default,NTP,0000,0000,0000,,艺术\N{\fn微软雅黑\fs14}art!
+Dialogue: 0,2:02:26.41,2:02:28.40,*Default,NTP,0000,0000,0000,,有点不对劲\N{\fn微软雅黑\fs14}There is something wrong here.
+Dialogue: 0,2:02:28.56,2:02:29.64,*Default,NTP,0000,0000,0000,,你感觉不到吗\N{\fn微软雅黑\fs14}Can you not feel it?
+Dialogue: 0,2:02:29.80,2:02:31.72,*Default,NTP,0000,0000,0000,,不对劲\N{\fn微软雅黑\fs14}This is not right.
+Dialogue: 0,2:02:31.88,2:02:33.00,*Default,NTP,0000,0000,0000,,我们得停下来\N{\fn微软雅黑\fs14}We have to stop this now.
+Dialogue: 0,2:02:33.16,2:02:35.72,*Default,NTP,0000,0000,0000,,我们已经\N{\fn微软雅黑\fs14}We have been on
+Dialogue: 0,2:02:35.88,2:02:37.83,*Default,NTP,0000,0000,0000,,分裂了\N{\fn微软雅黑\fs14}two sides of this
+Dialogue: 0,2:02:37.99,2:02:39.75,*Default,NTP,0000,0000,0000,,太久\N{\fn微软雅黑\fs14}for too long now.
+Dialogue: 0,2:02:39.91,2:02:42.35,*Default,NTP,0000,0000,0000,,马科斯  马科斯  马科斯\N{\fn微软雅黑\fs14}Markos! Markos! Markos!
+Dialogue: 0,2:02:42.51,2:02:46.03,*Default,NTP,0000,0000,0000,,马科斯  马科斯  马科斯  马科斯\N{\fn微软雅黑\fs14}Markos! Markos! Markos! Markos!
+Dialogue: 0,2:02:46.19,2:02:48.46,*Default,NTP,0000,0000,0000,,马科斯  马科斯  马科斯\N{\fn微软雅黑\fs14}Markos! Markos! Markos!
+Dialogue: 0,2:02:48.62,2:02:50.22,*Default,NTP,0000,0000,0000,,马科斯  马科斯\N{\fn微软雅黑\fs14}Markos! Markos!
+Dialogue: 0,2:02:50.38,2:02:52.50,*Default,NTP,0000,0000,0000,,马科斯  马科斯  马科斯\N{\fn微软雅黑\fs14}Markos! Markos! Markos!
+Dialogue: 0,2:02:52.66,2:02:54.90,*Default,NTP,0000,0000,0000,,马科斯  马科斯\N{\fn微软雅黑\fs14}Markos! Markos!
+Dialogue: 0,2:03:24.79,2:03:28.18,*Default,NTP,0000,0000,0000,,如果你接受我\N{\fn微软雅黑\fs14}If you accept me,
+Dialogue: 0,2:03:28.34,2:03:33.22,*Default,NTP,0000,0000,0000,,那你必须干掉烦扰你的那个女人\N{\fn微软雅黑\fs14}you must put down the woman who bore you.
+Dialogue: 0,2:03:35.50,2:03:38.57,*Default,NTP,0000,0000,0000,,想想那个假的母亲\N{\fn微软雅黑\fs14}Think of that false mother now.
+Dialogue: 0,2:03:52.50,2:03:54.04,*Default,NTP,0000,0000,0000,,拒绝她\N{\fn微软雅黑\fs14}Reject her.
+Dialogue: 0,2:03:54.63,2:03:56.47,*Default,NTP,0000,0000,0000,,放逐她\N{\fn微软雅黑\fs14}Expel her.
+Dialogue: 0,2:04:00.10,2:04:05.90,*Default,NTP,0000,0000,0000,,你唯一需要的母亲在这里\N{\fn微软雅黑\fs14}You have the only mother you need here.
+Dialogue: 0,2:04:06.06,2:04:08.93,*Default,NTP,0000,0000,0000,,其他母亲都死\N{\fn微软雅黑\fs14}Death to any other mother.
+Dialogue: 0,2:04:09.10,2:04:09.53,*Default,NTP,0000,0000,0000,,说出来\N{\fn微软雅黑\fs14}Say it.
+Dialogue: 0,2:04:10.89,2:04:14.29,*Default,NTP,0000,0000,0000,,其他母亲都死\N{\fn微软雅黑\fs14}Death to any other mother.
+Dialogue: 0,2:04:43.90,2:04:45.54,*Default,NTP,0000,0000,0000,,你是谁\N{\fn微软雅黑\fs14}Who are you?
+Dialogue: 0,2:04:51.69,2:04:54.25,*Default,NTP,0000,0000,0000,,你受谁涂油\N{\fn微软雅黑\fs14}For whom were you anointed?
+Dialogue: 0,2:04:54.41,2:04:57.01,*Default,NTP,0000,0000,0000,,三个母亲中的哪一位\N{\fn微软雅黑\fs14}Which of the Three Mothers?
+Dialogue: 0,2:04:57.17,2:04:59.04,*Default,NTP,0000,0000,0000,,叹...\N{\fn微软雅黑\fs14}Mother...
+Dialogue: 0,2:05:03.80,2:05:06.72,*Default,NTP,0000,0000,0000,,叹息之母\N{\fn微软雅黑\fs14}Mother Suspiriorum.
+Dialogue: 0,2:05:09.43,2:05:11.91,*Default,NTP,0000,0000,0000,,我就是她\N{\fn微软雅黑\fs14}I am she.
+Dialogue: 0,2:05:48.84,2:05:49.83,*Default,NTP,0000,0000,0000,,字幕\N{\fn微软雅黑\fs14}Markos.
+Dialogue: 0,2:06:04.06,2:06:04.94,*Default,NTP,0000,0000,0000,,马科斯\N{\fn微软雅黑\fs14}Markos!
+Dialogue: 0,2:06:39.70,2:06:40.70,*Default,NTP,0000,0000,0000,,马科斯\N{\fn微软雅黑\fs14}Markos!
+Dialogue: 0,2:06:42.74,2:06:43.74,*Default,NTP,0000,0000,0000,,马科斯\N{\fn微软雅黑\fs14}Markos.
+Dialogue: 0,2:06:50.57,2:06:53.57,*Default,NTP,0000,0000,0000,,其他母亲都死\N{\fn微软雅黑\fs14}Death to any other mother.
+Dialogue: 0,2:06:53.73,2:06:54.85,*Default,NTP,0000,0000,0000,,马科斯\N{\fn微软雅黑\fs14}Markos.
+Dialogue: 0,2:07:01.68,2:07:02.60,*Default,NTP,0000,0000,0000,,马科斯\N{\fn微软雅黑\fs14}Markos!
+Dialogue: 0,2:07:14.43,2:07:15.11,*Default,NTP,0000,0000,0000,,马科斯\N{\fn微软雅黑\fs14}Markos!
+Dialogue: 0,2:07:22.58,2:07:23.70,*Default,NTP,0000,0000,0000,,马科斯\N{\fn微软雅黑\fs14}Markos!
+Dialogue: 0,2:08:10.45,2:08:14.93,*Default,NTP,0000,0000,0000,,我是母亲\N{\fn微软雅黑\fs14}I am the Mother.
+Dialogue: 0,2:08:35.51,2:08:37.83,*Default,NTP,0000,0000,0000,,你想要什么\N{\fn微软雅黑\fs14}What do you ask?
+Dialogue: 0,2:08:37.99,2:08:39.26,*Default,NTP,0000,0000,0000,,死\N{\fn微软雅黑\fs14}To die.
+Dialogue: 0,2:08:43.38,2:08:45.34,*Default,NTP,0000,0000,0000,,母亲\N{\fn微软雅黑\fs14}Mother.
+Dialogue: 0,2:08:45.50,2:08:47.10,*Default,NTP,0000,0000,0000,,母亲  我们好累\N{\fn微软雅黑\fs14}Mother, we're so tired.
+Dialogue: 0,2:08:54.89,2:08:56.73,*Default,NTP,0000,0000,0000,,你想要什么\N{\fn微软雅黑\fs14}What do you ask?
+Dialogue: 0,2:08:56.89,2:08:58.96,*Default,NTP,0000,0000,0000,,死\N{\fn微软雅黑\fs14}To die.
+Dialogue: 0,2:08:59.12,2:09:00.48,*Default,NTP,0000,0000,0000,,我想要死\N{\fn微软雅黑\fs14}I want to die.
+Dialogue: 0,2:09:09.83,2:09:11.27,*Default,NTP,0000,0000,0000,,可爱的女孩\N{\fn微软雅黑\fs14}Sweet girl.
+Dialogue: 0,2:09:13.47,2:09:15.07,*Default,NTP,0000,0000,0000,,你想要什么\N{\fn微软雅黑\fs14}What do you ask?
+Dialogue: 0,2:09:18.66,2:09:19.58,*Default,NTP,0000,0000,0000,,死\N{\fn微软雅黑\fs14}Die.
+Dialogue: 0,2:09:42.93,2:09:44.40,*Default,NTP,0000,0000,0000,,没错\N{\fn微软雅黑\fs14}Yes.
+Dialogue: 0,2:09:45.80,2:09:48.32,*Default,NTP,0000,0000,0000,,跳吧  跳吧\N{\fn微软雅黑\fs14}Dance. Dance.
+Dialogue: 0,2:09:48.48,2:09:50.75,*Default,NTP,0000,0000,0000,,继续跳吧\N{\fn微软雅黑\fs14}Keep dancing.
+Dialogue: 0,2:09:50.91,2:09:52.47,*Default,NTP,0000,0000,0000,,真美\N{\fn微软雅黑\fs14}It's beautiful.
+Dialogue: 0,2:09:53.63,2:09:55.27,*Default,NTP,0000,0000,0000,,真美\N{\fn微软雅黑\fs14}It's beautiful.
+Dialogue: 0,2:09:56.55,2:09:58.46,*Default,NTP,0000,0000,0000,,真美\N{\fn微软雅黑\fs14}It's beautiful.
+Dialogue: 0,2:11:10.27,2:11:12.30,*Default,NTP,0000,0000,0000,,小心台阶\N{\fn微软雅黑\fs14}Watch your step.
+Dialogue: 0,2:11:14.41,2:11:16.22,*Default,NTP,0000,0000,0000,,下雪了\N{\fn微软雅黑\fs14}It's been snowing.
+Dialogue: 0,2:11:16.22,2:11:18.53,*Default,NTP,0000,0000,0000,,一切都很美\N{\fn微软雅黑\fs14}Everything is pretty.
+Dialogue: 0,2:11:18.53,2:11:22.06,*Default,NTP,0000,0000,0000,,小心  慢点\N{\fn微软雅黑\fs14}And again, slowly.
+Dialogue: 0,2:11:23.00,2:11:23.70,*Default,NTP,0000,0000,0000,,嗯\N{\fn微软雅黑\fs14}Yeah. Okay.
+Dialogue: 0,2:11:23.86,2:11:25.66,*Default,NTP,0000,0000,0000,,很好  很好\N{\fn微软雅黑\fs14}Good. Good.
+Dialogue: 0,2:11:32.88,2:11:38.40,*Default,NTP,0000,0000,0000,,晚上好  晚安\N{\fn微软雅黑\fs14}Good evening, good night,
+Dialogue: 0,2:11:38.70,2:11:43.14,*Default,NTP,0000,0000,0000,,身盖玫瑰\N{\fn微软雅黑\fs14}with roses covered
+Dialogue: 0,2:11:43.14,2:11:47.45,*Default,NTP,0000,0000,0000,,丁香环绕\N{\fn微软雅黑\fs14}with cloves adorned
+Dialogue: 0,2:11:48.37,2:11:54.49,*Default,NTP,0000,0000,0000,,进入梦乡\N{\fn微软雅黑\fs14}slip under the covers.
+Dialogue: 0,2:11:55.14,2:11:59.45,*Default,NTP,0000,0000,0000,,明天早晨  如果上帝愿意\N{\fn微软雅黑\fs14}Tomorrow morning, if God wills
+Dialogue: 0,2:11:59.86,2:12:07.94,*Default,NTP,0000,0000,0000,,一会再次醒来\N{\fn微软雅黑\fs14}you will wake once again.
+Dialogue: 0,2:12:23.17,2:12:27.38,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}尾声\N切好的梨
+Dialogue: 0,2:13:15.79,2:13:18.27,*Default,NTP,0000,0000,0000,,天啊  这一晚真是够受的\N{\fn微软雅黑\fs14}My God, what a night.
+Dialogue: 0,2:13:18.42,2:13:20.90,*Default,NTP,0000,0000,0000,,我绝对是喝太多了\N{\fn微软雅黑\fs14}I definitely drank too much wine.
+Dialogue: 0,2:13:22.22,2:13:24.37,*Default,NTP,0000,0000,0000,,坦纳和巴尔福的歌呢\N{\fn微软雅黑\fs14}And what about the song of Tanner and Balfour?
+Dialogue: 0,2:13:26.63,2:13:27.58,*Default,NTP,0000,0000,0000,,太棒了\N{\fn微软雅黑\fs14}It was fantastic!
+Dialogue: 0,2:13:34.89,2:13:36.17,*Default,NTP,0000,0000,0000,,-早上好  -早上好\N{\fn微软雅黑\fs14}- Bonjour. - Bonjour.
+Dialogue: 0,2:13:36.17,2:13:37.51,*Default,NTP,0000,0000,0000,,我很喜欢\N{\fn微软雅黑\fs14}Yes, I adore it!
+Dialogue: 0,2:13:40.40,2:13:42.36,*Default,NTP,0000,0000,0000,,-早上好  -早上好\N{\fn微软雅黑\fs14}- Guten Morgen. - Morning.
+Dialogue: 0,2:13:42.52,2:13:43.64,*Default,NTP,0000,0000,0000,,早上好\N{\fn微软雅黑\fs14}Good morning.
+Dialogue: 0,2:13:44.35,2:13:47.42,*Default,NTP,0000,0000,0000,,女孩们  听好了\N{\fn微软雅黑\fs14}Girls, I need you to listen.
+Dialogue: 0,2:13:47.42,2:13:52.36,*Default,NTP,0000,0000,0000,,我有个坏消息  希望你们听到时要坚强\N{\fn微软雅黑\fs14}I have such a sad news and I want you to be brave when you hear it.
+Dialogue: 0,2:13:52.36,2:13:54.66,*Default,NTP,0000,0000,0000,,布兰克夫人离开了舞团\N{\fn微软雅黑\fs14}Madame Blanc has left the company.
+Dialogue: 0,2:14:39.51,2:14:44.54,*Default,NTP,0000,0000,0000,,{\an8\bord1\fs18\b1}雅利安报
+Dialogue: 0,2:15:12.40,2:15:14.56,*Default,NTP,0000,0000,0000,,这样不行  医生\N{\fn微软雅黑\fs14}This is not the way to do it, Doctor.
+Dialogue: 0,2:15:14.56,2:15:17.03,*Default,NTP,0000,0000,0000,,我差点报警\N{\fn微软雅黑\fs14}I nearly called the police myself.
+Dialogue: 0,2:15:17.03,2:15:19.36,*Default,NTP,0000,0000,0000,,你不舒服  我知道\N{\fn微软雅黑\fs14}You haven't been well, I know.
+Dialogue: 0,2:15:24.44,2:15:27.03,*Default,NTP,0000,0000,0000,,你是谁  你怎么进来的\N{\fn微软雅黑\fs14}Who are you? How did you get in here?
+Dialogue: 0,2:15:27.03,2:15:28.64,*Default,NTP,0000,0000,0000,,到外面等\N{\fn微软雅黑\fs14}Wait outside.
+Dialogue: 0,2:15:54.31,2:15:56.71,*Default,NTP,0000,0000,0000,,我对我女儿们对你所做之事而感到懊悔\N{\fn微软雅黑\fs14}I regret what my daughters did to you.
+Dialogue: 0,2:15:59.06,2:16:01.06,*Default,NTP,0000,0000,0000,,我当时没有阻止她们\N{\fn微软雅黑\fs14}I wasn't in a position to prevent it.
+Dialogue: 0,2:16:06.18,2:16:08.53,*Default,NTP,0000,0000,0000,,我认为你应该知道真相\N{\fn微软雅黑\fs14}I believe you deserve to know the truth.
+Dialogue: 0,2:16:17.40,2:16:21.84,*Default,NTP,0000,0000,0000,,你妻子当时是想往南\N{\fn微软雅黑\fs14}Your wife did try to make it south
+Dialogue: 0,2:16:22.00,2:16:23.44,*Default,NTP,0000,0000,0000,,逃往特普利斯\N{\fn微软雅黑\fs14}to Teplice.
+Dialogue: 0,2:16:25.44,2:16:29.23,*Default,NTP,0000,0000,0000,,她在格拉苏蒂外的树林里\N{\fn微软雅黑\fs14}She was apprehended by border guards
+Dialogue: 0,2:16:29.39,2:16:32.39,*Default,NTP,0000,0000,0000,,被边境警察抓住\N{\fn微软雅黑\fs14}in the woods just outside of Glashuütte.
+Dialogue: 0,2:16:35.59,2:16:40.38,*Default,NTP,0000,0000,0000,,带到了特莱西恩施塔特集中营\N{\fn微软雅黑\fs14}She was then taken to Theresienstadt camp.
+Dialogue: 0,2:16:42.98,2:16:45.34,*Default,NTP,0000,0000,0000,,她在那儿过了20天\N{\fn微软雅黑\fs14}She lived there for 20 days.
+Dialogue: 0,2:16:47.17,2:16:52.01,*Default,NTP,0000,0000,0000,,在1943年11月11日\N{\fn微软雅黑\fs14}On the 11th of November, 1943,
+Dialogue: 0,2:16:52.17,2:16:56.25,*Default,NTP,0000,0000,0000,,营地指挥官  一个叫伯格的人\N{\fn微软雅黑\fs14}the commandant of the camp, a man named Burger...
+Dialogue: 0,2:16:57.76,2:17:00.48,*Default,NTP,0000,0000,0000,,命令所有四万名囚犯\N{\fn微软雅黑\fs14}...ordered all 40,000 detained there
+Dialogue: 0,2:17:00.64,2:17:05.12,*Default,NTP,0000,0000,0000,,站在冷风中进行人数清点\N{\fn微软雅黑\fs14}stand outside in the cold for a census.
+Dialogue: 0,2:17:11.03,2:17:12.99,*Default,NTP,0000,0000,0000,,过去了一个又一个小时\N{\fn微软雅黑\fs14}Hours and hours passed.
+Dialogue: 0,2:17:16.70,2:17:18.70,*Default,NTP,0000,0000,0000,,有几百人被冻死\N{\fn微软雅黑\fs14}Some hundreds died of exposure.
+Dialogue: 0,2:17:27.49,2:17:29.93,*Default,NTP,0000,0000,0000,,你妻子在死时和另外两名女人在一起\N{\fn微软雅黑\fs14}Your wife had two women with her as she died.
+Dialogue: 0,2:17:32.29,2:17:35.73,*Default,NTP,0000,0000,0000,,她和她们成为了朋友\N{\fn微软雅黑\fs14}Women she had befriended,
+Dialogue: 0,2:17:35.89,2:17:38.44,*Default,NTP,0000,0000,0000,,让她感觉没有那么孤单\N{\fn微软雅黑\fs14}who made her feel that she was not alone.
+Dialogue: 0,2:17:45.56,2:17:49.11,*Default,NTP,0000,0000,0000,,她最后的念头\N{\fn微软雅黑\fs14}Her final thoughts...
+Dialogue: 0,2:17:49.27,2:17:52.67,*Default,NTP,0000,0000,0000,,是一次生日\N{\fn微软雅黑\fs14}were of a birthday
+Dialogue: 0,2:17:52.83,2:17:56.62,*Default,NTP,0000,0000,0000,,你带她去一场音乐会  给了她一个惊喜\N{\fn微软雅黑\fs14}when you took her to a concert as a surprise.
+Dialogue: 0,2:17:56.78,2:17:59.22,*Default,NTP,0000,0000,0000,,肖邦和勃拉姆斯\N{\fn微软雅黑\fs14}Chopin and Brahms.
+Dialogue: 0,2:18:03.54,2:18:05.66,*Default,NTP,0000,0000,0000,,这是你第一次握住她的手\N{\fn微软雅黑\fs14}It was the first time you held her hand.
+Dialogue: 0,2:18:11.53,2:18:14.17,*Default,NTP,0000,0000,0000,,她死时很冷\N{\fn微软雅黑\fs14}She was cold when she died.
+Dialogue: 0,2:18:17.52,2:18:18.96,*Default,NTP,0000,0000,0000,,但她不害怕\N{\fn微软雅黑\fs14}But she wasn't afraid.
+Dialogue: 0,2:18:23.36,2:18:25.48,*Default,NTP,0000,0000,0000,,她只想着你\N{\fn微软雅黑\fs14}She was thinking only of you.
+Dialogue: 0,2:18:44.26,2:18:46.06,*Default,NTP,0000,0000,0000,,安科·梅尔\N{\fn微软雅黑\fs14}Of Anke Meier...
+Dialogue: 0,2:18:48.41,2:18:50.05,*Default,NTP,0000,0000,0000,,帕特里夏·亨格尔\N{\fn微软雅黑\fs14}...of Patricia Hingle...
+Dialogue: 0,2:18:51.69,2:18:53.33,*Default,NTP,0000,0000,0000,,莎拉·希姆斯\N{\fn微软雅黑\fs14}...of Sara Simms...
+Dialogue: 0,2:18:57.16,2:19:00.44,*Default,NTP,0000,0000,0000,,苏珊娜·班尼恩\N{\fn微软雅黑\fs14}...of Susanna Bannion,
+Dialogue: 0,2:19:00.60,2:19:03.80,*Default,NTP,0000,0000,0000,,你所有未能解救的女人\N{\fn微软雅黑\fs14}of all the women of your undoing...
+Dialogue: 0,2:19:06.71,2:19:09.31,*Default,NTP,0000,0000,0000,,所有记忆都会消失\N{\fn微软雅黑\fs14}...every memory will vanish.
+Dialogue: 0,2:19:13.43,2:19:16.82,*Default,NTP,0000,0000,0000,,都会在阳光下融化\N{\fn微软雅黑\fs14}They will melt away in the sun
+Dialogue: 0,2:19:16.98,2:19:18.14,*Default,NTP,0000,0000,0000,,然后消失\N{\fn微软雅黑\fs14}and be gone.
+Dialogue: 0,2:19:25.53,2:19:26.84,*Default,NTP,0000,0000,0000,,医生\N{\fn微软雅黑\fs14}Doctor.
+Dialogue: 0,2:19:21.04,2:19:25.12,*Default,NTP,0000,0000,0000,,我们需要罪恶\N{\fn微软雅黑\fs14}We need guilt,
+Dialogue: 0,2:19:29.31,2:19:30.52,*Default,NTP,0000,0000,0000,,还有羞耻\N{\fn微软雅黑\fs14}And shame.
+Dialogue: 0,2:19:31.71,2:19:33.76,*Default,NTP,0000,0000,0000,,但不是你的\N{\fn微软雅黑\fs14}But not yours.
+Dialogue: 0,2:19:46.95,2:19:48.71,*Default,NTP,0000,0000,0000,,医生\N{\fn微软雅黑\fs14}Herr Doktor.
+Dialogue: 0,2:19:48.87,2:19:51.39,*Default,NTP,0000,0000,0000,,医生\N{\fn微软雅黑\fs14}Herr Doktor.
+Dialogue: 0,2:20:01.12,2:20:03.04,*Default,NTP,0000,0000,0000,,你是谁\N{\fn微软雅黑\fs14}Who are you?
+Dialogue: 0,2:20:03.07,2:20:04.79,*Default,NTP,0000,0000,0000,,西萨姆小姐\N{\fn微软雅黑\fs14}Miss Sesame!
+Dialogue: 0,2:20:07.03,2:20:08.36,*Default,NTP,0000,0000,0000,,-是吗  -是的\N{\fn微软雅黑\fs14}-Ja? -Ja.
+
